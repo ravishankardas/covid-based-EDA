@@ -1,49 +1,27 @@
-HOW TO RUN:
-(this assignment has these dependancies which are pandas, numpy ,openpyxl,so make sure they are installed)
-put the folder assignment1 on desktop
-open assign1.sh file,in the file there will be 9 cd commands each having [putYourComputersName] as a part,  replace them with your computers name and remove the brackets , then save and close it
-now open a terminal while in the assignment1 folder then type ./assign1
-(now if it shows permission denied then type  chmod +x assign1(this will make the file executable)
-then type ./assign1 in the terminal and it should run)
-this command will run all the files and the csv's will be saved in their respective folders
-(i've put each question in separate folders and all the required files is also in their respective folders so no clutter is formed)
-i've also included scripts in each folder ,so to run the files in any any specific folder cd into that folder and run the script file by typing the name of the script file after ./ in terminal,
-the resultant csv's will be saved in the current folder
+Dependencies:
+This project has these dependancies which are pandas, numpy ,openpyxl,so make sure they are installed
+
+
+content:
+
+1) Modify the neighbor districts data according to the districts found from the Covid19 portal. A neighbor of a larger district is a combination of all the neighbors of its components. Output the new data as neighbor-districts-modified.json. Use the state code and district codes from vaccination data as their ids. Arrange all the district and state keys in alphabetical order. Only include common districts from vaccination data and covid data.
+
+2)  Construct an undirected graph of districts out of this new file. In the graph, every district is a node. A district node is connected by an edge to every adjacent district of it, and vice-versa.
+
+3) For every district i, find the number of cases from the Covid-19 portal. Take the time-period of analysis from 15th March, 2020 to 14th August, 2021.
+
+4)For every district, state and overall, find the week and month having peak (highest) number of active cases for wave-1 and wave-2.
+
+5) Find the number of people vaccinated with 1 or 2 doses of any vaccine.
+
+6) For each state, district and overall, find the following ratios: total number of females vaccinated (either 1 or 2 doses) to total number of males vaccinated (same). For that
+district/state/country, find the ratio of population of females to males. (If a district is absent in 2011 census, drop it from analysis.) Now find the ratio of the two ratios, i.e., vaccination ratio to population ratio.
+
+7) For each state, district and overall, find the following ratios: total number of Covishield vaccinated persons (either 1 or 2 doses) to total number of Covaxin vaccinated persons(same).
+
+8) For each state, district and overall, find the following ratio: total number of persons vaccinated (both 1 and 2 doses) to total population. (If a district is absent in 2011 census, drop it from analysis.)
  
-
-
-
-CONTENTS:
-1) this folder has a neighbor.sh file which runs the neighbor.py file which uses cowin_vaccine_data_districtwise.csv and neighbor-districts.json
-   when you run the sh file it should create a new json file with the said modification and will be named neighbor-districts-modified.json.
-
-2) this folder has a edge-generator.sh file which runs the edge-generator.py file which uses the neighbor-districts-modified.json from the previous question , run the sh file and you should get 
-   edge-graph.csv.
-
-3) this folder has a case_generator.sh which runs case_generator.py file which uses neighbor-districts-modified.json , districts.csv, cowin_vaccine_data_districtwise.csv, when you run the sh file you should get three csv files named cases-week.csv , cases-month.csv and cases-overall.csv.
-
-4) this folder has a peaks-generator.sh which runs peaks-generator.py file which uses neighbor-districts-modified.json, districts.csv, distkeytodisrtname.csv(i have made this as a helper file which maps districtid to district names),when you run the sh file you should get three csv files named peaks_district.csv , peaks_months.csv and peaks_overall.csv.
-
-5) this folder has a vaccinated-count-generator.sh file whic runs vaccinated-count-generator-district.py file which uses cowin_vaccine_data_districtwise.csv, helper.csv(which this code use for the distinct disrtrict names) and vaccinated-count-generator-state-overall-sh.ipynb which uses cowin_vaccine_data_districtwise.csv,after running the sh file you should get six csv's named vaccinated-count-district-overall.csv (i've replaced the inf's with NaN which might not show in the csv file), vaccinated-count-district-weekly.csv, vaccinated-count-district-monthly.csv,vaccinated-count-state.csv,vaccinated-count-state-monthly.csv,vaccinated-count-state-weekly.csv.
-   
-6) this folder has a vaccination-population-ratio-generator.sh file whic runs the vaccination-population-ratio-generator.py file which uses cowin_vaccine_data_districtwise.csv and DDW_PCA0000_2011_Indiastatedist.xlsx, upon running the sh file you should get three files csv files namely vaccination-population-ratio-districts.csv , vaccination-population-ratio-states.csv and vaccination-population-ratio-overall.csv.
-
-7) this folder has a vaccine-type-ratio-generator.sh file which runs the vaccine-type-ratio-generator.py file which uses cowin_vaccine_data_districtwise.csv and DDW_PCA0000_2011_Indiastatedist.xlsx, upon running the sh file you should get three csv's namely vaccine-type-ratio-generator-districts.csv , vaccine-type-ratio-generator-states.csv and vaccine-type-ratio-overall.csv
-
-8) this folder has a vaccinated-ratio-generator.sh file which runs the vaccinated-ratio-generator.py file which uses cowin_vaccine_data_districtwise.csv and DDW_PCA0000_2011_Indiastatedist.xlsx, upon running the sh file you should get three csv's files namely vaccinated-dose-ratio-state.csv , vaccinated-dose-ratio-district.csv and vaccinated-dose-ratio-overall.csv
-
-9) this folder has a complete-vaccination-generator.sh file which runs the complete-vaccination-generator.py file which uses cowin_vaccine_data_districtwise.csv and DDW_PCA0000_2011_Indiastatedist.xlsx, upon running the sh file you should get complete-vaccination.csv
-
-
-
-
-
-
-
-
-
-
-
+ 9) For every state, find the date on which the entire population will get at least one does of vaccination. Assume the same rate of vaccination as in the week ending on 14th Aug, 2021. (Do not treat children separately, and assume the same rate of vaccination.)
 
 
 
