@@ -1,0 +1,718 @@
+,districtid,timeid,dose1,dose2
+0,AN_Nicobars,week,736.0,271.0
+1,AN_North and Middle Andaman,week,2268.0,977.0
+2,AN_South Andaman,week,4752.0,1997.0
+3,AP_Anantapur,week,45469.0,19912.0
+4,AP_Chittoor,week,52172.0,21363.0
+5,AP_East Godavari,week,64215.0,18416.0
+6,AP_Guntur,week,58607.0,19749.0
+7,AP_Krishna,week,58537.0,18587.0
+8,AP_Kurnool,week,41415.0,16421.0
+9,AP_Prakasam,week,41057.0,17194.0
+10,AP_S.P.S. Nellore,week,38593.0,17623.0
+11,AP_Srikakulam,week,34280.0,11233.0
+12,AP_Visakhapatnam,week,62501.0,20772.0
+13,AP_Vizianagaram,week,30694.0,7334.0
+14,AP_West Godavari,week,54744.0,14399.0
+15,AP_Y.S.R. Kadapa,week,34774.0,13176.0
+16,AR_Anjaw,week,364.0,85.0
+17,AR_Changlang,week,2519.0,564.0
+18,AR_East Kameng,week,680.0,207.0
+19,AR_East Siang,week,1710.0,536.0
+20,AR_Kamle,week,206.0,52.0
+21,AR_Kra Daadi,week,194.0,59.0
+22,AR_Kurung Kumey,week,285.0,95.0
+23,AR_Lepa Rada,week,431.0,166.0
+24,AR_Lohit,week,929.0,224.0
+25,AR_Longding,week,598.0,109.0
+26,AR_Lower Dibang Valley,week,990.0,271.0
+27,AR_Lower Siang,week,523.0,153.0
+28,AR_Lower Subansiri,week,826.0,272.0
+29,AR_Namsai,week,1927.0,421.0
+30,AR_Pakke Kessang,week,255.0,100.0
+31,AR_Papum Pare,week,941.0,325.0
+32,AR_Siang,week,462.0,143.0
+33,AR_Tawang,week,922.0,306.0
+34,AR_Tirap,week,967.0,188.0
+35,AR_Upper Dibang Valley,week,130.0,42.0
+36,AR_Upper Siang,week,582.0,212.0
+37,AR_Upper Subansiri,week,769.0,243.0
+38,AR_West Kameng,week,1662.0,457.0
+39,AR_West Siang,week,1088.0,411.0
+40,AS_Baksa,week,8793.0,1444.0
+41,AS_Barpeta,week,16784.0,4443.0
+42,AS_Biswanath,week,11401.0,1698.0
+43,AS_Bongaigaon,week,8986.0,1904.0
+44,AS_Cachar,week,16300.0,3371.0
+45,AS_Charaideo,week,6662.0,1057.0
+46,AS_Chirang,week,5043.0,1092.0
+47,AS_Darrang,week,9357.0,1916.0
+48,AS_Dhemaji,week,9307.0,1882.0
+49,AS_Dhubri,week,10954.0,2460.0
+50,AS_Dibrugarh,week,18547.0,4618.0
+51,AS_Dima Hasao,week,2730.0,721.0
+52,AS_Goalpara,week,9779.0,1785.0
+53,AS_Golaghat,week,16307.0,2959.0
+54,AS_Hailakandi,week,7852.0,1465.0
+55,AS_Hojai,week,10230.0,2296.0
+56,AS_Jorhat,week,16767.0,3338.0
+57,AS_Kamrup,week,20265.0,4808.0
+58,AS_Kamrup Metropolitan,week,34062.0,10413.0
+59,AS_Karbi Anglong,week,4997.0,1242.0
+60,AS_Karimganj,week,9447.0,2017.0
+61,AS_Kokrajhar,week,8707.0,1705.0
+62,AS_Lakhimpur,week,14588.0,2397.0
+63,AS_Majuli,week,3403.0,946.0
+64,AS_Morigaon,week,11788.0,1706.0
+65,AS_Nagaon,week,20244.0,4410.0
+66,AS_Nalbari,week,8884.0,1712.0
+67,AS_Sivasagar,week,11625.0,2185.0
+68,AS_Sonitpur,week,18992.0,4520.0
+69,AS_South Salmara Mankachar,week,4903.0,283.0
+70,AS_Tinsukia,week,13401.0,2731.0
+71,AS_Udalguri,week,7394.0,1484.0
+72,AS_West Karbi Anglong,week,2473.0,438.0
+73,BR_Araria,week,18903.0,3461.0
+74,BR_Arwal,week,7130.0,950.0
+75,BR_Aurangabad,week,18045.0,2379.0
+76,BR_Banka,week,16250.0,2592.0
+77,BR_Begusarai,week,23794.0,3751.0
+78,BR_Bhagalpur,week,29798.0,5700.0
+79,BR_Bhojpur,week,19869.0,3319.0
+80,BR_Buxar,week,13735.0,2527.0
+81,BR_Darbhanga,week,32572.0,6188.0
+82,BR_East Champaran,week,39414.0,6928.0
+83,BR_Gaya,week,31862.0,6748.0
+84,BR_Gopalganj,week,17844.0,2819.0
+85,BR_Jamui,week,12836.0,1983.0
+86,BR_Jehanabad,week,9431.0,1774.0
+87,BR_Kaimur,week,11447.0,1525.0
+88,BR_Katihar,week,20870.0,3000.0
+89,BR_Khagaria,week,12224.0,1893.0
+90,BR_Kishanganj,week,11211.0,1676.0
+91,BR_Lakhisarai,week,7364.0,1131.0
+92,BR_Madhepura,week,13780.0,2345.0
+93,BR_Madhubani,week,31605.0,6223.0
+94,BR_Munger,week,12734.0,2149.0
+95,BR_Muzaffarpur,week,35585.0,6450.0
+96,BR_Nalanda,week,25655.0,5662.0
+97,BR_Nawada,week,16240.0,2820.0
+98,BR_Patna,week,83669.0,28528.0
+99,BR_Purnia,week,27650.0,5443.0
+100,BR_Rohtas,week,22435.0,3669.0
+101,BR_Saharsa,week,14192.0,2583.0
+102,BR_Samastipur,week,32126.0,5871.0
+103,BR_Saran,week,34466.0,7100.0
+104,BR_Sheikhpura,week,5549.0,996.0
+105,BR_Sheohar,week,5640.0,1268.0
+106,BR_Sitamarhi,week,24091.0,4038.0
+107,BR_Siwan,week,30293.0,6035.0
+108,BR_Supaul,week,15240.0,2616.0
+109,BR_Vaishali,week,26192.0,4572.0
+110,BR_West Champaran,week,27055.0,3284.0
+111,CH_Chandigarh,week,24448.0,8146.0
+112,CT_Balod,week,11348.0,3485.0
+113,CT_Baloda Bazar,week,11537.0,2823.0
+114,CT_Balrampur,week,6489.0,1332.0
+115,CT_Bametara,week,5948.0,1497.0
+116,CT_Bastar,week,8989.0,2362.0
+117,CT_Bijapur,week,2647.0,936.0
+118,CT_Bilaspur,week,19204.0,6414.0
+119,CT_Dakshin Bastar Dantewada,week,3722.0,1174.0
+120,CT_Dhamtari,week,10348.0,3047.0
+121,CT_Durg,week,20404.0,8622.0
+122,CT_Gariaband,week,5575.0,1309.0
+123,CT_Gaurela Pendra Marwahi,week,3687.0,761.0
+124,CT_Janjgir Champa,week,14991.0,4391.0
+125,CT_Jashpur,week,8722.0,2171.0
+126,CT_Kabeerdham,week,8535.0,2108.0
+127,CT_Kondagaon,week,5671.0,1092.0
+128,CT_Korba,week,13935.0,4112.0
+129,CT_Koriya,week,6065.0,1591.0
+130,CT_Mahasamund,week,15406.0,4818.0
+131,CT_Mungeli,week,6478.0,1669.0
+132,CT_Narayanpur,week,1159.0,400.0
+133,CT_Raigarh,week,30024.0,9021.0
+134,CT_Raipur,week,38547.0,13167.0
+135,CT_Rajnandgaon,week,22810.0,5700.0
+136,CT_Sukma,week,3540.0,1112.0
+137,CT_Surajpur,week,7644.0,1640.0
+138,CT_Surguja,week,11136.0,3385.0
+139,CT_Uttar Bastar Kanker,week,8174.0,2404.0
+140,DL_Central Delhi,week,27281.0,10261.0
+141,DL_East Delhi,week,21339.0,7974.0
+142,DL_New Delhi,week,21599.0,10671.0
+143,DL_North Delhi,week,22145.0,7561.0
+144,DL_North East Delhi,week,17397.0,5492.0
+145,DL_North West Delhi,week,31937.0,12939.0
+146,DL_Shahdara,week,18761.0,7332.0
+147,DL_South Delhi,week,30163.0,11453.0
+148,DL_South East Delhi,week,26230.0,10304.0
+149,DL_South West Delhi,week,30119.0,12204.0
+150,DL_West Delhi,week,28027.0,12647.0
+151,DN_Dadra and Nagar Haveli,week,11654.0,1384.0
+152,DN_Daman,week,7026.0,1176.0
+153,DN_Diu,week,1264.0,455.0
+154,GA_North Goa,week,17608.0,5277.0
+155,GA_South Goa,week,19484.0,5721.0
+156,GJ_Ahmedabad,week,109030.0,33923.0
+157,GJ_Amreli,week,20456.0,7398.0
+158,GJ_Anand,week,31394.0,10019.0
+159,GJ_Aravalli,week,16223.0,6042.0
+160,GJ_Banaskantha,week,45060.0,16307.0
+161,GJ_Bharuch,week,27600.0,7439.0
+162,GJ_Bhavnagar,week,11106.0,4424.0
+163,GJ_Botad,week,9979.0,2066.0
+164,GJ_Chhota Udaipur,week,14397.0,5125.0
+165,GJ_Dahod,week,24458.0,11840.0
+166,GJ_Dang,week,2323.0,595.0
+167,GJ_Devbhumi Dwarka,week,13588.0,4566.0
+168,GJ_Gandhinagar,week,20107.0,5203.0
+169,GJ_Gir Somnath,week,17966.0,4854.0
+170,GJ_Jamnagar,week,11311.0,3822.0
+171,GJ_Junagadh,week,19400.0,6438.0
+172,GJ_Kheda,week,29641.0,8917.0
+173,GJ_Kutch,week,31320.0,8858.0
+174,GJ_Mahisagar,week,14719.0,7388.0
+175,GJ_Mehsana,week,32339.0,11897.0
+176,GJ_Morbi,week,14426.0,3447.0
+177,GJ_Narmada,week,9770.0,3937.0
+178,GJ_Navsari,week,21188.0,7645.0
+179,GJ_Panchmahal,week,22648.0,7434.0
+180,GJ_Patan,week,18999.0,6093.0
+181,GJ_Porbandar,week,10674.0,4304.0
+182,GJ_Rajkot,week,31207.0,10910.0
+183,GJ_Sabarkantha,week,23340.0,7190.0
+184,GJ_Surat,week,83128.0,26085.0
+185,GJ_Surendranagar,week,25120.0,4486.0
+186,GJ_Tapi,week,12018.0,3600.0
+187,GJ_Vadodara,week,28425.0,7485.0
+188,GJ_Valsad,week,25421.0,8974.0
+189,HP_Chamba,week,10167.0,2748.0
+190,HP_Kangra,week,35413.0,11084.0
+191,HP_Kinnaur,week,2468.0,765.0
+192,HP_Kullu,week,9854.0,2913.0
+193,HP_Mandi,week,22936.0,7791.0
+194,HP_Shimla,week,18722.0,6306.0
+195,HP_Sirmaur,week,10920.0,2479.0
+196,HP_Solan,week,18794.0,4028.0
+197,HP_Una,week,13226.0,4239.0
+198,HR_Ambala,week,21627.0,8558.0
+199,HR_Bhiwani,week,14048.0,3436.0
+200,HR_Charkhi Dadri,week,10260.0,2946.0
+201,HR_Faridabad,week,34638.0,10379.0
+202,HR_Fatehabad,week,10883.0,2747.0
+203,HR_Gurugram,week,51476.0,17256.0
+204,HR_Hisar,week,16693.0,4009.0
+205,HR_Jhajjar,week,12993.0,3594.0
+206,HR_Jind,week,11275.0,2710.0
+207,HR_Kaithal,week,11156.0,2731.0
+208,HR_Karnal,week,18272.0,6411.0
+209,HR_Kurukshetra,week,11591.0,3563.0
+210,HR_Mahendragarh,week,12008.0,3550.0
+211,HR_Nuh,week,5174.0,825.0
+212,HR_Palwal,week,11642.0,2467.0
+213,HR_Panchkula,week,11314.0,4212.0
+214,HR_Panipat,week,11992.0,3731.0
+215,HR_Rewari,week,11872.0,4220.0
+216,HR_Rohtak,week,12845.0,3898.0
+217,HR_Sirsa,week,14566.0,4090.0
+218,HR_Sonipat,week,19189.0,6378.0
+219,HR_Yamunanagar,week,14151.0,4684.0
+220,JH_Bokaro,week,15603.0,4811.0
+221,JH_Chatra,week,8838.0,1493.0
+222,JH_Deoghar,week,12790.0,2609.0
+223,JH_Dhanbad,week,20150.0,6750.0
+224,JH_Dumka,week,12008.0,2402.0
+225,JH_East Singhbhum,week,25695.0,9052.0
+226,JH_Garhwa,week,9801.0,1995.0
+227,JH_Giridih,week,19214.0,3268.0
+228,JH_Godda,week,12708.0,2171.0
+229,JH_Gumla,week,9278.0,2067.0
+230,JH_Hazaribagh,week,16566.0,3772.0
+231,JH_Jamtara,week,7963.0,1733.0
+232,JH_Khunti,week,5105.0,1500.0
+233,JH_Koderma,week,8799.0,1655.0
+234,JH_Latehar,week,5673.0,1146.0
+235,JH_Lohardaga,week,4560.0,933.0
+236,JH_Pakur,week,7847.0,1323.0
+237,JH_Palamu,week,17000.0,3691.0
+238,JH_Ramgarh,week,9086.0,2386.0
+239,JH_Ranchi,week,27514.0,8778.0
+240,JH_Sahibganj,week,8796.0,1452.0
+241,JH_Saraikela-Kharsawan,week,9226.0,2256.0
+242,JH_Simdega,week,6571.0,1138.0
+243,JH_West Singhbhum,week,12449.0,2793.0
+244,JK_Anantnag,week,12450.0,3229.0
+245,JK_Bandipora,week,4979.0,1334.0
+246,JK_Baramulla,week,13898.0,3946.0
+247,JK_Budgam,week,10202.0,3261.0
+248,JK_Doda,week,6715.0,1435.0
+249,JK_Ganderbal,week,4623.0,1421.0
+250,JK_Jammu,week,23549.0,10859.0
+251,JK_Kathua,week,10186.0,2741.0
+252,JK_Kishtwar,week,3471.0,999.0
+253,JK_Kulgam,week,7085.0,2027.0
+254,JK_Kupwara,week,12000.0,2054.0
+255,JK_Pulwama,week,8319.0,2355.0
+256,JK_Punch,week,8450.0,1501.0
+257,JK_Rajouri,week,10366.0,1953.0
+258,JK_Ramban,week,5480.0,1616.0
+259,JK_Reasi,week,6089.0,1247.0
+260,JK_Samba,week,6413.0,2140.0
+261,JK_Shopiyan,week,4007.0,1415.0
+262,JK_Srinagar,week,16331.0,4282.0
+263,JK_Udhampur,week,10238.0,2643.0
+264,KA_Bagalkote,week,22204.0,6184.0
+265,KA_Ballari,week,32377.0,9428.0
+266,KA_Belagavi,week,53553.0,14709.0
+267,KA_Bengaluru Rural,week,14750.0,3945.0
+268,KA_Bengaluru Urban,week,208989.0,61057.0
+269,KA_Bidar,week,20246.0,5043.0
+270,KA_Chamarajanagara,week,13364.0,3653.0
+271,KA_Chikkaballapura,week,17080.0,5199.0
+272,KA_Chikkamagaluru,week,13004.0,5547.0
+273,KA_Chitradurga,week,20719.0,7078.0
+274,KA_Dakshina Kannada,week,33111.0,10402.0
+275,KA_Davanagere,week,20496.0,5134.0
+276,KA_Dharwad,week,24251.0,6743.0
+277,KA_Hassan,week,22881.0,7622.0
+278,KA_Haveri,week,15538.0,3868.0
+279,KA_Kalaburagi,week,24919.0,6136.0
+280,KA_Kodagu,week,7976.0,2936.0
+281,KA_Kolar,week,22842.0,5363.0
+282,KA_Koppal,week,16197.0,4574.0
+283,KA_Mandya,week,24645.0,7039.0
+284,KA_Mysuru,week,47873.0,16779.0
+285,KA_Raichur,week,19089.0,4792.0
+286,KA_Ramanagara,week,16121.0,6129.0
+287,KA_Shivamogga,week,21847.0,7078.0
+288,KA_Tumakuru,week,33858.0,9186.0
+289,KA_Udupi,week,20021.0,7355.0
+290,KA_Uttara Kannada,week,18878.0,6558.0
+291,KA_Vijayapura,week,24164.0,5990.0
+292,KA_Yadgir,week,12097.0,4092.0
+293,KL_Alappuzha,week,34246.0,14957.0
+294,KL_Ernakulam,week,74108.0,24843.0
+295,KL_Idukki,week,20730.0,7202.0
+296,KL_Kannur,week,41090.0,16823.0
+297,KL_Kasaragod,week,21442.0,9390.0
+298,KL_Kollam,week,43887.0,16855.0
+299,KL_Kottayam,week,35500.0,13979.0
+300,KL_Kozhikode,week,50209.0,19530.0
+301,KL_Malappuram,week,46420.0,18724.0
+302,KL_Palakkad,week,40306.0,14036.0
+303,KL_Pathanamthitta,week,29312.0,12736.0
+304,KL_Thiruvananthapuram,week,65188.0,24796.0
+305,KL_Thrissur,week,53465.0,21037.0
+306,KL_Wayanad,week,20092.0,7026.0
+307,LA_Kargil,week,2760.0,1000.0
+308,LA_Leh,week,3557.0,1428.0
+309,LD_Lakshadweep,week,1722.0,596.0
+310,MH_Ahmednagar,week,33715.0,13268.0
+311,MH_Akola,week,14374.0,5572.0
+312,MH_Amravati,week,23062.0,8395.0
+313,MH_Beed,week,20361.0,6354.0
+314,MH_Bhandara,week,15542.0,5126.0
+315,MH_Buldhana,week,21941.0,7646.0
+316,MH_Chandrapur,week,19383.0,5635.0
+317,MH_Dhule,week,17806.0,5637.0
+318,MH_Gadchiroli,week,9565.0,2312.0
+319,MH_Gondia,week,18537.0,4803.0
+320,MH_Hingoli,week,8154.0,1966.0
+321,MH_Jalgaon,week,27721.0,9060.0
+322,MH_Jalna,week,17468.0,5262.0
+323,MH_Kolhapur,week,42718.0,23335.0
+324,MH_Latur,week,20502.0,6768.0
+325,MH_Mumbai,week,205612.0,69186.0
+326,MH_Nagpur,week,65748.0,23286.0
+327,MH_Nanded,week,22538.0,7511.0
+328,MH_Nandurbar,week,14227.0,3617.0
+329,MH_Nashik,week,51799.0,18276.0
+330,MH_Osmanabad,week,12382.0,4173.0
+331,MH_Palghar,week,20075.0,7217.0
+332,MH_Parbhani,week,14985.0,4923.0
+333,MH_Pune,week,169896.0,59097.0
+334,MH_Raigad,week,25088.0,8196.0
+335,MH_Ratnagiri,week,13964.0,4535.0
+336,MH_Sangli,week,34062.0,14309.0
+337,MH_Satara,week,34211.0,14689.0
+338,MH_Sindhudurg,week,9721.0,3583.0
+339,MH_Solapur,week,27475.0,10045.0
+340,MH_Thane,week,96623.0,35483.0
+341,MH_Wardha,week,14800.0,4799.0
+342,MH_Washim,week,12929.0,4749.0
+343,MH_Yavatmal,week,22349.0,7219.0
+344,ML_East Garo Hills,week,1294.0,345.0
+345,ML_East Jaintia Hills,week,1787.0,441.0
+346,ML_East Khasi Hills,week,9582.0,2817.0
+347,ML_North Garo Hills,week,1719.0,372.0
+348,ML_Ribhoi,week,2649.0,573.0
+349,ML_South Garo Hills,week,1046.0,311.0
+350,ML_South West Garo Hills,week,2088.0,509.0
+351,ML_South West Khasi Hills,week,1017.0,213.0
+352,ML_West Garo Hills,week,6320.0,1554.0
+353,ML_West Jaintia Hills,week,2543.0,716.0
+354,ML_West Khasi Hills,week,2240.0,733.0
+355,MN_Bishnupur,week,4076.0,718.0
+356,MN_Chandel,week,829.0,258.0
+357,MN_Churachandpur,week,3282.0,797.0
+358,MN_Imphal East,week,7963.0,2028.0
+359,MN_Imphal West,week,9715.0,2316.0
+360,MN_Jiribam,week,838.0,126.0
+361,MN_Kakching,week,2561.0,507.0
+362,MN_Kamjong,week,320.0,57.0
+363,MN_Kangpokpi,week,1205.0,236.0
+364,MN_Noney,week,536.0,146.0
+365,MN_Pherzawl,week,351.0,108.0
+366,MN_Senapati,week,842.0,166.0
+367,MN_Tamenglong,week,614.0,165.0
+368,MN_Tengnoupal,week,778.0,170.0
+369,MN_Thoubal,week,4578.0,897.0
+370,MN_Ukhrul,week,630.0,191.0
+371,MP_Agar Malwa,week,8907.0,1201.0
+372,MP_Alirajpur,week,8112.0,1063.0
+373,MP_Anuppur,week,10076.0,1462.0
+374,MP_Ashoknagar,week,11119.0,1816.0
+375,MP_Balaghat,week,22679.0,3923.0
+376,MP_Barwani,week,15347.0,2097.0
+377,MP_Betul,week,22353.0,4465.0
+378,MP_Bhind,week,20222.0,3139.0
+379,MP_Bhopal,week,53978.0,15556.0
+380,MP_Burhanpur,week,10998.0,2717.0
+381,MP_Chhatarpur,week,21346.0,3238.0
+382,MP_Chhindwara,week,27478.0,5175.0
+383,MP_Damoh,week,17500.0,2380.0
+384,MP_Datia,week,11756.0,1868.0
+385,MP_Dewas,week,22779.0,3967.0
+386,MP_Dhar,week,26217.0,4465.0
+387,MP_Dindori,week,10314.0,1479.0
+388,MP_Guna,week,16261.0,2474.0
+389,MP_Gwalior,week,34258.0,8474.0
+390,MP_Harda,week,11364.0,1857.0
+391,MP_Hoshangabad,week,17747.0,3775.0
+392,MP_Indore,week,86968.0,23701.0
+393,MP_Jabalpur,week,43499.0,11382.0
+394,MP_Jhabua,week,11362.0,1731.0
+395,MP_Katni,week,16342.0,2663.0
+396,MP_Khandwa,week,19067.0,3127.0
+397,MP_Khargone,week,23124.0,3712.0
+398,MP_Mandla,week,12625.0,1862.0
+399,MP_Mandsaur,week,17917.0,3027.0
+400,MP_Morena,week,23182.0,3691.0
+401,MP_Narsinghpur,week,16249.0,2910.0
+402,MP_Neemuch,week,12979.0,2671.0
+403,MP_Panna,week,13023.0,1308.0
+404,MP_Raisen,week,18036.0,2730.0
+405,MP_Rajgarh,week,23043.0,3392.0
+406,MP_Ratlam,week,21178.0,4062.0
+407,MP_Rewa,week,28693.0,5618.0
+408,MP_Sagar,week,35040.0,7673.0
+409,MP_Satna,week,24582.0,4760.0
+410,MP_Sehore,week,23143.0,4457.0
+411,MP_Seoni,week,18224.0,3160.0
+412,MP_Shahdol,week,16937.0,2581.0
+413,MP_Shajapur,week,13856.0,2557.0
+414,MP_Sheopur,week,6588.0,934.0
+415,MP_Shivpuri,week,19338.0,2689.0
+416,MP_Sidhi,week,13100.0,1582.0
+417,MP_Singrauli,week,13632.0,1960.0
+418,MP_Tikamgarh,week,18166.0,3159.0
+419,MP_Ujjain,week,37052.0,8917.0
+420,MP_Umaria,week,8306.0,1155.0
+421,MP_Vidisha,week,19088.0,3383.0
+422,MZ_Aizawl,week,5977.0,2033.0
+423,MZ_Kolasib,week,1493.0,472.0
+424,MZ_Lawngtlai,week,1325.0,340.0
+425,MZ_Lunglei,week,2904.0,1026.0
+426,MZ_Mamit,week,1398.0,433.0
+427,MZ_Serchhip,week,1354.0,497.0
+428,NL_Dimapur,week,7668.0,1626.0
+429,NL_Kiphire,week,408.0,119.0
+430,NL_Kohima,week,3244.0,835.0
+431,NL_Longleng,week,660.0,202.0
+432,NL_Mokokchung,week,2173.0,725.0
+433,NL_Mon,week,2156.0,605.0
+434,NL_Peren,week,582.0,187.0
+435,NL_Phek,week,977.0,321.0
+436,NL_Tuensang,week,1154.0,317.0
+437,NL_Wokha,week,1087.0,401.0
+438,OR_Angul,week,12526.0,2761.0
+439,OR_Balangir,week,18059.0,3105.0
+440,OR_Balasore,week,22978.0,8820.0
+441,OR_Bargarh,week,14295.0,3652.0
+442,OR_Bhadrak,week,18106.0,4190.0
+443,OR_Boudh,week,4445.0,946.0
+444,OR_Cuttack,week,31006.0,9488.0
+445,OR_Deogarh,week,3899.0,766.0
+446,OR_Dhenkanal,week,13982.0,3118.0
+447,OR_Gajapati,week,6563.0,1458.0
+448,OR_Ganjam,week,50546.0,15627.0
+449,OR_Jagatsinghpur,week,10788.0,3969.0
+450,OR_Jajpur,week,18091.0,4986.0
+451,OR_Jharsuguda,week,8492.0,1869.0
+452,OR_Kalahandi,week,15372.0,4118.0
+453,OR_Kandhamal,week,7539.0,1886.0
+454,OR_Kendrapara,week,16347.0,4466.0
+455,OR_Kendujhar,week,18904.0,4069.0
+456,OR_Khordha,week,49739.0,33692.0
+457,OR_Koraput,week,17425.0,4093.0
+458,OR_Malkangiri,week,5959.0,1214.0
+459,OR_Mayurbhanj,week,22001.0,5375.0
+460,OR_Nabarangapur,week,11332.0,1962.0
+461,OR_Nayagarh,week,10717.0,2770.0
+462,OR_Nuapada,week,9028.0,1446.0
+463,OR_Puri,week,22282.0,5534.0
+464,OR_Rayagada,week,10981.0,2301.0
+465,OR_Sambalpur,week,17840.0,3726.0
+466,OR_Subarnapur,week,7989.0,1674.0
+467,OR_Sundargarh,week,22960.0,6096.0
+468,PB_Amritsar,week,20764.0,6331.0
+469,PB_Barnala,week,4616.0,1205.0
+470,PB_Bathinda,week,9978.0,2881.0
+471,PB_Faridkot,week,5600.0,1848.0
+472,PB_Fatehgarh Sahib,week,6433.0,1366.0
+473,PB_Fazilka,week,6595.0,1612.0
+474,PB_Ferozepur,week,6044.0,1546.0
+475,PB_Gurdaspur,week,17404.0,6252.0
+476,PB_Hoshiarpur,week,24235.0,7867.0
+477,PB_Jalandhar,week,27159.0,9521.0
+478,PB_Kapurthala,week,7756.0,2626.0
+479,PB_Ludhiana,week,40279.0,12850.0
+480,PB_Mansa,week,4511.0,1033.0
+481,PB_Moga,week,7912.0,1809.0
+482,PB_Pathankot,week,9137.0,2926.0
+483,PB_Patiala,week,19002.0,5319.0
+484,PB_Rupnagar,week,7432.0,1679.0
+485,PB_S.A.S. Nagar,week,21350.0,6524.0
+486,PB_Sangrur,week,9984.0,2680.0
+487,PB_Shahid Bhagat Singh Nagar,week,7092.0,2283.0
+488,PB_Sri Muktsar Sahib,week,8337.0,1809.0
+489,PB_Tarn Taran,week,8559.0,1997.0
+490,PY_Karaikal,week,3201.0,649.0
+491,PY_Mahe,week,1029.0,438.0
+492,PY_Puducherry,week,15421.0,3984.0
+493,PY_Yanam,week,886.0,172.0
+494,RJ_Ajmer,week,42001.0,13906.0
+495,RJ_Alwar,week,49006.0,17685.0
+496,RJ_Banswara,week,24163.0,6481.0
+497,RJ_Baran,week,16296.0,4255.0
+498,RJ_Barmer,week,33294.0,9649.0
+499,RJ_Bharatpur,week,32287.0,8162.0
+500,RJ_Bhilwara,week,32026.0,9424.0
+501,RJ_Bikaner,week,33381.0,11834.0
+502,RJ_Bundi,week,16362.0,5348.0
+503,RJ_Chittorgarh,week,21496.0,6203.0
+504,RJ_Churu,week,27347.0,8202.0
+505,RJ_Dausa,week,22723.0,4742.0
+506,RJ_Dholpur,week,16253.0,4096.0
+507,RJ_Dungarpur,week,18001.0,4631.0
+508,RJ_Ganganagar,week,24726.0,8900.0
+509,RJ_Hanumangarh,week,23929.0,7133.0
+510,RJ_Jaipur,week,39986.0,14077.0
+511,RJ_Jaisalmer,week,9411.0,2670.0
+512,RJ_Jalore,week,23919.0,5864.0
+513,RJ_Jhalawar,week,20465.0,4680.0
+514,RJ_Jhunjhunu,week,31758.0,11596.0
+515,RJ_Jodhpur,week,51399.0,18682.0
+516,RJ_Karauli,week,19647.0,4757.0
+517,RJ_Kota,week,29739.0,10844.0
+518,RJ_Nagaur,week,45654.0,18602.0
+519,RJ_Pali,week,26661.0,8614.0
+520,RJ_Rajsamand,week,15970.0,3832.0
+521,RJ_Sawai Madhopur,week,18054.0,4690.0
+522,RJ_Sikar,week,39293.0,14823.0
+523,RJ_Sirohi,week,14318.0,4726.0
+524,RJ_Tonk,week,20578.0,5636.0
+525,RJ_Udaipur,week,39818.0,12347.0
+526,SK_East Sikkim,week,8412.0,2673.0
+527,SK_North Sikkim,week,1057.0,320.0
+528,SK_South Sikkim,week,3893.0,1219.0
+529,SK_West Sikkim,week,3330.0,1058.0
+530,TG_Adilabad,week,3425.0,1149.0
+531,TG_Bhadradri Kothagudem,week,9048.0,2698.0
+532,TG_Hyderabad,week,85296.0,30211.0
+533,TG_Jagtial,week,7062.0,3113.0
+534,TG_Jangaon,week,3489.0,1453.0
+535,TG_Jayashankar Bhupalapally,week,4661.0,1398.0
+536,TG_Jogulamba Gadwal,week,2730.0,881.0
+537,TG_Kamareddy,week,7427.0,3096.0
+538,TG_Karimnagar,week,13303.0,5462.0
+539,TG_Khammam,week,14080.0,3502.0
+540,TG_Komaram Bheem,week,2355.0,774.0
+541,TG_Mahabubabad,week,6231.0,2202.0
+542,TG_Mahabubnagar,week,5427.0,2136.0
+543,TG_Mancherial,week,7052.0,2158.0
+544,TG_Medak,week,5849.0,1919.0
+545,TG_Medchal Malkajgiri,week,52285.0,17823.0
+546,TG_Mulugu,week,3185.0,987.0
+547,TG_Nagarkurnool,week,4826.0,1773.0
+548,TG_Nalgonda,week,11291.0,2696.0
+549,TG_Narayanpet,week,2081.0,567.0
+550,TG_Nirmal,week,5598.0,2718.0
+551,TG_Nizamabad,week,10300.0,3947.0
+552,TG_Peddapalli,week,9449.0,2536.0
+553,TG_Rajanna Sircilla,week,5175.0,2285.0
+554,TG_Ranga Reddy,week,54121.0,17940.0
+555,TG_Sangareddy,week,11817.0,3895.0
+556,TG_Siddipet,week,10039.0,3960.0
+557,TG_Suryapet,week,8491.0,2633.0
+558,TG_Vikarabad,week,4056.0,1379.0
+559,TG_Wanaparthy,week,3035.0,1134.0
+560,TG_Warangal Rural,week,4736.0,1145.0
+561,TG_Warangal Urban,week,16155.0,4614.0
+562,TG_Yadadri Bhuvanagiri,week,8351.0,4237.0
+563,TN_Ariyalur,week,6189.0,1149.0
+564,TN_Chengalpattu,week,24102.0,6484.0
+565,TN_Chennai,week,106413.0,39711.0
+566,TN_Coimbatore,week,51958.0,12250.0
+567,TN_Cuddalore,week,19239.0,3831.0
+568,TN_Dharmapuri,week,13964.0,2289.0
+569,TN_Dindigul,week,8503.0,1617.0
+570,TN_Erode,week,23944.0,4306.0
+571,TN_Kallakurichi,week,10435.0,1510.0
+572,TN_Kancheepuram,week,10223.0,1562.0
+573,TN_Kanyakumari,week,18362.0,3868.0
+574,TN_Karur,week,10306.0,1803.0
+575,TN_Krishnagiri,week,19898.0,3618.0
+576,TN_Madurai,week,26200.0,6295.0
+577,TN_Nagapattinam,week,13325.0,1967.0
+578,TN_Namakkal,week,18111.0,3939.0
+579,TN_Nilgiris,week,13069.0,3441.0
+580,TN_Perambalur,week,5789.0,1043.0
+581,TN_Pudukkottai,week,6624.0,878.0
+582,TN_Ramanathapuram,week,6550.0,1120.0
+583,TN_Ranipet,week,8416.0,1485.0
+584,TN_Salem,week,24560.0,5441.0
+585,TN_Sivaganga,week,12120.0,1899.0
+586,TN_Tenkasi,week,10622.0,1820.0
+587,TN_Thanjavur,week,19645.0,3427.0
+588,TN_Theni,week,10743.0,1752.0
+589,TN_Thiruvallur,week,7399.0,1733.0
+590,TN_Thiruvarur,week,11003.0,1518.0
+591,TN_Thoothukkudi,week,6669.0,1210.0
+592,TN_Tiruchirappalli,week,26430.0,6023.0
+593,TN_Tirunelveli,week,12472.0,2403.0
+594,TN_Tirupathur,week,9276.0,1907.0
+595,TN_Tiruppur,week,25053.0,4385.0
+596,TN_Tiruvannamalai,week,8067.0,992.0
+597,TN_Vellore,week,13495.0,4034.0
+598,TN_Viluppuram,week,14535.0,2348.0
+599,TN_Virudhunagar,week,10933.0,2208.0
+600,TR_Dhalai,week,8358.0,2121.0
+601,TR_Gomati,week,8994.0,2584.0
+602,TR_Khowai,week,6291.0,1957.0
+603,TR_North Tripura,week,9131.0,2963.0
+604,TR_Sipahijala,week,10830.0,3484.0
+605,TR_South Tripura,week,9910.0,3398.0
+606,TR_Unokoti,week,5625.0,1607.0
+607,TR_West Tripura,week,21977.0,9449.0
+608,UP_Agra,week,38829.0,7650.0
+609,UP_Aligarh,week,25978.0,5177.0
+610,UP_Ambedkar Nagar,week,16740.0,2681.0
+611,UP_Amethi,week,15841.0,3271.0
+612,UP_Amroha,week,13081.0,2270.0
+613,UP_Auraiya,week,10070.0,1706.0
+614,UP_Ayodhya,week,18653.0,3657.0
+615,UP_Azamgarh,week,34335.0,5374.0
+616,UP_Baghpat,week,15666.0,2955.0
+617,UP_Bahraich,week,31290.0,4329.0
+618,UP_Ballia,week,17789.0,3922.0
+619,UP_Banda,week,13829.0,1695.0
+620,UP_Barabanki,week,25320.0,3312.0
+621,UP_Bareilly,week,35697.0,7483.0
+622,UP_Basti,week,22224.0,3372.0
+623,UP_Bhadohi,week,12739.0,2160.0
+624,UP_Bijnor,week,28777.0,5094.0
+625,UP_Budaun,week,17845.0,3223.0
+626,UP_Bulandshahr,week,34139.0,5535.0
+627,UP_Chandauli,week,13852.0,2020.0
+628,UP_Chitrakoot,week,8682.0,811.0
+629,UP_Deoria,week,21001.0,4490.0
+630,UP_Etah,week,11567.0,1775.0
+631,UP_Etawah,week,12125.0,2122.0
+632,UP_Farrukhabad,week,12643.0,2200.0
+633,UP_Fatehpur,week,19322.0,3307.0
+634,UP_Firozabad,week,18015.0,2905.0
+635,UP_Gautam Buddha Nagar,week,47796.0,12013.0
+636,UP_Ghaziabad,week,45575.0,10594.0
+637,UP_Ghazipur,week,28078.0,3858.0
+638,UP_Gonda,week,33253.0,4330.0
+639,UP_Gorakhpur,week,41285.0,8511.0
+640,UP_Hamirpur,week,10490.0,1638.0
+641,UP_Hapur,week,12011.0,2395.0
+642,UP_Hardoi,week,27908.0,3444.0
+643,UP_Hathras,week,12896.0,2281.0
+644,UP_Jalaun,week,14097.0,2208.0
+645,UP_Jaunpur,week,31955.0,6118.0
+646,UP_Jhansi,week,18717.0,3956.0
+647,UP_Kannauj,week,12812.0,1372.0
+648,UP_Kanpur Dehat,week,13109.0,1959.0
+649,UP_Kanpur Nagar,week,37681.0,9677.0
+650,UP_Kasganj,week,9558.0,1434.0
+651,UP_Kaushambi,week,9887.0,1799.0
+652,UP_Kushinagar,week,23269.0,4633.0
+653,UP_Lakhimpur Kheri,week,24592.0,3190.0
+654,UP_Lalitpur,week,9661.0,1146.0
+655,UP_Lucknow,week,57128.0,18257.0
+656,UP_Maharajganj,week,17754.0,3229.0
+657,UP_Mahoba,week,10110.0,1616.0
+658,UP_Mainpuri,week,12473.0,1908.0
+659,UP_Mathura,week,23716.0,4834.0
+660,UP_Mau,week,14470.0,3040.0
+661,UP_Meerut,week,39941.0,10522.0
+662,UP_Mirzapur,week,23349.0,3532.0
+663,UP_Moradabad,week,22578.0,5094.0
+664,UP_Muzaffarnagar,week,23224.0,4151.0
+665,UP_Pilibhit,week,15764.0,2938.0
+666,UP_Pratapgarh,week,19060.0,3528.0
+667,UP_Prayagraj,week,38456.0,9284.0
+668,UP_Rae Bareli,week,16612.0,2694.0
+669,UP_Rampur,week,13359.0,2640.0
+670,UP_Saharanpur,week,31341.0,6509.0
+671,UP_Sambhal,week,12640.0,2128.0
+672,UP_Sant Kabir Nagar,week,10404.0,1795.0
+673,UP_Shahjahanpur,week,20400.0,3495.0
+674,UP_Shamli,week,10640.0,2161.0
+675,UP_Shrawasti,week,10770.0,1179.0
+676,UP_Siddharthnagar,week,24158.0,3419.0
+677,UP_Sitapur,week,25655.0,4005.0
+678,UP_Sonbhadra,week,11461.0,2511.0
+679,UP_Sultanpur,week,16717.0,3552.0
+680,UP_Unnao,week,20165.0,3691.0
+681,UP_Varanasi,week,36833.0,9604.0
+682,UT_Almora,week,10640.0,3896.0
+683,UT_Bageshwar,week,5882.0,1951.0
+684,UT_Chamoli,week,7956.0,2885.0
+685,UT_Champawat,week,5602.0,1840.0
+686,UT_Dehradun,week,35583.0,13305.0
+687,UT_Haridwar,week,29974.0,7333.0
+688,UT_Nainital,week,18672.0,6052.0
+689,UT_Pauri Garhwal,week,10979.0,4176.0
+690,UT_Pithoragarh,week,8284.0,2620.0
+691,UT_Rudraprayag,week,5408.0,1557.0
+692,UT_Tehri Garhwal,week,10249.0,3371.0
+693,UT_Udham Singh Nagar,week,26903.0,6028.0
+694,UT_Uttarkashi,week,7039.0,2408.0
+695,WB_Alipurduar,week,13753.0,5320.0
+696,WB_Bankura,week,8919.0,2906.0
+697,WB_Birbhum,week,21024.0,7688.0
+698,WB_Cooch Behar,week,16484.0,7009.0
+699,WB_Dakshin Dinajpur,week,13213.0,5989.0
+700,WB_Darjeeling,week,25434.0,8959.0
+701,WB_Hooghly,week,47861.0,21379.0
+702,WB_Howrah,week,43539.0,15312.0
+703,WB_Jalpaiguri,week,16737.0,5123.0
+704,WB_Jhargram,week,8395.0,2372.0
+705,WB_Kalimpong,week,4935.0,1860.0
+706,WB_Kolkata,week,126704.0,45327.0
+707,WB_Malda,week,23645.0,8963.0
+708,WB_Murshidabad,week,39052.0,16469.0
+709,WB_Nadia,week,33156.0,14210.0
+710,WB_North 24 Parganas,week,17653.0,7490.0
+711,WB_Paschim Bardhaman,week,26221.0,8606.0
+712,WB_Paschim Medinipur,week,31600.0,12674.0
+713,WB_Purba Bardhaman,week,31234.0,15257.0
+714,WB_Purba Medinipur,week,21854.0,10151.0
+715,WB_Purulia,week,19352.0,6886.0
+716,WB_South 24 Parganas,week,42971.0,15833.0

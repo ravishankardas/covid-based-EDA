@@ -1,0 +1,3991 @@
+0,1
+hp_lahul and spiti,leh  
+hp_lahul and spiti,kinnaur 
+hp_lahul and spiti,chamba 
+hp_lahul and spiti,kangra 
+hp_lahul and spiti,kishtwar 
+hp_lahul and spiti,kargil  
+hp_lahul and spiti,kullu 
+tr_khowai,kullu 
+tr_khowai,lahul and spiti 
+tr_khowai,uttarkashi 
+tr_khowai,shimla 
+hp_kullu,shimla 
+hp_kullu,lahul and spiti 
+hp_kullu,kinnaur 
+hp_kullu,kangra 
+hp_kullu,mandi 
+ut_chamoli,lahul and spiti 
+ut_chamoli,kangra 
+ut_chamoli,kishtwar 
+ut_chamoli,pathankot 
+ut_chamoli,doda 
+ut_chamoli,kathua 
+or_kandhamal,hoshiarpur 
+or_kandhamal,lahul and spiti 
+or_kandhamal,chamba 
+or_kandhamal,una 
+or_kandhamal,gurdaspur 
+or_kandhamal,pathankot 
+or_kandhamal,kullu 
+or_kandhamal,mandi 
+or_kandhamal,hamirpur 
+mh_latur,lahul and spiti 
+mh_latur,kargil  
+py_karaikal,anantnag 
+py_karaikal,leh  
+py_karaikal,lahul and spiti 
+py_karaikal,kishtwar 
+py_karaikal,ganderbal 
+py_karaikal,bandipora 
+nl_kiphire,anantnag 
+nl_kiphire,lahul and spiti 
+nl_kiphire,chamba 
+nl_kiphire,doda 
+nl_kiphire,kargil  
+ar_siang,uttarkashi 
+ar_siang,kinnaur 
+ar_siang,sirmaur 
+ar_siang,dehradun 
+ar_siang,kullu 
+ar_siang,solan 
+ar_siang,mandi 
+gj_valsad,shimla 
+gj_valsad,tehri garhwal 
+gj_valsad,kinnaur 
+gj_valsad,chamoli 
+gj_valsad,dehradun 
+gj_valsad,rudraprayag 
+tg_mancherial,shimla 
+tg_mancherial,kangra 
+tg_mancherial,kullu 
+tg_mancherial,solan 
+tg_mancherial,bilaspur 
+tg_mancherial,hamirpur 
+tn_karur,udhampur 
+tn_karur,chamba 
+tn_karur,samba 
+tn_karur,doda 
+tn_karur,pathankot 
+pb_pathankot,kathua 
+pb_pathankot,chamba 
+pb_pathankot,kangra 
+pb_pathankot,gurdaspur 
+mp_dindori,anantnag 
+mp_dindori,udhampur 
+mp_dindori,chamba 
+mp_dindori,ramban 
+mp_dindori,kishtwar 
+mp_dindori,kathua 
+ar_upper dibang valley,rupnagar 
+ar_upper dibang valley,hoshiarpur 
+ar_upper dibang valley,kangra 
+ar_upper dibang valley,bilaspur 
+ar_upper dibang valley,hamirpur 
+hr_gurugram,bilaspur 
+hr_gurugram,una 
+hr_gurugram,kangra 
+hr_gurugram,mandi 
+up_gorakhpur,kapurthala 
+up_gorakhpur,amritsar 
+up_gorakhpur,hoshiarpur 
+up_gorakhpur,kangra 
+up_gorakhpur,pathankot 
+hr_hisar,kapurthala 
+hr_hisar,rupnagar 
+hr_hisar,una 
+hr_hisar,jalandhar 
+hr_hisar,kangra 
+hr_hisar,gurdaspur 
+hr_hisar,shaheed bhagat singh nagar 
+as_biswanath,rupnagar 
+as_biswanath,una 
+as_biswanath,solan 
+as_biswanath,mandi 
+as_biswanath,hamirpur 
+gj_sabarkantha,hoshiarpur 
+gj_sabarkantha,una 
+gj_sabarkantha,solan 
+gj_sabarkantha,shaheed bhagat singh nagar 
+gj_sabarkantha,fategarh sahib 
+gj_sabarkantha,sahibzada ajit singh nagar 
+gj_sabarkantha,bilaspur 
+gj_sabarkantha,ludhiana 
+hr_sonipat,rupnagar 
+hr_sonipat,shimla 
+hr_sonipat,panchkula 
+hr_sonipat,sirmaur 
+hr_sonipat,sahibzada ajit singh nagar 
+hr_sonipat,mandi 
+hr_sonipat,bilaspur 
+br_sitamarhi,shimla 
+br_sitamarhi,ambala 
+br_sitamarhi,panchkula 
+br_sitamarhi,dehradun 
+br_sitamarhi,saharanpur 
+br_sitamarhi,solan 
+br_sitamarhi,yamunanagar 
+hr_panchkula,ambala 
+hr_panchkula,sirmaur 
+hr_panchkula,solan 
+hr_panchkula,sahibzada ajit singh nagar 
+hr_panchkula,chandigarh 
+tn_salem,rupnagar 
+tn_salem,ambala 
+tn_salem,panchkula 
+tn_salem,patiala 
+tn_salem,solan 
+tn_salem,fategarh sahib 
+tn_salem,chandigarh 
+ka_davanagere,haridwar 
+ka_davanagere,uttarkashi 
+ka_davanagere,shimla 
+ka_davanagere,tehri garhwal 
+ka_davanagere,sirmaur 
+ka_davanagere,saharanpur 
+ka_davanagere,pauri garhwal 
+hr_ambala,panchkula 
+hr_ambala,sirmaur 
+hr_ambala,patiala 
+hr_ambala,sahibzada ajit singh nagar 
+hr_ambala,yamunanagar 
+hr_ambala,kurukshetra 
+br_saharsa,haridwar 
+br_saharsa,karnal 
+br_saharsa,sirmaur 
+br_saharsa,dehradun 
+br_saharsa,muzaffarnagar 
+br_saharsa,shamli 
+br_saharsa,yamunanagar 
+ka_yadgir,karnal 
+ka_yadgir,ambala 
+ka_yadgir,sirmaur 
+ka_yadgir,saharanpur 
+ka_yadgir,kurukshetra 
+ut_champawat,uttarkashi 
+ut_champawat,bageshwar 
+ut_champawat,almora 
+ut_champawat,pauri garhwal 
+ut_champawat,pithoragarh 
+ut_champawat,rudraprayag 
+ap_s.p.s. nellore,pauri garhwal 
+ap_s.p.s. nellore,uttarkashi 
+ap_s.p.s. nellore,chamoli 
+ap_s.p.s. nellore,tehri garhwal 
+mh_thane,uttarkashi 
+mh_thane,pauri garhwal 
+mh_thane,dehradun 
+mh_thane,rudraprayag 
+gj_porbandar,bageshwar 
+gj_porbandar,chamoli 
+gj_porbandar,almora 
+gj_porbandar,champawat 
+ut_bageshwar,chamoli 
+ut_bageshwar,pithoragarh 
+ut_bageshwar,almora 
+ut_almora,nainital 
+ut_almora,bageshwar 
+ut_almora,chamoli 
+ut_almora,champawat 
+ut_almora,pauri garhwal 
+ut_almora,pithoragarh 
+tg_peddapalli,haridwar 
+tg_peddapalli,nainital 
+tg_peddapalli,bijnor 
+tg_peddapalli,tehri garhwal 
+tg_peddapalli,chamoli 
+tg_peddapalli,dehradun 
+tg_peddapalli,almora 
+tg_peddapalli,rudraprayag 
+mz_champhai,udham singh nagar 
+mz_champhai,nainital 
+mz_champhai,pithoragarh 
+mz_champhai,almora 
+ut_nainital,bijnor 
+ut_nainital,champawat 
+ut_nainital,almora 
+ut_nainital,pauri garhwal 
+ut_nainital,udham singh nagar 
+mp_ujjain,nainital 
+mp_ujjain,bijnor 
+mp_ujjain,pilibhit 
+mp_ujjain,rampur 
+mp_ujjain,bareilly 
+mp_ujjain,champawat 
+mp_ujjain,moradabad 
+ct_bilaspur,haridwar 
+ct_bilaspur,nainital 
+ct_bilaspur,muzaffarnagar 
+ct_bilaspur,moradabad 
+ct_bilaspur,jyotiba phule nagar 
+ct_bilaspur,meerut 
+ct_bilaspur,pauri garhwal 
+ct_bilaspur,udham singh nagar 
+or_bargarh,pilibhit 
+or_bargarh,rampur 
+or_bargarh,shahjahanpur 
+or_bargarh,budaun 
+or_bargarh,udham singh nagar 
+nl_mon,sambhal 
+nl_mon,bijnor 
+nl_mon,rampur 
+nl_mon,jyotiba phule nagar 
+nl_mon,budaun 
+nl_mon,udham singh nagar 
+mp_ratlam,moradabad 
+mp_ratlam,udham singh nagar 
+mp_ratlam,bareilly 
+mp_ratlam,budaun 
+ut_pithoragarh,kheri 
+ut_pithoragarh,udham singh nagar 
+ut_pithoragarh,bareilly 
+ut_pithoragarh,shahjahanpur 
+up_hapur,bijnor 
+up_hapur,dehradun 
+up_hapur,muzaffarnagar 
+up_hapur,saharanpur 
+up_hapur,pauri garhwal 
+up_muzaffarnagar,haridwar 
+up_muzaffarnagar,bijnor 
+up_muzaffarnagar,shamli 
+up_muzaffarnagar,saharanpur 
+up_muzaffarnagar,meerut 
+up_muzaffarnagar,baghpat 
+tn_thiruvarur,malappuram 
+tn_thiruvarur,erode  
+tn_thiruvarur,chamarajanagar  
+tn_thiruvarur,wayanad 
+tn_thiruvarur,coimbatore  
+tn_thiruvarur,palghat 
+tn_coimbatore,thrissur 
+tn_coimbatore,erode  
+tn_coimbatore,ernakulam 
+tn_coimbatore,idukki 
+tn_coimbatore,tiruppur 
+tn_coimbatore,the nilgiris  
+tn_coimbatore,palghat 
+sk_east sikkim,karur  
+sk_east sikkim,chamarajanagar  
+sk_east sikkim,tiruppur 
+sk_east sikkim,the nilgiris  
+sk_east sikkim,coimbatore  
+sk_east sikkim,namakkal  
+sk_east sikkim,salem  
+sk_east sikkim,dharmapuri  
+jh_palamu,thrissur 
+jh_palamu,malappuram 
+jh_palamu,the nilgiris  
+jh_palamu,coimbatore  
+as_majuli,thrissur 
+as_majuli,kozhikode 
+as_majuli,wayanad 
+as_majuli,the nilgiris  
+as_majuli,palghat 
+dl_west delhi,kodagu 
+dl_west delhi,mysuru  
+dl_west delhi,malappuram 
+dl_west delhi,kannur  
+dl_west delhi,chamarajanagar  
+dl_west delhi,kozhikode 
+dl_west delhi,the nilgiris  
+hp_chamba,mysuru  
+hp_chamba,krishnagiri 
+hp_chamba,erode  
+hp_chamba,ramanagara  
+hp_chamba,wayanad 
+hp_chamba,the nilgiris  
+hp_chamba,mandya  
+hp_chamba,salem  
+hp_chamba,dharmapuri  
+mh_jalgaon,darjeeling 
+mh_jalgaon,kalimpong 
+mh_jalgaon,alipurduar 
+mh_jalgaon,kochbihar 
+br_kishanganj,dhubri 
+br_kishanganj,jalpaiguri 
+br_kishanganj,alipurduar 
+br_kishanganj,kokrajhar 
+gj_dang,uttar dinajpur 
+gj_dang,kalimpong 
+gj_dang,south sikkim  
+gj_dang,west sikkim  
+gj_dang,kishanganj 
+gj_dang,jalpaiguri 
+wb_alipurduar,jalpaiguri 
+wb_alipurduar,kochbihar 
+wb_alipurduar,kokrajhar 
+ka_kalaburagi,darjeeling 
+ka_kalaburagi,south sikkim  
+ka_kalaburagi,jalpaiguri 
+ka_kalaburagi,east sikkim  
+mz_lunglei,saharsa 
+mz_lunglei,sitamarhi 
+mz_lunglei,supaul 
+mz_lunglei,darbhanga 
+jh_sahibganj,khagaria 
+jh_sahibganj,supaul 
+jh_sahibganj,darbhanga 
+jh_sahibganj,samastipur 
+jh_sahibganj,madhubani 
+jh_sahibganj,madhepura 
+mp_damoh,muzaffarpur 
+mp_damoh,samastipur 
+mp_damoh,madhubani 
+mp_damoh,saharsa 
+mp_damoh,sitamarhi 
+gj_surendranagar,madhubani 
+gj_surendranagar,saharsa 
+gj_surendranagar,madhepura 
+gj_surendranagar,araria 
+as_sivasagar,sheohar 
+as_sivasagar,muzaffarpur 
+as_sivasagar,darbhanga 
+as_sivasagar,madhubani 
+as_sivasagar,purba champaran 
+pb_ludhiana,khagaria 
+pb_ludhiana,supaul 
+pb_ludhiana,saharsa 
+pb_ludhiana,bhagalpur 
+pb_ludhiana,purnia 
+pb_ludhiana,araria 
+up_kaushambi,munger 
+up_kaushambi,begusarai 
+up_kaushambi,samastipur 
+up_kaushambi,saharsa 
+up_kaushambi,madhepura 
+up_kaushambi,bhagalpur 
+up_sambhal,muzaffarpur 
+up_sambhal,khagaria 
+up_sambhal,darbhanga 
+up_sambhal,vaishali 
+up_sambhal,begusarai 
+up_sambhal,saharsa 
+up_sambhal,patna 
+br_muzaffarpur,sheohar 
+br_muzaffarpur,gopalganj 
+br_muzaffarpur,darbhanga 
+br_muzaffarpur,vaishali 
+br_muzaffarpur,samastipur 
+br_muzaffarpur,purba champaran 
+br_muzaffarpur,sitamarhi 
+br_muzaffarpur,saran 
+mp_anuppur,purnia 
+mp_anuppur,kishanganj 
+mp_anuppur,madhepura 
+mp_anuppur,supaul 
+br_purnia,pashchim champaran 
+br_purnia,sheohar 
+br_purnia,muzaffarpur 
+br_purnia,gopalganj 
+br_purnia,sitamarhi 
+mp_shivpuri,purba champaran 
+mp_shivpuri,sitamarhi 
+mp_shivpuri,muzaffarpur 
+wb_paschim medinipur,mahrajganj 
+wb_paschim medinipur,purba champaran 
+wb_paschim medinipur,gopalganj 
+wb_paschim medinipur,kushinagar 
+as_golaghat,pashchim champaran 
+as_golaghat,deoria 
+as_golaghat,kushinagar 
+as_golaghat,muzaffarpur 
+as_golaghat,siwan 
+as_golaghat,purba champaran 
+as_golaghat,saran 
+ap_anantapur,ramban 
+ap_anantapur,kishtwar 
+ap_anantapur,kargil  
+ap_anantapur,doda 
+ap_anantapur,ganderbal 
+ap_anantapur,shopian 
+ap_anantapur,pulwama 
+ap_anantapur,kulgam 
+ap_anantapur,srinagar 
+up_banda,kupwara 
+up_banda,kargil  
+up_banda,baramula 
+up_banda,ganderbal 
+up_banda,srinagar 
+mh_gadchiroli,bandipora 
+mh_gadchiroli,anantnag 
+mh_gadchiroli,srinagar 
+mh_gadchiroli,kargil  
+nl_kohima,alipurduar 
+nl_kohima,dhubri 
+nl_kohima,kochbihar 
+nl_kohima,bongaigaon 
+nl_kohima,chirang 
+or_dhenkanal,kochbihar 
+or_dhenkanal,goalpara 
+or_dhenkanal,bongaigaon 
+or_dhenkanal,south salmara-mankachar 
+or_dhenkanal,kokrajhar 
+up_budaun,dhubri 
+up_budaun,barpeta 
+up_budaun,goalpara 
+up_budaun,kokrajhar 
+up_budaun,chirang 
+as_chirang,bongaigaon 
+as_chirang,baksa 
+as_chirang,barpeta 
+as_chirang,kokrajhar 
+gj_dahod,maldah 
+gj_dahod,uttar dinajpur 
+gj_vadodara,maldah 
+gj_vadodara,katihar 
+gj_vadodara,purnia 
+gj_vadodara,darjeeling 
+gj_vadodara,dakshin dinajpur 
+gj_vadodara,kishanganj 
+kl_malappuram,murshidabad 
+kl_malappuram,uttar dinajpur 
+kl_malappuram,katihar 
+kl_malappuram,dakshin dinajpur 
+kl_malappuram,sahibganj 
+hp_kinnaur,darjeeling 
+hp_kinnaur,purnia 
+hp_kinnaur,uttar dinajpur 
+hp_kinnaur,araria 
+ml_south west garo hills,kalimpong 
+ml_south west garo hills,north sikkim  
+ml_south west garo hills,west sikkim  
+ml_south west garo hills,east sikkim  
+ml_south west garo hills,darjeeling 
+jh_west singhbhum,darjeeling 
+jh_west singhbhum,south sikkim  
+jh_west singhbhum,north sikkim  
+mh_raigad,uttar dinajpur 
+mh_raigad,katihar 
+mh_raigad,madhepura 
+mh_raigad,bhagalpur 
+mh_raigad,kishanganj 
+mh_raigad,araria 
+kl_kasaragod,maldah 
+kl_kasaragod,uttar dinajpur 
+kl_kasaragod,bhagalpur 
+kl_kasaragod,purnia 
+kl_kasaragod,sahibganj 
+ml_east khasi hills,south sikkim  
+ml_east khasi hills,kalimpong 
+ml_east khasi hills,north sikkim  
+ga_north goa,south sikkim  
+ga_north goa,west sikkim  
+ga_north goa,east sikkim  
+mp_barwani,baksa 
+mp_barwani,nalbari 
+mp_barwani,goalpara 
+mp_barwani,bongaigaon 
+mp_barwani,kamrup 
+mp_barwani,chirang 
+up_ghaziabad,west garo hills 
+up_ghaziabad,north garo hills 
+up_ghaziabad,dhubri 
+up_ghaziabad,barpeta 
+up_ghaziabad,bongaigaon 
+up_ghaziabad,kamrup 
+up_ghaziabad,south salmara-mankachar 
+as_nalbari,baksa 
+as_nalbari,kamrup 
+as_nalbari,barpeta 
+mn_kamjong,kamrup metropolitan 
+mn_kamjong,baksa 
+mn_kamjong,north garo hills 
+mn_kamjong,nalbari 
+mn_kamjong,darrang 
+mn_kamjong,barpeta 
+mn_kamjong,goalpara 
+mn_kamjong,west khasi hills 
+mn_kamjong,ri-bhoi 
+as_baksa,nalbari 
+as_baksa,darrang 
+as_baksa,barpeta 
+as_baksa,udalguri 
+as_baksa,kamrup 
+as_baksa,chirang 
+br_darbhanga,kamrup metropolitan 
+br_darbhanga,baksa 
+br_darbhanga,marigaon 
+br_darbhanga,udalguri 
+br_darbhanga,sonitpur 
+br_darbhanga,kamrup 
+pb_mansa,kamrup metropolitan 
+pb_mansa,west karbi anglong 
+pb_mansa,darrang 
+pb_mansa,ri-bhoi 
+pb_mansa,sonitpur 
+pb_mansa,nagaon 
+dl_south east delhi,darrang 
+dl_south east delhi,pakke kessang None
+dl_south east delhi,west kameng  
+dl_south east delhi,marigaon 
+dl_south east delhi,bishwanath 
+dl_south east delhi,udalguri 
+dl_south east delhi,nagaon 
+ka_udupi,sonitpur 
+ka_udupi,west kameng  
+ka_udupi,baksa 
+ka_udupi,darrang 
+ar_kamle,marigaon 
+ar_kamle,kamrup 
+ar_kamle,darrang 
+ar_kamle,ri-bhoi 
+ut_rudraprayag,west jaintia hills 
+ut_rudraprayag,kamrup metropolitan 
+ut_rudraprayag,west karbi anglong 
+ut_rudraprayag,west khasi hills 
+ut_rudraprayag,marigaon 
+ut_rudraprayag,east khasi hills 
+ut_rudraprayag,kamrup 
+ar_west siang,north garo hills 
+ar_west siang,south west khasi hills 
+ar_west siang,east garo hills 
+ar_west siang,ri-bhoi 
+ar_west siang,east khasi hills 
+ar_west siang,kamrup 
+ar_west siang,south garo hills 
+dl_north east delhi,west garo hills 
+dl_north east delhi,goalpara 
+dl_north east delhi,west khasi hills 
+dl_north east delhi,east garo hills 
+dl_north east delhi,kamrup 
+dl_north east delhi,south salmara-mankachar 
+wb_murshidabad,maldah 
+wb_murshidabad,birbhum 
+wb_murshidabad,purba bardhaman 
+wb_murshidabad,pakaur 
+wb_murshidabad,sahibganj 
+wb_murshidabad,nadia 
+mz_saiha,maldah 
+mz_saiha,murshidabad 
+mz_saiha,katihar 
+mz_saiha,bhagalpur 
+mz_saiha,pakaur 
+mz_saiha,godda 
+br_bhagalpur,godda 
+br_bhagalpur,munger 
+br_bhagalpur,khagaria 
+br_bhagalpur,banka 
+br_bhagalpur,katihar 
+br_bhagalpur,madhepura 
+br_bhagalpur,purnia 
+br_bhagalpur,sahibganj 
+pb_barnala,pali 
+pb_barnala,jaisalmer 
+pb_barnala,jodhpur 
+pb_barnala,kutch  
+pb_barnala,jalor 
+up_jalaun,pali 
+up_jalaun,banas kantha  
+up_jalaun,sirohi 
+up_jalaun,barmer 
+up_jalaun,kutch  
+rj_jhunjhunu,pali 
+rj_jhunjhunu,jaisalmer 
+rj_jhunjhunu,nagaur 
+rj_jhunjhunu,bikaner 
+rj_jhunjhunu,barmer 
+mh_palghar,rajsamand 
+mh_palghar,jodhpur 
+mh_palghar,udaipur 
+mh_palghar,ajmer 
+mh_palghar,nagaur 
+mh_palghar,sirohi 
+mh_palghar,barmer 
+mh_palghar,jalor 
+or_jagatsinghpur,jodhpur 
+or_jagatsinghpur,bikaner 
+or_jagatsinghpur,barmer 
+gj_kutch,banas kantha  
+gj_kutch,patan 
+gj_kutch,barmer 
+gj_kutch,surendranagar  
+gj_kutch,morbi  
+gj_kutch,jalor 
+up_sitapur,pali 
+up_sitapur,banas kantha  
+up_sitapur,udaipur 
+up_sitapur,sabar kantha  
+up_sitapur,jalor 
+ct_bametara,patan 
+ct_bametara,sabar kantha  
+ct_bametara,sirohi 
+ct_bametara,mahesana  
+ct_bametara,kutch  
+ct_bametara,jalor 
+wb_birbhum,jaisalmer 
+wb_birbhum,churu 
+wb_birbhum,jodhpur 
+wb_birbhum,nagaur 
+wb_birbhum,sri ganganagar 
+wb_birbhum,hanumangarh 
+rj_nagaur,pali 
+rj_nagaur,churu 
+rj_nagaur,jodhpur 
+rj_nagaur,jaipur 
+rj_nagaur,ajmer 
+rj_nagaur,sikar 
+rj_nagaur,bikaner 
+rj_ajmer,pali 
+rj_ajmer,rajsamand 
+rj_ajmer,jaipur 
+rj_ajmer,bhilwara 
+rj_ajmer,nagaur 
+rj_ajmer,tonk 
+jh_ramgarh,pali 
+jh_ramgarh,chittorgarh 
+jh_ramgarh,udaipur 
+jh_ramgarh,ajmer 
+jh_ramgarh,bhilwara 
+jk_udhampur,pali 
+jk_udhampur,rajsamand 
+jk_udhampur,chittorgarh 
+jk_udhampur,dungarpur 
+jk_udhampur,sabar kantha  
+jk_udhampur,sirohi 
+jk_udhampur,pratapgarh 
+jk_udhampur,aravalli  
+ar_upper siang,lucknow 
+ar_upper siang,kanpur nagar 
+ar_upper siang,rae bareilly 
+ar_upper siang,fatehpur 
+ar_upper siang,hardoi 
+rj_hanumangarh,lucknow 
+rj_hanumangarh,kanpur nagar 
+rj_hanumangarh,unnao 
+rj_hanumangarh,shahjahanpur 
+rj_hanumangarh,kheri 
+rj_hanumangarh,sitapur 
+rj_hanumangarh,farrukhabad 
+rj_hanumangarh,kannauj 
+ar_lower siang,unnao 
+ar_lower siang,rae bareilly 
+ar_lower siang,barabanki 
+ar_lower siang,sitapur 
+ar_lower siang,hardoi 
+kl_kannur,unnao 
+kl_kannur,hamirpur 
+kl_kannur,kanpur dehat 
+kl_kannur,hardoi 
+kl_kannur,fatehpur 
+kl_kannur,kannauj 
+hr_fatehabad,kanpur nagar 
+hr_fatehabad,unnao 
+hr_fatehabad,hamirpur 
+hr_fatehabad,pratapgarh 
+hr_fatehabad,rae bareilly 
+hr_fatehabad,banda 
+hr_fatehabad,kaushambi 
+hr_fatehabad,chitrakoot 
+ct_raipur,lucknow 
+ct_raipur,unnao 
+ct_raipur,pratapgarh 
+ct_raipur,amethi 
+ct_raipur,kaushambi 
+ct_raipur,barabanki 
+ct_raipur,fatehpur 
+up_kanpur dehat,thiruvananthapuram 
+up_kanpur dehat,tirunelveli kattabo 
+rj_tonk,kollam 
+rj_tonk,kanyakumari  
+rj_tonk,thoothukudi  
+rj_tonk,virudhunagar  
+rj_tonk,idukki 
+rj_tonk,pattanamtitta 
+rj_tonk,thiruvananthapuram 
+kl_thrissur,kollam 
+kl_thrissur,kanyakumari  
+kl_thrissur,tirunelveli kattabo 
+ap_vizianagaram,madurai  
+ap_vizianagaram,sivagangai  
+ap_vizianagaram,ramanathapuram  
+ap_vizianagaram,thoothukudi  
+ap_vizianagaram,tirunelveli kattabo 
+ap_vizianagaram,theni  
+ap_vizianagaram,idukki 
+pb_hoshiarpur,ernakulam 
+pb_hoshiarpur,virudhunagar  
+pb_hoshiarpur,kottayam 
+pb_hoshiarpur,tirunelveli kattabo 
+pb_hoshiarpur,theni  
+pb_hoshiarpur,dindigul  
+pb_hoshiarpur,tiruppur 
+pb_hoshiarpur,coimbatore  
+pb_hoshiarpur,pattanamtitta 
+as_tinsukia,virudhunagar  
+as_tinsukia,ramanathapuram  
+as_tinsukia,tirunelveli kattabo 
+wb_kolkata,pattanamtitta 
+wb_kolkata,alappuzha 
+wb_kolkata,thiruvananthapuram 
+wb_kolkata,tirunelveli kattabo 
+ut_pauri garhwal,kollam 
+ut_pauri garhwal,kottayam 
+ut_pauri garhwal,tirunelveli kattabo 
+ut_pauri garhwal,idukki 
+ut_pauri garhwal,alappuzha 
+jk_punch,tiruchchirappalli  
+jk_punch,sivagangai  
+jk_punch,thanjavur  
+jk_punch,ramanathapuram  
+hp_solan,madurai  
+hp_solan,ramanathapuram  
+hp_solan,virudhunagar  
+hp_solan,tiruchchirappalli  
+hp_solan,pudukkottai  
+tn_tiruvannamalai,madurai  
+tn_tiruvannamalai,sivagangai  
+tn_tiruvannamalai,karur  
+tn_tiruvannamalai,ariyalur  
+tn_tiruvannamalai,perambalur  
+tn_tiruvannamalai,thanjavur  
+tn_tiruvannamalai,pudukkottai  
+tn_tiruvannamalai,dindigul  
+tn_tiruvannamalai,namakkal  
+tn_tiruvannamalai,salem  
+tn_thiruvallur,ariyalur  
+tn_thiruvallur,tiruchchirappalli  
+tn_thiruvallur,pudukkottai  
+tn_thiruvallur,nagapattinam  
+tn_thiruvallur,cuddalore  
+tn_thiruvallur,thiruvarur  
+jh_ranchi,thoothukudi  
+jh_ranchi,pudukkottai  
+jh_ranchi,virudhunagar  
+jh_ranchi,sivagangai  
+br_madhepura,sivagangai  
+br_madhepura,tiruchchirappalli  
+br_madhepura,virudhunagar  
+br_madhepura,theni  
+br_madhepura,dindigul  
+tn_thoothukkudi,madurai  
+tn_thoothukkudi,virudhunagar  
+tn_thoothukkudi,dindigul  
+tn_thoothukkudi,idukki 
+as_dima hasao,madurai  
+as_dima hasao,karur  
+as_dima hasao,tiruchchirappalli  
+as_dima hasao,theni  
+as_dima hasao,idukki 
+as_dima hasao,tiruppur 
+as_karimganj,erode  
+as_karimganj,tiruchchirappalli  
+as_karimganj,tiruppur 
+as_karimganj,dindigul  
+as_karimganj,namakkal  
+nl_tuensang,erode  
+nl_tuensang,karur  
+nl_tuensang,idukki 
+nl_tuensang,dindigul  
+nl_tuensang,coimbatore  
+ar_east siang,thrissur 
+ar_east siang,kottayam 
+ar_east siang,idukki 
+ar_east siang,coimbatore  
+ar_east siang,alappuzha 
+kl_kottayam,pattanamtitta 
+kl_kottayam,idukki 
+kl_kottayam,alappuzha 
+kl_kottayam,ernakulam 
+tn_tiruchirappalli,ernakulam 
+tn_tiruchirappalli,malappuram 
+tn_tiruchirappalli,palghat 
+tn_tiruchirappalli,coimbatore  
+tn_namakkal,salem  
+tn_namakkal,tiruchchirappalli  
+tn_namakkal,erode  
+tn_namakkal,karur  
+or_sambalpur,erode  
+or_sambalpur,kallakurichi 
+or_sambalpur,perambalur  
+or_sambalpur,tiruchchirappalli  
+or_sambalpur,chamarajanagar  
+or_sambalpur,namakkal  
+or_sambalpur,dharmapuri  
+jh_dhanbad,krishnagiri 
+jh_dhanbad,erode  
+jh_dhanbad,kallakurichi 
+jh_dhanbad,chamarajanagar  
+jh_dhanbad,tiruvanamalai  
+jh_dhanbad,salem  
+nl_peren,kallakurichi 
+nl_peren,ariyalur  
+nl_peren,tiruchchirappalli  
+nl_peren,salem  
+nl_peren,cuddalore  
+or_kalahandi,perambalur  
+or_kalahandi,tiruvanamalai  
+or_kalahandi,viluppuram  
+or_kalahandi,salem  
+or_kalahandi,cuddalore  
+or_kalahandi,dharmapuri  
+gj_aravalli,tiruchchirappalli  
+gj_aravalli,cuddalore  
+gj_aravalli,thanjavur  
+gj_aravalli,perambalur  
+ka_tumakuru,krishnagiri 
+ka_tumakuru,kallakurichi 
+ka_tumakuru,kanchipuram  
+ka_tumakuru,vellore  
+ka_tumakuru,viluppuram  
+ka_tumakuru,dharmapuri  
+tn_krishnagiri,bangalore urban 
+tn_krishnagiri,kolar  
+tn_krishnagiri,ramanagara  
+tn_krishnagiri,bangalore rural 
+tn_krishnagiri,chamarajanagar  
+tn_krishnagiri,tiruvanamalai  
+tn_krishnagiri,vellore  
+tn_krishnagiri,chittoor 
+tn_krishnagiri,dharmapuri  
+wb_cooch behar,puducherry  
+wb_cooch behar,kallakurichi 
+wb_cooch behar,perambalur  
+wb_cooch behar,ariyalur  
+wb_cooch behar,thanjavur  
+wb_cooch behar,viluppuram  
+wb_cooch behar,nagapattinam  
+tn_nagapattinam,thiruvarur  
+tn_nagapattinam,cuddalore  
+tn_nagapattinam,thanjavur  
+tn_nagapattinam,karaikal 
+ap_visakhapatnam,puducherry  
+ap_visakhapatnam,kallakurichi 
+ap_visakhapatnam,kanchipuram  
+ap_visakhapatnam,tiruvanamalai  
+ap_visakhapatnam,cuddalore  
+jk_pulwama,viluppuram  
+jk_pulwama,cuddalore  
+as_kamrup,tiruvanamalai  
+as_kamrup,vellore  
+as_kamrup,viluppuram  
+as_kamrup,thiruvallur  
+as_kamrup,chennai  
+mn_thoubal,sri potti sriramulu nellore 
+mn_thoubal,kanchipuram  
+mn_thoubal,vellore  
+mn_thoubal,chittoor 
+mn_thoubal,chennai  
+tg_vikarabad,krishnagiri 
+tg_vikarabad,kanchipuram  
+tg_vikarabad,tiruvanamalai  
+tg_vikarabad,chittoor 
+tg_vikarabad,thiruvallur  
+tn_chennai,kanchipuram  
+tn_chennai,thiruvallur  
+tn_kanyakumari,nagapattinam  
+tn_kanyakumari,thiruvarur  
+mp_tikamgarh,nagapattinam  
+mp_tikamgarh,thanjavur  
+mp_tikamgarh,karaikal 
+ct_sukma,prakasam 
+ct_sukma,ysr 
+ct_sukma,thiruvallur  
+ct_sukma,chittoor 
+ap_chittoor,ysr 
+ap_chittoor,krishnagiri 
+ap_chittoor,kolar  
+ap_chittoor,sri potti sriramulu nellore 
+ap_chittoor,vellore  
+ap_chittoor,chikkaballapura  
+ap_chittoor,anantapur  
+ap_chittoor,thiruvallur  
+ka_chamarajanagara,west delhi 
+ka_chamarajanagara,south east delhi 
+ka_chamarajanagara,east delhi 
+ka_chamarajanagara,north east delhi 
+ka_chamarajanagara,north west delhi 
+ka_chamarajanagara,shahdara 
+ka_chamarajanagara,north delhi 
+ka_chamarajanagara,new delhi 
+rj_dungarpur,gautam buddha nagar 
+rj_dungarpur,central delhi 
+rj_dungarpur,south east delhi 
+rj_dungarpur,ghaziabad 
+rj_dungarpur,shahdara 
+dl_north delhi,north delhi 
+dl_north delhi,central delhi 
+dl_north delhi,ghaziabad 
+dl_north delhi,shahdara 
+an_north and middle andaman,central delhi 
+an_north and middle andaman,sonipat 
+an_north and middle andaman,ghaziabad 
+an_north and middle andaman,north east delhi 
+an_north and middle andaman,north west delhi 
+an_north and middle andaman,baghpat 
+tr_north tripura,central delhi 
+tr_north tripura,west delhi 
+tr_north tripura,sonipat 
+tr_north tripura,north delhi 
+tr_north tripura,jhajjar 
+ml_west garo hills,central delhi 
+ml_west garo hills,new delhi 
+ml_west garo hills,north west delhi 
+ml_west garo hills,south west delhi 
+ml_west garo hills,jhajjar 
+dl_new delhi,central delhi 
+dl_new delhi,west delhi 
+dl_new delhi,south east delhi 
+dl_new delhi,gurugram 
+dl_new delhi,south west delhi 
+dl_new delhi,south delhi 
+mp_shajapur,central delhi 
+mp_shajapur,ghaziabad 
+mp_shajapur,north east delhi 
+mp_shajapur,east delhi 
+as_south salmara mankachar,gautam buddha nagar 
+as_south salmara mankachar,central delhi 
+as_south salmara mankachar,east delhi 
+as_south salmara mankachar,faridabad 
+as_south salmara mankachar,new delhi 
+as_south salmara mankachar,south delhi 
+or_ganjam,south east delhi 
+or_ganjam,east delhi 
+or_ganjam,bulandshahr 
+or_ganjam,hapur 
+or_ganjam,faridabad 
+or_ganjam,aligarh 
+or_ganjam,ghaziabad 
+or_ganjam,palwal 
+ct_gariaband,gautam buddha nagar 
+ct_gariaband,east delhi 
+ct_gariaband,hapur 
+ct_gariaband,north east delhi 
+ct_gariaband,shahdara 
+ct_gariaband,north delhi 
+ct_gariaband,meerut 
+ct_gariaband,baghpat 
+dl_south delhi,panipat 
+dl_south delhi,jind 
+dl_south delhi,rohtak 
+dl_south delhi,north west delhi 
+dl_south delhi,north delhi 
+dl_south delhi,baghpat 
+dl_south delhi,jhajjar 
+up_baghpat,panipat 
+up_baghpat,shamli 
+up_baghpat,muzaffarnagar 
+up_baghpat,sonipat 
+up_baghpat,ghaziabad 
+up_baghpat,north delhi 
+up_baghpat,meerut 
+tg_jayashankar bhupalapally,charkhi dadri 
+tg_jayashankar bhupalapally,west delhi 
+tg_jayashankar bhupalapally,gurugram 
+tg_jayashankar bhupalapally,sonipat 
+tg_jayashankar bhupalapally,mahendragarh 
+tg_jayashankar bhupalapally,rohtak 
+tg_jayashankar bhupalapally,rewari 
+tg_jayashankar bhupalapally,north west delhi 
+tg_jayashankar bhupalapally,south west delhi 
+pb_sri muktsar sahib,gurugram 
+pb_sri muktsar sahib,new delhi 
+pb_sri muktsar sahib,west delhi 
+pb_sri muktsar sahib,jhajjar 
+jh_gumla,new delhi 
+jh_gumla,faridabad 
+jh_gumla,nuh 
+jh_gumla,rewari 
+jh_gumla,south west delhi 
+jh_gumla,palwal 
+jh_gumla,jhajjar 
+jh_gumla,south delhi 
+ga_south goa,gurugram 
+ga_south goa,new delhi 
+ga_south goa,faridabad 
+ga_south goa,south east delhi 
+up_etah,gautam buddha nagar 
+up_etah,south east delhi 
+up_etah,gurugram 
+up_etah,palwal 
+up_etah,south delhi 
+hr_kurukshetra,karnal 
+hr_kurukshetra,ambala 
+hr_kurukshetra,patiala 
+hr_kurukshetra,kaithal 
+hr_kurukshetra,yamunanagar 
+pb_patiala,sangrur 
+pb_patiala,ambala 
+pb_patiala,jind 
+pb_patiala,kaithal 
+pb_patiala,sahibzada ajit singh nagar 
+pb_patiala,fategarh sahib 
+pb_patiala,kurukshetra 
+mh_chandrapur,panchkula 
+mh_chandrapur,sahibzada ajit singh nagar 
+la_kargil,panipat 
+la_kargil,shamli 
+la_kargil,jind 
+la_kargil,saharanpur 
+la_kargil,kaithal 
+la_kargil,yamunanagar 
+la_kargil,kurukshetra 
+ct_kabeerdham,patiala 
+ct_kabeerdham,kurukshetra 
+ct_kabeerdham,karnal 
+ct_kabeerdham,jind 
+gj_panchmahal,karnal 
+gj_panchmahal,shamli 
+gj_panchmahal,jind 
+gj_panchmahal,sonipat 
+gj_panchmahal,baghpat 
+wb_jhargram,karnal 
+wb_jhargram,sangrur 
+wb_jhargram,patiala 
+wb_jhargram,panipat 
+wb_jhargram,sonipat 
+wb_jhargram,kaithal 
+wb_jhargram,fatehabad 
+wb_jhargram,rohtak 
+wb_jhargram,hisar 
+ar_shi yomi,karnal 
+ar_shi yomi,panipat 
+ar_shi yomi,muzaffarnagar 
+ar_shi yomi,saharanpur 
+ar_shi yomi,baghpat 
+pb_rupnagar,charkhi dadri 
+pb_rupnagar,jind 
+pb_rupnagar,sonipat 
+pb_rupnagar,hisar 
+pb_rupnagar,bhiwani  
+pb_rupnagar,jhajjar 
+ka_haveri,jind 
+ka_haveri,rohtak 
+ka_haveri,fatehabad 
+ka_haveri,bhiwani  
+ka_haveri,hanumangarh 
+up_farrukhabad,sirsa 
+up_farrukhabad,sangrur 
+up_farrukhabad,mansa 
+up_farrukhabad,jind 
+up_farrukhabad,hisar 
+up_farrukhabad,hanumangarh 
+br_saran,patiala 
+br_saran,mansa 
+br_saran,jind 
+br_saran,fatehabad 
+br_saran,fategarh sahib 
+br_saran,barnala 
+br_saran,ludhiana 
+hr_bhiwani,churu 
+hr_bhiwani,charkhi dadri 
+hr_bhiwani,jhunjhunun 
+hr_bhiwani,mahendragarh 
+hr_bhiwani,rohtak 
+hr_bhiwani,hisar 
+hr_bhiwani,hanumangarh 
+mp_gwalior,sirsa 
+mp_gwalior,churu 
+mp_gwalior,fazilka 
+mp_gwalior,bikaner 
+mp_gwalior,muktsar 
+mp_gwalior,fatehabad 
+mp_gwalior,hisar 
+mp_gwalior,bhiwani  
+mp_gwalior,sri ganganagar 
+tn_sivaganga,bathinda 
+tn_sivaganga,mansa 
+tn_sivaganga,muktsar 
+tn_sivaganga,fatehabad 
+tn_sivaganga,hanumangarh 
+ka_mandya,sirsa 
+ka_mandya,bathinda 
+ka_mandya,sangrur 
+ka_mandya,fatehabad 
+ka_mandya,barnala 
+mh_beed,sirsa 
+mh_beed,mansa 
+mh_beed,moga 
+mh_beed,muktsar 
+mh_beed,barnala 
+mh_beed,faridkot 
+mp_morena,sirsa 
+mp_morena,bathinda 
+mp_morena,fazilka 
+mp_morena,firozpur 
+mp_morena,faridkot 
+mp_morena,hanumangarh 
+jh_chatra,mahendragarh 
+jh_chatra,rohtak 
+jh_chatra,jhajjar 
+jh_chatra,bhiwani  
+up_maharajganj,charkhi dadri 
+up_maharajganj,jaipur 
+up_maharajganj,jhunjhunun 
+up_maharajganj,sikar 
+up_maharajganj,rewari 
+up_maharajganj,alwar 
+up_maharajganj,bhiwani  
+up_maharajganj,jhajjar 
+br_rohtas,gurugram 
+br_rohtas,nuh 
+br_rohtas,mahendragarh 
+br_rohtas,alwar 
+br_rohtas,jhajjar 
+rj_churu,jhunjhunun 
+rj_churu,bhiwani  
+rj_churu,nagaur 
+rj_churu,sikar 
+rj_churu,bikaner 
+rj_churu,hanumangarh 
+up_jhansi,churu 
+up_jhansi,mahendragarh 
+up_jhansi,sikar 
+up_jhansi,bhiwani  
+tr_sipahijala,churu 
+tr_sipahijala,jaipur 
+tr_sipahijala,jhunjhunun 
+tr_sipahijala,mahendragarh 
+tr_sipahijala,nagaur 
+rj_alwar,jaipur 
+rj_alwar,nuh 
+rj_alwar,mahendragarh 
+rj_alwar,rewari 
+rj_alwar,dausa 
+rj_alwar,bharatpur 
+mp_jabalpur,ajmer 
+mp_jabalpur,mahendragarh 
+mp_jabalpur,nagaur 
+mp_jabalpur,sikar 
+mp_jabalpur,dausa 
+mp_jabalpur,alwar 
+mp_jabalpur,tonk 
+or_nuapada,gurugram 
+or_nuapada,rewari 
+or_nuapada,alwar 
+or_nuapada,mathura 
+or_nuapada,palwal 
+or_nuapada,bharatpur 
+rj_pali,gautam buddha nagar 
+rj_pali,gurugram 
+rj_pali,faridabad 
+rj_pali,nuh 
+rj_pali,aligarh 
+rj_pali,mathura 
+mn_ukhrul,reasi 
+mn_ukhrul,jammu 
+mn_ukhrul,ramban 
+mn_ukhrul,samba 
+mn_ukhrul,doda 
+mn_ukhrul,kathua 
+mh_jalna,reasi 
+mh_jalna,rajauri 
+mh_jalna,udhampur 
+mh_jalna,samba 
+ml_ribhoi,udhampur 
+ml_ribhoi,punch 
+ml_ribhoi,jammu 
+ml_ribhoi,ramban 
+ml_ribhoi,rajauri 
+ml_ribhoi,kulgam 
+tg_sangareddy,kathua 
+tg_sangareddy,jammu 
+tg_sangareddy,udhampur 
+tg_ranga reddy,reasi 
+tg_ranga reddy,anantnag 
+tg_ranga reddy,udhampur 
+tg_ranga reddy,doda 
+tg_ranga reddy,kulgam 
+rj_rajsamand,reasi 
+rj_rajsamand,jammu 
+rj_rajsamand,kulgam 
+rj_rajsamand,punch 
+wb_purba bardhaman,reasi 
+wb_purba bardhaman,baramula 
+wb_purba bardhaman,badgam 
+wb_purba bardhaman,rajauri 
+wb_purba bardhaman,kulgam 
+jk_kulgam,reasi 
+jk_kulgam,anantnag 
+jk_kulgam,punch 
+jk_kulgam,ramban 
+jk_kulgam,shopian 
+jk_kulgam,badgam 
+jk_kulgam,rajauri 
+up_azamgarh,punch 
+up_azamgarh,baramula 
+up_azamgarh,shopian 
+up_azamgarh,pulwama 
+up_azamgarh,kulgam 
+up_azamgarh,srinagar 
+rj_baran,punch 
+rj_baran,kupwara 
+rj_baran,badgam 
+rj_baran,bandipora 
+rj_baran,srinagar 
+mh_pune,anantnag 
+mh_pune,shopian 
+mh_pune,badgam 
+mh_pune,srinagar 
+or_sundargarh,anantnag 
+or_sundargarh,baramula 
+or_sundargarh,ganderbal 
+or_sundargarh,badgam 
+or_sundargarh,pulwama 
+or_sundargarh,bandipora 
+mp_sidhi,anantnag 
+mp_sidhi,kulgam 
+mp_sidhi,badgam 
+mp_sidhi,pulwama 
+jk_kupwara,bandipora 
+jk_kupwara,baramula 
+pb_faridkot,rupnagar 
+pb_faridkot,sangrur 
+pb_faridkot,patiala 
+pb_faridkot,sahibzada ajit singh nagar 
+pb_faridkot,ludhiana 
+ar_lower subansiri,rupnagar 
+ar_lower subansiri,sangrur 
+ar_lower subansiri,jalandhar 
+ar_lower subansiri,moga 
+ar_lower subansiri,fategarh sahib 
+ar_lower subansiri,barnala 
+ar_lower subansiri,shaheed bhagat singh nagar 
+up_mirzapur,bathinda 
+up_mirzapur,jalandhar 
+up_mirzapur,barnala 
+up_mirzapur,firozpur 
+up_mirzapur,faridkot 
+up_mirzapur,ludhiana 
+rj_jaipur,kapurthala 
+rj_jaipur,hoshiarpur 
+rj_jaipur,moga 
+rj_jaipur,firozpur 
+rj_jaipur,ludhiana 
+rj_jaipur,shaheed bhagat singh nagar 
+br_sheikhpura,kapurthala 
+br_sheikhpura,rupnagar 
+br_sheikhpura,hoshiarpur 
+br_sheikhpura,jalandhar 
+br_sheikhpura,ludhiana 
+as_barpeta,bathinda 
+as_barpeta,sangrur 
+as_barpeta,mansa 
+as_barpeta,moga 
+as_barpeta,ludhiana 
+up_etawah,muktsar 
+up_etawah,bathinda 
+up_etawah,moga 
+up_etawah,firozpur 
+pb_fazilka,kapurthala 
+pb_fazilka,tarn taran 
+pb_fazilka,fazilka 
+pb_fazilka,jalandhar 
+pb_fazilka,moga 
+pb_fazilka,muktsar 
+pb_fazilka,faridkot 
+pb_fatehgarh sahib,muktsar 
+pb_fatehgarh sahib,firozpur 
+pb_fatehgarh sahib,sri ganganagar 
+pb_fatehgarh sahib,hanumangarh 
+up_kanpur nagar,amritsar 
+up_kanpur nagar,hoshiarpur 
+up_kanpur nagar,tarn taran 
+up_kanpur nagar,jalandhar 
+up_kanpur nagar,gurdaspur 
+up_kanpur nagar,firozpur 
+up_kanpur nagar,shaheed bhagat singh nagar 
+mn_tengnoupal,kapurthala 
+mn_tengnoupal,firozpur 
+mn_tengnoupal,amritsar 
+pb_amritsar,kapurthala 
+pb_amritsar,gurdaspur 
+pb_amritsar,tarn taran 
+or_subarnapur,fazilka 
+or_subarnapur,hanumangarh 
+or_subarnapur,bikaner 
+mp_sagar,banas kantha  
+mp_sagar,udaipur 
+mp_sagar,sirohi 
+mp_sagar,mahesana  
+mp_sagar,gandhinagar  
+mp_sagar,aravalli  
+rj_udaipur,jaipur 
+rj_udaipur,bundi 
+rj_udaipur,ajmer 
+rj_udaipur,bhilwara 
+rj_udaipur,dausa 
+rj_udaipur,sawai madhopur 
+rj_bhilwara,rajsamand 
+rj_bhilwara,chittorgarh 
+rj_bhilwara,bundi 
+rj_bhilwara,ajmer 
+rj_bhilwara,neemuch 
+rj_bhilwara,tonk 
+rj_bharatpur,agra 
+rj_bharatpur,dhaulpur 
+rj_bharatpur,nuh 
+rj_bharatpur,dausa 
+rj_bharatpur,alwar 
+rj_bharatpur,mathura 
+rj_bharatpur,karauli 
+as_darrang,jaipur 
+as_darrang,alwar 
+as_darrang,sawai madhopur 
+as_darrang,karauli 
+as_darrang,tonk 
+as_darrang,bharatpur 
+tn_dharmapuri,karauli 
+tn_dharmapuri,agra 
+tn_dharmapuri,bharatpur 
+tn_dharmapuri,morena 
+pb_kapurthala,dhaulpur 
+pb_kapurthala,sheopur 
+pb_kapurthala,morena 
+pb_kapurthala,dausa 
+pb_kapurthala,sawai madhopur 
+pb_kapurthala,bharatpur 
+up_mathura,agra 
+up_mathura,hathras 
+up_mathura,nuh 
+up_mathura,aligarh 
+up_mathura,palwal 
+up_mathura,bharatpur 
+up_agra,etawah 
+up_agra,hathras 
+up_agra,dhaulpur 
+up_agra,bhind 
+up_agra,morena 
+up_agra,mathura 
+up_agra,etah 
+up_agra,firozabad 
+up_agra,bharatpur 
+mn_senapati,bundi 
+mn_senapati,sheopur 
+mn_senapati,kota 
+mn_senapati,dausa 
+mn_senapati,karauli 
+mn_senapati,tonk 
+gj_morbi,shivpuri 
+gj_morbi,agra 
+gj_morbi,dhaulpur 
+gj_morbi,bhind 
+gj_morbi,sheopur 
+gj_morbi,gwalior 
+gj_morbi,karauli 
+jk_shopiyan,shivpuri 
+jk_shopiyan,kota 
+jk_shopiyan,morena 
+jk_shopiyan,baran 
+jk_shopiyan,sawai madhopur 
+jk_shopiyan,karauli 
+rj_kota,chittorgarh 
+rj_kota,bundi 
+rj_kota,mandsaur 
+rj_kota,sheopur 
+rj_kota,baran 
+rj_kota,sawai madhopur 
+rj_kota,jhalawar 
+mp_burhanpur,chittorgarh 
+mp_burhanpur,bhilwara 
+mp_burhanpur,kota 
+mp_burhanpur,sawai madhopur 
+mp_burhanpur,tonk 
+up_bareilly,shivpuri 
+up_bareilly,guna 
+up_bareilly,sheopur 
+up_bareilly,kota 
+up_bareilly,jhalawar 
+br_jehanabad,rajgarh 
+br_jehanabad,guna 
+br_jehanabad,ratlam 
+br_jehanabad,agar malwa 
+br_jehanabad,mandsaur 
+br_jehanabad,kota 
+br_jehanabad,baran 
+tg_siddipet,guna 
+tg_siddipet,ashok nagar 
+tg_siddipet,jhansi 
+tg_siddipet,lalitpur 
+tg_siddipet,datia 
+tg_siddipet,sheopur 
+tg_siddipet,gwalior 
+tg_siddipet,morena 
+tg_siddipet,baran 
+mh_gondia,shivpuri 
+mh_gondia,vidisha 
+mh_gondia,rajgarh 
+mh_gondia,ashok nagar 
+mh_gondia,bhopal 
+mh_gondia,baran 
+mh_gondia,jhalawar 
+mp_mandla,chittorgarh 
+mp_mandla,ratlam 
+mp_mandla,neemuch 
+mp_mandla,kota 
+mp_mandla,jhalawar 
+mp_mandla,pratapgarh 
+ka_ramanagara,guna 
+ka_ramanagara,shajapur 
+ka_ramanagara,agar malwa 
+ka_ramanagara,sehore 
+ka_ramanagara,bhopal 
+ka_ramanagara,jhalawar 
+jk_reasi,agar malwa 
+jk_reasi,mandsaur 
+jk_reasi,ujjain 
+jk_reasi,jhabua 
+jk_reasi,banswara 
+jk_reasi,dhar 
+jk_reasi,jhalawar 
+jk_reasi,pratapgarh 
+mp_agar malwa,rajgarh 
+mp_agar malwa,shajapur 
+mp_agar malwa,ratlam 
+mp_agar malwa,ujjain 
+mp_agar malwa,jhalawar 
+rj_chittorgarh,rajsamand 
+rj_chittorgarh,bundi 
+rj_chittorgarh,udaipur 
+rj_chittorgarh,mandsaur 
+rj_chittorgarh,neemuch 
+rj_chittorgarh,bhilwara 
+rj_chittorgarh,kota 
+rj_chittorgarh,pratapgarh 
+mp_neemuch,chittorgarh 
+mp_neemuch,mandsaur 
+mp_neemuch,pratapgarh 
+mp_neemuch,bhilwara 
+py_puducherry,chittorgarh 
+py_puducherry,ratlam 
+py_puducherry,dungarpur 
+py_puducherry,udaipur 
+py_puducherry,mandsaur 
+py_puducherry,neemuch 
+py_puducherry,banswara 
+up_barabanki,ratlam 
+up_barabanki,dahod  
+up_barabanki,dungarpur 
+up_barabanki,jhabua 
+up_barabanki,pratapgarh 
+up_barabanki,mahisagar  
+jk_doda,udaipur 
+jk_doda,banswara 
+jk_doda,pratapgarh 
+jk_doda,mahisagar  
+jk_doda,aravalli  
+dn_dadra and nagar haveli,panch mahal  
+dn_dadra and nagar haveli,alirajpur 
+dn_dadra and nagar haveli,jhabua 
+dn_dadra and nagar haveli,banswara 
+dn_dadra and nagar haveli,mahisagar  
+dn_dadra and nagar haveli,chhota udaipur  
+up_jaunpur,ratlam 
+up_jaunpur,dahod  
+up_jaunpur,alirajpur 
+up_jaunpur,banswara 
+up_jaunpur,dhar 
+py_mahe,dahod  
+py_mahe,dungarpur 
+py_mahe,aravalli  
+py_mahe,panch mahal  
+py_mahe,banswara 
+py_mahe,kheda  
+br_araria,dungarpur 
+br_araria,udaipur 
+br_araria,sabar kantha  
+br_araria,gandhinagar  
+br_araria,mahisagar  
+br_araria,kheda  
+ct_mahasamund,banas kantha  
+ct_mahasamund,patan 
+ct_mahasamund,sabar kantha  
+ct_mahasamund,ahmedabad  
+ct_mahasamund,surendranagar  
+ct_mahasamund,gandhinagar  
+kl_pathanamthitta,surendranagar  
+kl_pathanamthitta,kutch  
+kl_pathanamthitta,mahesana  
+kl_pathanamthitta,banas kantha  
+or_gajapati,sabar kantha  
+or_gajapati,ahmedabad  
+or_gajapati,mahesana  
+or_gajapati,kheda  
+or_gajapati,aravalli  
+mn_tamenglong,patan 
+mn_tamenglong,rajkot 
+mn_tamenglong,ahmedabad  
+mn_tamenglong,mahesana  
+mn_tamenglong,botad  
+mn_tamenglong,morbi  
+mn_tamenglong,kutch  
+gj_ahmedabad,anand  
+gj_ahmedabad,mahesana  
+gj_ahmedabad,botad  
+gj_ahmedabad,surendranagar  
+gj_ahmedabad,bhavnagar  
+gj_ahmedabad,gandhinagar  
+gj_ahmedabad,kheda  
+hr_palwal,vadodara  
+hr_palwal,dahod  
+hr_palwal,kheda  
+hr_palwal,mahisagar  
+hr_palwal,chhota udaipur  
+gj_chhota udaipur,vadodara  
+gj_chhota udaipur,dahod  
+gj_chhota udaipur,narmada  
+gj_chhota udaipur,panch mahal  
+gj_chhota udaipur,alirajpur 
+gj_chhota udaipur,nandubar 
+mp_alirajpur,dahod  
+mp_alirajpur,barwani 
+mp_alirajpur,jhabua 
+mp_alirajpur,dhar 
+mp_alirajpur,nandubar 
+mp_alirajpur,chhota udaipur  
+tg_khammam,vadodara  
+tg_khammam,anand  
+tg_khammam,ahmedabad  
+tg_khammam,panch mahal  
+tg_khammam,gandhinagar  
+tg_khammam,mahisagar  
+tg_khammam,aravalli  
+up_varanasi,anand  
+up_varanasi,bharuch  
+up_varanasi,narmada  
+up_varanasi,panch mahal  
+up_varanasi,chhota udaipur  
+up_varanasi,kheda  
+up_amroha,vadodara  
+up_amroha,ahmedabad  
+up_amroha,bharuch  
+up_amroha,kheda  
+gj_narmada,vadodara  
+gj_narmada,bharuch  
+gj_narmada,nandubar 
+gj_narmada,tapi  
+gj_narmada,surat 
+gj_narmada,chhota udaipur  
+gj_bharuch,vadodara  
+gj_bharuch,anand  
+gj_bharuch,narmada  
+gj_bharuch,surat 
+tg_suryapet,narmada  
+tg_suryapet,bharuch  
+tg_suryapet,tapi  
+tg_suryapet,nav sari  
+mh_nandurbar,narmada  
+mh_nandurbar,barwani 
+mh_nandurbar,alirajpur 
+mh_nandurbar,dhule 
+mh_nandurbar,tapi  
+mh_nandurbar,chhota udaipur  
+ut_tehri garhwal,narmada  
+ut_tehri garhwal,nav sari  
+ut_tehri garhwal,dhule 
+ut_tehri garhwal,nandubar 
+ut_tehri garhwal,the dangs 
+ut_tehri garhwal,surat 
+gj_navsari,nashik 
+gj_navsari,valsad 
+gj_navsari,tapi  
+gj_navsari,the dangs 
+gj_navsari,surat 
+kl_thiruvananthapuram,tapi  
+kl_thiruvananthapuram,nav sari  
+kl_thiruvananthapuram,dhule 
+kl_thiruvananthapuram,nashik 
+rj_dholpur,nashik 
+rj_dholpur,barwani 
+rj_dholpur,jalgaon 
+rj_dholpur,nandubar 
+rj_dholpur,the dangs 
+rj_dholpur,tapi  
+mh_nashik,nav sari  
+mh_nashik,valsad 
+mh_nashik,dhule 
+mh_nashik,konkan division 
+mh_nashik,jalgaon 
+mh_nashik,ahmednagar 
+mh_nashik,palghar 
+mh_nashik,the dangs 
+mh_nashik,aurangabad 
+mh_nashik,thane 
+or_cuttack,palghar 
+or_cuttack,valsad 
+or_cuttack,konkan division 
+mp_vidisha,nashik 
+mp_vidisha,konkan division 
+mp_vidisha,palghar 
+mp_vidisha,nav sari  
+mp_vidisha,daman 
+mp_vidisha,dadra and nagar haveli 
+ct_kondagaon,kolhapur 
+ct_kondagaon,sindhudurg 
+ct_kondagaon,raigad 
+ct_kondagaon,nashik 
+ct_kondagaon,thane 
+ct_kondagaon,valsad 
+ct_kondagaon,mumbai city 
+ct_kondagaon,belgaum  
+ct_kondagaon,mumbai suburban 
+ct_kondagaon,pune  
+ct_kondagaon,ahmednagar 
+ct_kondagaon,palghar 
+ct_kondagaon,north goa 
+ct_kondagaon,satara 
+ct_kondagaon,ratnagiri 
+ct_kondagaon,dadra and nagar haveli 
+ct_kondagaon,sangli  
+kl_palakkad,nashik 
+kl_palakkad,valsad 
+kl_palakkad,konkan division 
+kl_palakkad,thane 
+kl_palakkad,dadra and nagar haveli 
+wb_dakshin dinajpur,valsad 
+tn_ramanathapuram,porbandar  
+tn_ramanathapuram,amreli  
+tn_ramanathapuram,junagadh  
+tn_ramanathapuram,botad  
+tn_ramanathapuram,surendranagar  
+tn_ramanathapuram,morbi  
+tn_ramanathapuram,jamnagar  
+up_moradabad,surendranagar  
+up_moradabad,kutch  
+up_moradabad,jamnagar  
+up_moradabad,rajkot 
+jk_budgam,rajkot 
+jk_budgam,ahmedabad  
+jk_budgam,amreli  
+jk_budgam,surendranagar  
+jk_budgam,bhavnagar  
+gj_bhavnagar,amreli  
+gj_bhavnagar,ahmedabad  
+gj_bhavnagar,botad  
+rj_jodhpur,rajkot 
+rj_jodhpur,porbandar  
+rj_jodhpur,gir somnath  
+rj_jodhpur,amreli  
+ap_prakasam,rajkot 
+ap_prakasam,devbhumi dwaraka  
+ap_prakasam,junagadh  
+ap_prakasam,jamnagar  
+gj_amreli,rajkot 
+gj_amreli,junagadh  
+gj_amreli,botad  
+gj_amreli,gir somnath  
+gj_amreli,bhavnagar  
+rj_jalore,rajkot 
+rj_jalore,morbi  
+rj_jalore,devbhumi dwaraka  
+rj_jalore,porbandar  
+up_meerut,bijnor 
+up_meerut,hapur 
+up_meerut,muzaffarnagar 
+up_meerut,ghaziabad 
+up_meerut,jyotiba phule nagar 
+up_meerut,baghpat 
+tg_jogulamba gadwal,sambhal 
+tg_jogulamba gadwal,bijnor 
+tg_jogulamba gadwal,bulandshahr 
+tg_jogulamba gadwal,hapur 
+tg_jogulamba gadwal,moradabad 
+tg_jogulamba gadwal,meerut 
+as_hailakandi,gautam buddha nagar 
+as_hailakandi,bulandshahr 
+as_hailakandi,ghaziabad 
+as_hailakandi,jyotiba phule nagar 
+as_hailakandi,meerut 
+up_aligarh,gautam buddha nagar 
+up_aligarh,sambhal 
+up_aligarh,bulandshahr 
+up_aligarh,hathras 
+up_aligarh,kasganj 
+up_aligarh,mathura 
+up_aligarh,budaun 
+up_aligarh,palwal 
+mh_buldhana,gautam buddha nagar 
+mh_buldhana,sambhal 
+mh_buldhana,hapur 
+mh_buldhana,aligarh 
+mh_buldhana,jyotiba phule nagar 
+pb_sangrur,bulandshahr 
+pb_sangrur,moradabad 
+pb_sangrur,aligarh 
+pb_sangrur,jyotiba phule nagar 
+pb_sangrur,budaun 
+up_hardoi,agra 
+up_hardoi,aligarh 
+up_hardoi,kasganj 
+up_hardoi,mathura 
+up_hardoi,etah 
+up_bulandshahr,kasganj 
+up_bulandshahr,sambhal 
+up_bulandshahr,moradabad 
+up_bulandshahr,bareilly 
+up_bulandshahr,rampur 
+up_bulandshahr,aligarh 
+up_bulandshahr,shahjahanpur 
+up_bulandshahr,farrukhabad 
+hr_karnal,hathras 
+hr_karnal,aligarh 
+hr_karnal,etah 
+hr_karnal,budaun 
+hr_karnal,farrukhabad 
+jh_east singhbhum,agra 
+jh_east singhbhum,hathras 
+jh_east singhbhum,mainpuri 
+jh_east singhbhum,kasganj 
+jh_east singhbhum,firozabad 
+jh_east singhbhum,farrukhabad 
+br_sheohar,pilibhit 
+br_sheohar,bareilly 
+br_sheohar,kheri 
+br_sheohar,budaun 
+br_sheohar,farrukhabad 
+br_sheohar,hardoi 
+up_fatehpur,etah 
+up_fatehpur,agra 
+up_fatehpur,etawah 
+up_fatehpur,mainpuri 
+kl_ernakulam,auraiya 
+kl_ernakulam,agra 
+kl_ernakulam,bhind 
+kl_ernakulam,jalaun 
+kl_ernakulam,mainpuri 
+kl_ernakulam,firozabad 
+kl_ernakulam,kannauj 
+mp_bhind,etawah 
+mp_bhind,jhansi 
+mp_bhind,agra 
+mp_bhind,datia 
+mp_bhind,jalaun 
+mp_bhind,gwalior 
+mp_bhind,morena 
+hr_faridabad,kasganj 
+hr_faridabad,mainpuri 
+hr_faridabad,shahjahanpur 
+hr_faridabad,kannauj 
+hr_faridabad,etah 
+hr_faridabad,budaun 
+hr_faridabad,hardoi 
+up_mahoba,etawah 
+up_mahoba,etah 
+up_mahoba,firozabad 
+up_mahoba,farrukhabad 
+up_mahoba,kannauj 
+mn_kangpokpi,kanpur nagar 
+mn_kangpokpi,auraiya 
+mn_kangpokpi,etawah 
+mn_kangpokpi,kanpur dehat 
+mn_kangpokpi,mainpuri 
+mn_kangpokpi,farrukhabad 
+mn_kangpokpi,hardoi 
+mp_khandwa,pilibhit 
+mp_khandwa,bahraich 
+mp_khandwa,shahjahanpur 
+mp_khandwa,sitapur 
+mp_khandwa,hardoi 
+up_bahraich,sharawasti 
+up_bahraich,sitapur 
+up_bahraich,barabanki 
+up_bahraich,kheri 
+up_bahraich,gonda 
+hp_shimla,gonda 
+hp_shimla,balrampur 
+hp_shimla,bahraich 
+br_siwan,lucknow 
+br_siwan,bahraich 
+br_siwan,barabanki 
+br_siwan,kheri 
+br_siwan,hardoi 
+jk_baramulla,lucknow 
+jk_baramulla,rae bareilly 
+jk_baramulla,amethi 
+jk_baramulla,bahraich 
+jk_baramulla,faizabad 
+jk_baramulla,gonda 
+jk_baramulla,sitapur 
+as_goalpara,sharawasti 
+as_goalpara,balrampur 
+as_goalpara,siddharth nagar 
+as_goalpara,basti 
+as_goalpara,bahraich 
+as_goalpara,faizabad 
+as_goalpara,barabanki 
+ct_balrampur,gonda 
+ct_balrampur,sharawasti 
+ct_balrampur,siddharth nagar 
+jh_simdega,balrampur 
+jh_simdega,gorakhpur 
+jh_simdega,sait kibir nagar 
+jh_simdega,basti 
+jh_simdega,gonda 
+jh_simdega,mahrajganj 
+gj_mahisagar,pashchim champaran 
+gj_mahisagar,gorakhpur 
+gj_mahisagar,kushinagar 
+gj_mahisagar,siddharth nagar 
+pb_bathinda,siddharth nagar 
+pb_bathinda,sait kibir nagar 
+pb_bathinda,ambedkar nagar 
+pb_bathinda,faizabad 
+pb_bathinda,gonda 
+tr_gomati,mau 
+tr_gomati,kushinagar 
+tr_gomati,siddharth nagar 
+tr_gomati,deoria 
+tr_gomati,azamgarh 
+tr_gomati,sait kibir nagar 
+tr_gomati,ambedkar nagar 
+tr_gomati,mahrajganj 
+jk_samba,ambedkar nagar 
+jk_samba,gorakhpur 
+jk_samba,basti 
+jk_samba,siddharth nagar 
+up_kushinagar,pashchim champaran 
+up_kushinagar,gopalganj 
+up_kushinagar,deoria 
+up_kushinagar,gorakhpur 
+up_kushinagar,mahrajganj 
+or_deogarh,mau 
+or_deogarh,gopalganj 
+or_deogarh,kushinagar 
+or_deogarh,gorakhpur 
+or_deogarh,siwan 
+or_deogarh,ballia 
+up_kannauj,kanpur nagar 
+up_kannauj,auraiya 
+up_kannauj,hamirpur 
+up_kannauj,jalaun 
+up_kannauj,kannauj 
+pb_gurdaspur,kanpur nagar 
+pb_gurdaspur,mahoba 
+pb_gurdaspur,kanpur dehat 
+pb_gurdaspur,jhansi 
+pb_gurdaspur,jalaun 
+pb_gurdaspur,banda 
+pb_gurdaspur,fatehpur 
+mp_ashoknagar,kannauj 
+mp_ashoknagar,etawah 
+mp_ashoknagar,kanpur dehat 
+mp_ashoknagar,jalaun 
+rj_jaisalmer,etawah 
+rj_jaisalmer,auraiya 
+rj_jaisalmer,hamirpur 
+rj_jaisalmer,kanpur dehat 
+rj_jaisalmer,jhansi 
+rj_jaisalmer,bhind 
+mp_jhabua,mahoba 
+mp_jhabua,shivpuri 
+mp_jhabua,hamirpur 
+mp_jhabua,lalitpur 
+mp_jhabua,tikamgarh 
+mp_jhabua,datia 
+mp_jhabua,bhind 
+mp_jhabua,jalaun 
+mp_jhabua,chhatarpur 
+mp_jhabua,niwari 
+br_lakhisarai,shivpuri 
+br_lakhisarai,ashok nagar 
+br_lakhisarai,jhansi 
+br_lakhisarai,tikamgarh 
+br_lakhisarai,sagar 
+br_lakhisarai,datia 
+br_lakhisarai,chhatarpur 
+br_lakhisarai,niwari 
+hr_mahendragarh,jhansi 
+hr_mahendragarh,banda 
+hr_mahendragarh,chhatarpur 
+hr_mahendragarh,hamirpur 
+wb_darjeeling,shivpuri 
+wb_darjeeling,jhansi 
+wb_darjeeling,lalitpur 
+wb_darjeeling,bhind 
+wb_darjeeling,gwalior 
+mp_chhatarpur,mahoba 
+mp_chhatarpur,damoh 
+mp_chhatarpur,jhansi 
+mp_chhatarpur,lalitpur 
+mp_chhatarpur,tikamgarh 
+mp_chhatarpur,sagar 
+mp_chhatarpur,banda 
+mp_chhatarpur,panna 
+tn_tirunelveli,jhansi 
+tn_tirunelveli,niwari 
+tn_tirunelveli,chhatarpur 
+tn_tirunelveli,lalitpur 
+tn_nilgiris,jhansi 
+tn_nilgiris,tikamgarh 
+tn_nilgiris,lalitpur 
+up_saharanpur,damoh 
+up_saharanpur,vidisha 
+up_saharanpur,ashok nagar 
+up_saharanpur,lalitpur 
+up_saharanpur,narsimhapur 
+up_saharanpur,raisen 
+up_saharanpur,chhatarpur 
+br_arwal,shivpuri 
+br_arwal,guna 
+br_arwal,vidisha 
+br_arwal,lalitpur 
+br_arwal,sagar 
+tn_erode,basti 
+tn_erode,amethi 
+tn_erode,ambedkar nagar 
+tn_erode,barabanki 
+tn_erode,sultanpur 
+tn_erode,gonda 
+up_amethi,pratapgarh 
+up_amethi,rae bareilly 
+up_amethi,faizabad 
+up_amethi,barabanki 
+up_amethi,sultanpur 
+up_ambedkar nagar,azamgarh 
+up_ambedkar nagar,gorakhpur 
+up_ambedkar nagar,basti 
+up_ambedkar nagar,sait kibir nagar 
+up_ambedkar nagar,faizabad 
+up_ambedkar nagar,sultanpur 
+ct_surajpur,jaunpur 
+ct_surajpur,pratapgarh 
+ct_surajpur,azamgarh 
+ct_surajpur,amethi 
+ct_surajpur,ambedkar nagar 
+ct_surajpur,faizabad 
+gj_banaskantha,mahoba 
+gj_banaskantha,hamirpur 
+gj_banaskantha,chhatarpur 
+gj_banaskantha,satna 
+gj_banaskantha,panna 
+gj_banaskantha,chitrakoot 
+gj_banaskantha,fatehpur 
+jk_kathua,pratapgarh 
+jk_kathua,rae bareilly 
+jk_kathua,prayagraj 
+jk_kathua,chitrakoot 
+jk_kathua,fatehpur 
+up_prayagraj,jaunpur 
+up_prayagraj,rae bareilly 
+up_prayagraj,prayagraj 
+up_prayagraj,amethi 
+up_prayagraj,kaushambi 
+up_prayagraj,sultanpur 
+up_prayagraj,fatehpur 
+up_chitrakoot,prayagraj 
+up_chitrakoot,satna 
+up_chitrakoot,banda 
+up_chitrakoot,kaushambi 
+up_chitrakoot,rewa 
+up_chitrakoot,fatehpur 
+tn_pudukkottai,jaunpur 
+tn_pudukkottai,pratapgarh 
+tn_pudukkottai,mirzapur 
+tn_pudukkottai,kaushambi 
+tn_pudukkottai,rewa 
+tn_pudukkottai,chitrakoot 
+tn_pudukkottai,sant ravidas nagar 
+tg_jangaon,varanasi 
+tg_jangaon,ghazipur 
+tg_jangaon,pratapgarh 
+tg_jangaon,azamgarh 
+tg_jangaon,prayagraj 
+tg_jangaon,sultanpur 
+tg_jangaon,sant ravidas nagar 
+gj_mehsana,varanasi 
+gj_mehsana,sonbhadra 
+gj_mehsana,prayagraj 
+gj_mehsana,singrauli 
+gj_mehsana,chandauli 
+gj_mehsana,rewa 
+gj_mehsana,sant ravidas nagar 
+mh_satara,mirzapur 
+mh_satara,varanasi 
+mh_satara,jaunpur 
+mh_satara,prayagraj 
+hr_rohtak,prayagraj 
+hr_rohtak,singrauli 
+hr_rohtak,satna 
+hr_rohtak,mirzapur 
+hr_rohtak,chitrakoot 
+hr_rohtak,sidhi 
+hr_panipat,damoh 
+hr_panipat,chhatarpur 
+hr_panipat,satna 
+hr_panipat,banda 
+hr_panipat,katni 
+mp_sehore,umaria 
+mp_sehore,banda 
+mp_sehore,panna 
+mp_sehore,katni 
+mp_sehore,rewa 
+mp_sehore,chitrakoot 
+mp_sehore,sidhi 
+mp_sehore,shahdol 
+up_ayodhya,mau 
+up_ayodhya,ghazipur 
+up_ayodhya,jaunpur 
+up_ayodhya,gorakhpur 
+up_ayodhya,ambedkar nagar 
+up_ayodhya,sultanpur 
+ct_gaurela pendra marwahi,mau 
+ct_gaurela pendra marwahi,jaunpur 
+ct_gaurela pendra marwahi,varanasi 
+ct_gaurela pendra marwahi,buxar 
+ct_gaurela pendra marwahi,azamgarh 
+ct_gaurela pendra marwahi,kaimur (bhabua) 
+ct_gaurela pendra marwahi,chandauli 
+ct_gaurela pendra marwahi,ballia 
+up_mau,ghazipur 
+up_mau,deoria 
+up_mau,azamgarh 
+up_mau,gorakhpur 
+up_mau,ballia 
+ka_ballari,mau 
+ka_ballari,ghazipur 
+ka_ballari,deoria 
+ka_ballari,buxar 
+ka_ballari,bhojpur 
+ka_ballari,siwan 
+ka_ballari,saran 
+up_sonbhadra,gopalganj 
+up_sonbhadra,ballia 
+up_sonbhadra,deoria 
+up_sonbhadra,saran 
+mp_satna,muzaffarpur 
+mp_satna,gopalganj 
+mp_satna,vaishali 
+mp_satna,bhojpur 
+mp_satna,siwan 
+mp_satna,ballia 
+mp_satna,patna 
+br_bhojpur,arwal 
+br_bhojpur,buxar 
+br_bhojpur,saran 
+br_bhojpur,ballia 
+br_bhojpur,patna 
+br_bhojpur,rohtas 
+as_cachar,ghazipur 
+as_cachar,bhojpur 
+as_cachar,kaimur (bhabua) 
+as_cachar,ballia 
+as_cachar,rohtas 
+mn_chandel,varanasi 
+mn_chandel,ghazipur 
+mn_chandel,sonbhadra 
+mn_chandel,kaimur (bhabua) 
+mn_chandel,mirzapur 
+ka_vijayapura,jaunpur 
+ka_vijayapura,ghazipur 
+ka_vijayapura,mirzapur 
+ka_vijayapura,chandauli 
+ka_vijayapura,sant ravidas nagar 
+gj_junagadh,ghazipur 
+gj_junagadh,sonbhadra 
+gj_junagadh,buxar 
+gj_junagadh,chandauli 
+gj_junagadh,rohtas 
+an_south andaman,garhwa 
+an_south andaman,kaimur (bhabua) 
+an_south andaman,singrauli 
+an_south andaman,mirzapur 
+an_south andaman,balrampur 
+an_south andaman,chandauli 
+an_south andaman,rohtas 
+hr_sirsa,sonbhadra 
+hr_sirsa,surajpur 
+hr_sirsa,mirzapur 
+hr_sirsa,balrampur 
+hr_sirsa,rewa 
+hr_sirsa,sidhi 
+hr_sirsa,koriya 
+pb_s.a.s. nagar,arwal 
+pb_s.a.s. nagar,sonbhadra 
+pb_s.a.s. nagar,buxar 
+pb_s.a.s. nagar,palamu 
+pb_s.a.s. nagar,aurangabad 
+pb_s.a.s. nagar,bhojpur 
+pb_s.a.s. nagar,garhwa 
+pb_s.a.s. nagar,kaimur (bhabua) 
+gj_gandhinagar,sonbhadra 
+gj_gandhinagar,palamu 
+gj_gandhinagar,balrampur 
+gj_gandhinagar,latehar 
+gj_gandhinagar,rohtas 
+ct_baloda bazar,gumla 
+ct_baloda bazar,sonbhadra 
+ct_baloda bazar,surajpur 
+ct_baloda bazar,jashpur 
+ct_baloda bazar,garhwa 
+ct_baloda bazar,singrauli 
+ct_baloda bazar,latehar 
+ct_baloda bazar,surguja 
+br_munger,khagaria 
+br_munger,begusarai 
+br_munger,banka 
+br_munger,lakhisarai 
+br_munger,bhagalpur 
+br_munger,jamui 
+up_ghazipur,dumka 
+up_ghazipur,banka 
+up_ghazipur,bhagalpur 
+up_ghazipur,pakaur 
+up_ghazipur,sahibganj 
+wb_bankura,munger 
+wb_bankura,deoghar 
+wb_bankura,dumka 
+wb_bankura,bhagalpur 
+wb_bankura,jamui 
+wb_bankura,godda 
+ka_belagavi,munger 
+ka_belagavi,khagaria 
+ka_belagavi,samastipur 
+ka_belagavi,lakhisarai 
+ka_belagavi,patna 
+up_lakhimpur kheri,sheikhpura 
+up_lakhimpur kheri,munger 
+up_lakhimpur kheri,nalanda 
+up_lakhimpur kheri,begusarai 
+up_lakhimpur kheri,patna 
+up_lakhimpur kheri,jamui 
+jk_jammu,sheikhpura 
+jk_jammu,munger 
+jk_jammu,deoghar 
+jk_jammu,nawada 
+jk_jammu,giridih 
+jk_jammu,banka 
+jk_jammu,lakhisarai 
+ut_dehradun,dumka 
+ut_dehradun,giridih 
+ut_dehradun,jamtara 
+ut_dehradun,banka 
+ut_dehradun,jamui 
+br_gaya,deoghar 
+br_gaya,nawada 
+br_gaya,jamtara 
+br_gaya,kodarma 
+br_gaya,dhanbad 
+br_gaya,jamui 
+br_gaya,bokaro 
+br_gaya,hazaribagh 
+dn_diu,deoghar 
+dn_diu,jamtara 
+dn_diu,banka 
+dn_diu,birbhum 
+dn_diu,pakaur 
+dn_diu,godda 
+wb_jalpaiguri,dumka 
+wb_jalpaiguri,giridih 
+wb_jalpaiguri,deoghar 
+wb_jalpaiguri,birbhum 
+wb_jalpaiguri,dhanbad 
+wb_jalpaiguri,paschim bardhaman 
+tn_vellore,samastipur 
+tn_vellore,patna 
+tn_vellore,muzaffarpur 
+tn_vellore,saran 
+br_patna,arwal 
+br_patna,nalanda 
+br_patna,begusarai 
+br_patna,vaishali 
+br_patna,bhojpur 
+br_patna,samastipur 
+br_patna,lakhisarai 
+br_patna,jehanabad 
+br_patna,saran 
+tn_ariyalur,aurangabad 
+tn_ariyalur,bhojpur 
+tn_ariyalur,gaya 
+tn_ariyalur,patna 
+tn_ariyalur,jehanabad 
+tn_ariyalur,rohtas 
+ct_jashpur,nalanda 
+ct_jashpur,gaya 
+ct_jashpur,patna 
+ct_jashpur,arwal 
+br_nalanda,sheikhpura 
+br_nalanda,nawada 
+br_nalanda,lakhisarai 
+br_nalanda,gaya 
+br_nalanda,patna 
+br_nalanda,jehanabad 
+up_auraiya,arwal 
+up_auraiya,gaya 
+up_auraiya,palamu 
+up_auraiya,rohtas 
+jh_pakur,aurangabad 
+jh_pakur,garhwa 
+jh_pakur,gaya 
+jh_pakur,latehar 
+jh_pakur,chatra 
+jh_pakur,rohtas 
+jh_garhwa,arwal 
+jh_garhwa,nalanda 
+jh_garhwa,nawada 
+jh_garhwa,palamu 
+jh_garhwa,aurangabad 
+jh_garhwa,kodarma 
+jh_garhwa,chatra 
+jh_garhwa,jehanabad 
+jh_garhwa,hazaribagh 
+br_nawada,sheikhpura 
+br_nawada,giridih 
+br_nawada,nalanda 
+br_nawada,kodarma 
+br_nawada,gaya 
+br_nawada,jamui 
+tn_chengalpattu,palamu 
+tn_chengalpattu,gaya 
+tn_chengalpattu,latehar 
+tn_chengalpattu,ranchi 
+tn_chengalpattu,hazaribagh 
+ka_kodagu,giridih 
+ka_kodagu,gaya 
+ka_kodagu,hazaribagh 
+ka_kodagu,nawada 
+ka_hassan,giridih 
+ka_hassan,kodarma 
+ka_hassan,gaya 
+ka_hassan,ranchi 
+ka_hassan,ramgarh 
+ka_hassan,chatra 
+ka_hassan,bokaro 
+ka_shivamogga,jamui 
+ka_shivamogga,lakhisarai 
+ka_shivamogga,nalanda 
+ka_shivamogga,nawada 
+jh_bokaro,dumka 
+jh_bokaro,jamtara 
+jh_bokaro,murshidabad 
+jh_bokaro,purba bardhaman 
+jh_bokaro,pakaur 
+jh_bokaro,paschim bardhaman 
+or_puri,murshidabad 
+or_puri,birbhum 
+or_puri,bankura 
+or_puri,paschim bardhaman 
+or_puri,hugli 
+or_puri,nadia 
+mh_osmanabad,dumka 
+mh_osmanabad,murshidabad 
+mh_osmanabad,birbhum 
+mh_osmanabad,godda 
+mh_osmanabad,sahibganj 
+mh_parbhani,jamtara 
+mh_parbhani,birbhum 
+mh_parbhani,purba bardhaman 
+mh_parbhani,dhanbad 
+mh_parbhani,bankura 
+mh_parbhani,puruliya 
+wb_nadia,murshidabad 
+wb_nadia,purba bardhaman 
+wb_nadia,hugli 
+wb_nadia,north  parganas 
+wb_hooghly,nadia 
+wb_hooghly,north  parganas 
+wb_hooghly,purba bardhaman 
+wb_hooghly,paschim medinipur 
+wb_hooghly,bankura 
+wb_hooghly,howrah 
+wb_north 24 parganas,south  parganas 
+wb_north 24 parganas,nadia 
+wb_north 24 parganas,kolkata 
+wb_north 24 parganas,hugli 
+wb_north 24 parganas,howrah 
+rj_banswara,jhargram 
+rj_banswara,purba bardhaman 
+rj_banswara,paschim medinipur 
+rj_banswara,paschim bardhaman 
+rj_banswara,hugli 
+rj_banswara,puruliya 
+wb_paschim bardhaman,baleshwar 
+wb_paschim bardhaman,jhargram 
+wb_paschim bardhaman,purba medinipur 
+wb_paschim bardhaman,bankura 
+wb_paschim bardhaman,hugli 
+wb_paschim bardhaman,howrah 
+as_hojai,purba medinipur 
+as_hojai,south  parganas 
+as_hojai,north  parganas 
+as_hojai,kolkata 
+as_hojai,paschim medinipur 
+as_hojai,hugli 
+ct_raigarh,jhargram 
+ct_raigarh,purbi singhbhum 
+ct_raigarh,paschim bardhaman 
+ct_raigarh,dhanbad 
+ct_raigarh,bankura 
+ct_raigarh,ramgarh 
+ct_raigarh,seraikela kharsawan 
+ct_raigarh,ranchi 
+ct_raigarh,bokaro 
+hr_jhajjar,baleshwar 
+hr_jhajjar,purbi singhbhum 
+hr_jhajjar,mayurbhanj 
+hr_jhajjar,paschim medinipur 
+hr_jhajjar,bankura 
+hr_jhajjar,puruliya 
+mh_ratnagiri,gumla 
+mh_ratnagiri,lohardaga 
+mh_ratnagiri,khunti 
+mh_ratnagiri,latehar 
+mh_ratnagiri,ramgarh 
+mh_ratnagiri,seraikela kharsawan 
+mh_ratnagiri,chatra 
+mh_ratnagiri,hazaribagh 
+mh_ratnagiri,puruliya 
+up_rae bareli,seraikela kharsawan 
+up_rae bareli,jhargram 
+up_rae bareli,mayurbhanj 
+up_rae bareli,puruliya 
+or_boudh,giridih 
+or_boudh,dhanbad 
+or_boudh,ramgarh 
+or_boudh,hazaribagh 
+or_boudh,puruliya 
+tr_dhalai,giridih 
+tr_dhalai,jamtara 
+tr_dhalai,paschim bardhaman 
+tr_dhalai,bokaro 
+tr_dhalai,puruliya 
+tn_ranipet,ranchi 
+tn_ranipet,bokaro 
+tn_ranipet,hazaribagh 
+tn_ranipet,puruliya 
+pb_shahid bhagat singh nagar,purbi singhbhum 
+pb_shahid bhagat singh nagar,mayurbhanj 
+pb_shahid bhagat singh nagar,ranchi 
+pb_shahid bhagat singh nagar,pashchimi singhbhum 
+pb_shahid bhagat singh nagar,khunti 
+pb_shahid bhagat singh nagar,puruliya 
+or_balasore,jhargram 
+or_balasore,purba medinipur 
+or_balasore,mayurbhanj 
+or_balasore,paschim medinipur 
+or_balasore,kendujhar 
+or_balasore,bhadrak 
+wb_purulia,south  parganas 
+wb_purulia,baleshwar 
+wb_purulia,howrah 
+wb_purulia,paschim medinipur 
+ld_lakshadweep,gumla 
+ld_lakshadweep,chatra 
+ld_lakshadweep,palamu 
+ld_lakshadweep,garhwa 
+ld_lakshadweep,lohardaga 
+ld_lakshadweep,balrampur 
+ld_lakshadweep,ranchi 
+up_gonda,jashpur 
+up_gonda,lohardaga 
+up_gonda,balrampur 
+up_gonda,latehar 
+up_gonda,simdega 
+up_gonda,ranchi 
+up_gonda,khunti 
+la_leh,gumla 
+la_leh,ranchi 
+la_leh,latehar 
+br_jamui,gumla 
+br_jamui,balrampur 
+br_jamui,raigarh 
+br_jamui,sundargarh 
+br_jamui,simdega 
+br_jamui,surguja 
+or_khordha,gumla 
+or_khordha,pashchimi singhbhum 
+or_khordha,simdega 
+or_khordha,seraikela kharsawan 
+or_khordha,ranchi 
+hp_sirmaur,gumla 
+hp_sirmaur,jashpur 
+hp_sirmaur,sundargarh 
+hp_sirmaur,pashchimi singhbhum 
+hp_sirmaur,khunti 
+gj_patan,seraikela kharsawan 
+gj_patan,mayurbhanj 
+gj_patan,sundargarh 
+gj_patan,simdega 
+gj_patan,kendujhar 
+gj_patan,khunti 
+gj_surat,anugul 
+gj_surat,jashpur 
+gj_surat,sambalpur 
+gj_surat,raigarh 
+gj_surat,debagarh 
+gj_surat,simdega 
+gj_surat,kendujhar 
+gj_surat,jharsuguda 
+gj_surat,pashchimi singhbhum 
+mp_katni,baleshwar 
+mp_katni,anugul 
+mp_katni,jajapur 
+mp_katni,mayurbhanj 
+mp_katni,sundargarh 
+mp_katni,dhenkanal 
+mp_katni,pashchimi singhbhum 
+mp_katni,bhadrak 
+or_mayurbhanj,seraikela kharsawan 
+or_mayurbhanj,baleshwar 
+or_mayurbhanj,jhargram 
+or_mayurbhanj,purbi singhbhum 
+or_mayurbhanj,kendujhar 
+or_mayurbhanj,pashchimi singhbhum 
+gj_tapi,surajpur 
+gj_tapi,jashpur 
+gj_tapi,balrampur 
+gj_tapi,raigarh 
+gj_tapi,korba 
+mp_rajgarh,jharsuguda 
+mp_rajgarh,bargarh 
+mp_rajgarh,jashpur 
+mp_rajgarh,baloda bazar 
+mp_rajgarh,korba 
+mp_rajgarh,sundargarh 
+mp_rajgarh,mahasamund 
+mp_rajgarh,janjgir-champa 
+mp_rajgarh,surguja 
+ct_korba,surajpur 
+ct_korba,raigarh 
+ct_korba,bilaspur 
+ct_korba,janjgir-champa 
+ct_korba,koriya 
+ct_korba,surguja 
+ct_surguja,singrauli 
+ct_surguja,balrampur 
+ct_surguja,korba 
+ct_surguja,koriya 
+ct_surguja,surguja 
+mn_bishnupur,mungeli 
+mn_bishnupur,baloda bazar 
+mn_bishnupur,korba 
+mn_bishnupur,anuppur 
+mn_bishnupur,janjgir-champa 
+mn_bishnupur,koriya 
+ct_koriya,surajpur 
+ct_koriya,singrauli 
+ct_koriya,korba 
+ct_koriya,bilaspur 
+ct_koriya,anuppur 
+ct_koriya,sidhi 
+ct_koriya,shahdol 
+ct_balod,raipur 
+ct_balod,mungeli 
+ct_balod,bemetara 
+ct_balod,raigarh 
+ct_balod,bilaspur 
+ct_balod,mahasamund 
+ct_balod,janjgir-champa 
+jh_jamtara,bilaspur 
+jh_jamtara,baloda bazar 
+jh_jamtara,raigarh 
+jh_jamtara,korba 
+ct_mungeli,kabirdham 
+ct_mungeli,baloda bazar 
+ct_mungeli,bemetara 
+ct_mungeli,dindori 
+ct_mungeli,bilaspur 
+ct_mungeli,anuppur 
+ar_anjaw,umaria 
+ar_anjaw,mungeli 
+ar_anjaw,dindori 
+ar_anjaw,bilaspur 
+ar_anjaw,koriya 
+ar_anjaw,shahdol 
+mp_singrauli,singrauli 
+mp_singrauli,satna 
+mp_singrauli,rewa 
+mp_singrauli,koriya 
+mp_singrauli,shahdol 
+up_shamli,umaria 
+up_shamli,satna 
+up_shamli,anuppur 
+up_shamli,sidhi 
+up_shamli,koriya 
+tg_mahabubabad,nuapada 
+tg_mahabubabad,bargarh 
+tg_mahabubabad,baloda bazar 
+tg_mahabubabad,gariaband 
+tg_mahabubabad,raigarh 
+tg_mahabubabad,raipur 
+rj_barmer,nuapada 
+rj_barmer,jharsuguda 
+rj_barmer,sambalpur 
+rj_barmer,raigarh 
+rj_barmer,mahasamund 
+rj_barmer,balangir 
+rj_barmer,sonapur 
+rj_jhalawar,sambalpur 
+rj_jhalawar,raigarh 
+rj_jhalawar,sundargarh 
+rj_jhalawar,bargarh 
+gj_rajkot,dhamtari 
+gj_rajkot,baloda bazar 
+gj_rajkot,gariaband 
+gj_rajkot,bemetara 
+gj_rajkot,durg 
+gj_rajkot,mahasamund 
+dl_north west delhi,kalahandi 
+dl_north west delhi,bargarh 
+dl_north west delhi,gariaband 
+dl_north west delhi,mahasamund 
+dl_north west delhi,balangir 
+rj_ganganagar,nuapada 
+rj_ganganagar,dhamtari 
+rj_ganganagar,kalahandi 
+rj_ganganagar,nabarangapur 
+rj_ganganagar,raipur 
+rj_ganganagar,mahasamund 
+jh_dumka,dhamtari 
+jh_dumka,bemetara 
+jh_dumka,balod 
+jh_dumka,rajnandgaon 
+jh_dumka,raipur 
+mp_dewas,kondagaon 
+mp_dewas,gariaband 
+mp_dewas,nabarangapur 
+mp_dewas,uttar bastar kanker 
+mp_dewas,durg 
+mp_dewas,balod 
+mp_dewas,raipur 
+mp_betul,mungeli 
+mp_betul,kabirdham 
+mp_betul,baloda bazar 
+mp_betul,durg 
+mp_betul,rajnandgaon 
+mp_betul,raipur 
+jk_ramban,kabirdham 
+jk_ramban,gadchiroli 
+jk_ramban,bemetara 
+jk_ramban,uttar bastar kanker 
+jk_ramban,durg 
+jk_ramban,balod 
+jk_ramban,gondiya 
+jk_ramban,balaghat 
+up_ballia,uttar bastar kanker 
+up_ballia,dhamtari 
+up_ballia,durg 
+up_ballia,rajnandgaon 
+as_jorhat,mungeli 
+as_jorhat,bemetara 
+as_jorhat,dindori 
+as_jorhat,mandla 
+as_jorhat,rajnandgaon 
+as_jorhat,balaghat 
+mp_balaghat,bhandara 
+mp_balaghat,kabirdham 
+mp_balaghat,seoni 
+mp_balaghat,mandla 
+mp_balaghat,rajnandgaon 
+mp_balaghat,gondiya 
+mp_balaghat,nagpur 
+nl_dimapur,umaria 
+nl_dimapur,mungeli 
+nl_dimapur,jabalpur 
+nl_dimapur,kabirdham 
+nl_dimapur,mandla 
+nl_dimapur,anuppur 
+hp_mandi,jabalpur 
+hp_mandi,kabirdham 
+hp_mandi,seoni 
+hp_mandi,dindori 
+hp_mandi,balaghat 
+ut_uttarkashi,dhamtari 
+ut_uttarkashi,kondagaon 
+ut_uttarkashi,gadchiroli 
+ut_uttarkashi,balod 
+ut_uttarkashi,rajnandgaon 
+ut_uttarkashi,narayanpur 
+jh_godda,balaghat 
+jh_godda,gadchiroli 
+jh_godda,bhandara 
+jh_godda,rajnandgaon 
+up_firozabad,bhandara 
+up_firozabad,jayashankar bhupalapally 
+up_firozabad,mancherial  
+up_firozabad,uttar bastar kanker 
+up_firozabad,komram bheem 
+up_firozabad,bijapur 
+up_firozabad,rajnandgaon 
+up_firozabad,gondiya 
+up_firozabad,chandrapur 
+up_firozabad,narayanpur 
+up_basti,koraput 
+up_basti,malkangiri 
+up_basti,kondagaon 
+up_basti,sukma 
+up_basti,nabarangapur 
+up_basti,dantewada 
+dn_daman,kondagaon 
+dn_daman,bastar 
+dn_daman,sukma 
+dn_daman,bijapur 
+dn_daman,narayanpur 
+or_nabarangapur,koraput 
+or_nabarangapur,dhamtari 
+or_nabarangapur,kalahandi 
+or_nabarangapur,kondagaon 
+or_nabarangapur,bastar 
+or_nabarangapur,gariaband 
+or_koraput,kalahandi 
+or_koraput,malkangiri 
+or_koraput,bastar 
+or_koraput,vizianagaram 
+or_koraput,visakhapatnam 
+or_koraput,nabarangapur 
+or_koraput,rayagada 
+wb_malda,koraput 
+wb_malda,east godavari 
+wb_malda,bastar 
+wb_malda,visakhapatnam 
+wb_malda,sukma 
+br_supaul,east godavari 
+br_supaul,malkangiri 
+br_supaul,bastar 
+br_supaul,bhadradri kothagudem 
+br_supaul,bijapur 
+br_supaul,dantewada 
+tg_komaram bheem,dhamtari 
+tg_komaram bheem,bastar 
+tg_komaram bheem,nabarangapur 
+tg_komaram bheem,uttar bastar kanker 
+tg_komaram bheem,dantewada 
+tg_komaram bheem,narayanpur 
+rj_bikaner,jayashankar bhupalapally 
+rj_bikaner,bhadradri kothagudem 
+rj_bikaner,gadchiroli 
+rj_bikaner,sukma 
+rj_bikaner,dantewada 
+rj_bikaner,narayanpur 
+rj_bikaner,mulugu 
+ct_narayanpur,kondagaon 
+ct_narayanpur,gadchiroli 
+ct_narayanpur,uttar bastar kanker 
+ct_narayanpur,bijapur 
+ct_narayanpur,dantewada 
+mp_guna,morena 
+mp_guna,shivpuri 
+mp_guna,datia 
+mp_guna,bhind 
+mp_bhopal,vidisha 
+mp_bhopal,rajgarh 
+mp_bhopal,guna 
+mp_bhopal,sehore 
+mp_bhopal,raisen 
+tn_viluppuram,guna 
+tn_viluppuram,ashok nagar 
+tn_viluppuram,sagar 
+tn_viluppuram,raisen 
+tn_viluppuram,bhopal 
+ka_dakshina kannada,jabalpur 
+ka_dakshina kannada,narsimhapur 
+ka_dakshina kannada,sagar 
+ka_dakshina kannada,chhatarpur 
+ka_dakshina kannada,panna 
+ka_dakshina kannada,katni 
+up_kasganj,umaria 
+up_kasganj,jabalpur 
+up_kasganj,damoh 
+up_kasganj,satna 
+up_kasganj,panna 
+tr_unokoti,jabalpur 
+tr_unokoti,dindori 
+tr_unokoti,satna 
+tr_unokoti,katni 
+tr_unokoti,anuppur 
+tr_unokoti,shahdol 
+mp_seoni,harda 
+mp_seoni,rajgarh 
+mp_seoni,shajapur 
+mp_seoni,hoshangabad 
+mp_seoni,raisen 
+mp_seoni,dewas 
+mp_seoni,bhopal 
+ct_rajnandgaon,vidisha 
+ct_rajnandgaon,hoshangabad 
+ct_rajnandgaon,narsimhapur 
+ct_rajnandgaon,sagar 
+ct_rajnandgaon,sehore 
+ct_rajnandgaon,bhopal 
+mp_narsinghpur,jabalpur 
+mp_narsinghpur,damoh 
+mp_narsinghpur,hoshangabad 
+mp_narsinghpur,sagar 
+mp_narsinghpur,raisen 
+mp_narsinghpur,seoni 
+mp_narsinghpur,chhindwara 
+mp_sheopur,rajgarh 
+mp_sheopur,agar malwa 
+mp_sheopur,sehore 
+mp_sheopur,ujjain 
+mp_sheopur,dewas 
+ct_dhamtari,khargone 
+ct_dhamtari,ratlam 
+ct_dhamtari,barwani 
+ct_dhamtari,ujjain 
+ct_dhamtari,alirajpur 
+ct_dhamtari,jhabua 
+ct_dhamtari,indore 
+hp_una,shajapur 
+hp_una,ratlam 
+hp_una,agar malwa 
+hp_una,dhar 
+hp_una,dewas 
+hp_una,indore 
+up_deoria,khargone 
+up_deoria,harda 
+up_deoria,shajapur 
+up_deoria,sehore 
+up_deoria,ujjain 
+up_deoria,khandwa 
+up_deoria,indore 
+kl_idukki,khargone 
+kl_idukki,dewas 
+kl_idukki,dhar 
+kl_idukki,ujjain 
+ct_bastar,khargone 
+ct_bastar,alirajpur 
+ct_bastar,dhule 
+ct_bastar,dhar 
+ct_bastar,jalgaon 
+ct_bastar,nandubar 
+br_khagaria,burhanpur 
+br_khagaria,barwani 
+br_khagaria,khandwa 
+br_khagaria,dewas 
+br_khagaria,dhar 
+br_khagaria,jalgaon 
+br_khagaria,indore 
+or_jajpur,khargone 
+or_jajpur,burhanpur 
+or_jajpur,jalna 
+or_jajpur,nashik 
+or_jajpur,barwani 
+or_jajpur,dhule 
+or_jajpur,buldhana 
+or_jajpur,aurangabad 
+or_kendujhar,khargone 
+or_kendujhar,harda 
+or_kendujhar,burhanpur 
+or_kendujhar,betul 
+or_kendujhar,dewas 
+or_kendujhar,amravati 
+up_hamirpur,hoshangabad 
+up_hamirpur,sehore 
+up_hamirpur,khandwa 
+up_hamirpur,betul 
+up_hamirpur,dewas 
+up_bhadohi,harda 
+up_bhadohi,hoshangabad 
+up_bhadohi,khandwa 
+up_bhadohi,amravati 
+up_bhadohi,chhindwara 
+mh_amravati,wardha 
+mh_amravati,burhanpur 
+mh_amravati,akola 
+mh_amravati,khandwa 
+mh_amravati,betul 
+mh_amravati,washim 
+mh_amravati,yavatmal 
+mh_amravati,buldhana 
+mh_amravati,nagpur 
+mh_amravati,chhindwara 
+br_buxar,khargone 
+br_buxar,khandwa 
+br_buxar,jalgaon 
+br_buxar,buldhana 
+br_buxar,amravati 
+mh_hingoli,harda 
+mh_hingoli,narsimhapur 
+mh_hingoli,sehore 
+mh_hingoli,raisen 
+mh_hingoli,betul 
+mh_hingoli,chhindwara 
+mp_chhindwara,hoshangabad 
+mp_chhindwara,narsimhapur 
+mp_chhindwara,seoni 
+mp_chhindwara,betul 
+mp_chhindwara,amravati 
+mp_chhindwara,nagpur 
+mn_imphal east,umaria 
+mn_imphal east,damoh 
+mn_imphal east,narsimhapur 
+mn_imphal east,seoni 
+mn_imphal east,dindori 
+mn_imphal east,mandla 
+mn_imphal east,katni 
+dl_shahdara,jabalpur 
+dl_shahdara,narsimhapur 
+dl_shahdara,mandla 
+dl_shahdara,nagpur 
+dl_shahdara,balaghat 
+dl_shahdara,chhindwara 
+mh_nagpur,wardha 
+mh_nagpur,bhandara 
+mh_nagpur,seoni 
+mh_nagpur,amravati 
+mh_nagpur,chandrapur 
+mh_nagpur,balaghat 
+mh_nagpur,chhindwara 
+mh_bhandara,gadchiroli 
+mh_bhandara,gondiya 
+mh_bhandara,chandrapur 
+mh_bhandara,nagpur 
+mh_bhandara,balaghat 
+or_balangir,nuapada 
+or_balangir,kalahandi 
+or_balangir,bargarh 
+or_balangir,kandhamal 
+or_balangir,baudh 
+or_balangir,sonapur 
+wb_south 24 parganas,anugul 
+wb_south 24 parganas,bargarh 
+wb_south 24 parganas,sambalpur 
+wb_south 24 parganas,baudh 
+wb_south 24 parganas,balangir 
+mh_sangli,anugul 
+mh_sangli,bargarh 
+mh_sangli,sundargarh 
+mh_sangli,debagarh 
+mh_sangli,jharsuguda 
+mh_sangli,sonapur 
+mn_kakching,koraput 
+mn_kakching,nuapada 
+mn_kakching,kandhamal 
+mn_kakching,gariaband 
+mn_kakching,nabarangapur 
+mn_kakching,rayagada 
+mn_kakching,balangir 
+br_begusarai,anugul 
+br_begusarai,kandhamal 
+br_begusarai,nayagarh 
+br_begusarai,balangir 
+br_begusarai,sonapur 
+as_kamrup metropolitan,gajapati 
+as_kamrup metropolitan,ganjam 
+as_kamrup metropolitan,kalahandi 
+as_kamrup metropolitan,baudh 
+as_kamrup metropolitan,nayagarh 
+as_kamrup metropolitan,rayagada 
+as_kamrup metropolitan,balangir 
+or_angul,sambalpur 
+or_angul,cuttack 
+or_angul,baudh 
+or_angul,sundargarh 
+or_angul,debagarh 
+or_angul,nayagarh 
+or_angul,kendujhar 
+or_angul,dhenkanal 
+or_angul,sonapur 
+rj_dausa,anugul 
+rj_dausa,sambalpur 
+rj_dausa,sundargarh 
+or_nayagarh,anugul 
+or_nayagarh,kandhamal 
+or_nayagarh,cuttack 
+or_nayagarh,baudh 
+or_nayagarh,ganjam 
+or_nayagarh,khordha 
+mp_khargone,cuttack 
+mp_khargone,ganjam 
+mp_khargone,nayagarh 
+mp_khargone,puri 
+tn_cuddalore,anugul 
+tn_cuddalore,jajapur 
+tn_cuddalore,kendrapara 
+tn_cuddalore,jagatsinghapur 
+tn_cuddalore,nayagarh 
+tn_cuddalore,dhenkanal 
+tn_cuddalore,khordha 
+tn_cuddalore,puri 
+jk_ganderbal,gajapati 
+jk_ganderbal,kandhamal 
+jk_ganderbal,nayagarh 
+jk_ganderbal,srikakulam 
+jk_ganderbal,khordha 
+jk_ganderbal,puri 
+ka_raichur,cuttack 
+ka_raichur,ganjam 
+ka_raichur,khordha 
+ka_raichur,jagatsinghapur 
+as_dhemaji,cuttack 
+as_dhemaji,kendujhar 
+as_dhemaji,jajapur 
+as_dhemaji,anugul 
+tg_jagtial,kendrapara 
+tg_jagtial,cuttack 
+tg_jagtial,kendujhar 
+tg_jagtial,dhenkanal 
+tg_jagtial,bhadrak 
+mn_imphal west,cuttack 
+mn_imphal west,kendrapara 
+mn_imphal west,puri 
+br_katihar,cuttack 
+br_katihar,jajapur 
+br_katihar,bhadrak 
+br_katihar,jagatsinghapur 
+or_bhadrak,kendujhar 
+or_bhadrak,jajapur 
+or_bhadrak,baleshwar 
+or_bhadrak,kendrapara 
+hr_rewari,koraput 
+hr_rewari,gajapati 
+hr_rewari,kalahandi 
+hr_rewari,kandhamal 
+hr_rewari,vizianagaram 
+hr_rewari,srikakulam 
+tg_warangal rural,koraput 
+tg_warangal rural,rayagada 
+tg_warangal rural,visakhapatnam 
+tg_warangal rural,srikakulam 
+tg_wanaparthy,koraput 
+tg_wanaparthy,malkangiri 
+tg_wanaparthy,east godavari 
+tg_wanaparthy,vizianagaram 
+br_east champaran,west godavari 
+br_east champaran,malkangiri 
+br_east champaran,bhadradri kothagudem 
+br_east champaran,visakhapatnam 
+br_east champaran,sukma 
+ka_gadag,kandhamal 
+ka_gadag,ganjam 
+ka_gadag,rayagada 
+ka_gadag,srikakulam 
+up_sultanpur,ganjam 
+up_sultanpur,gajapati 
+up_sultanpur,rayagada 
+up_sultanpur,vizianagaram 
+mh_ahmednagar,nashik 
+mh_ahmednagar,konkan division 
+mh_ahmednagar,pune  
+mh_ahmednagar,bid 
+mh_ahmednagar,osmanabad 
+mh_ahmednagar,aurangabad 
+mh_ahmednagar,thane 
+mh_ahmednagar,solapur 
+br_aurangabad,jalna 
+br_aurangabad,nashik 
+br_aurangabad,jalgaon 
+br_aurangabad,ahmednagar 
+br_aurangabad,bid 
+tn_theni,raigad 
+tn_theni,nashik 
+tn_theni,mumbai suburban 
+tn_theni,konkan division 
+tn_theni,pune  
+tn_theni,ahmednagar 
+tn_theni,palghar 
+wb_purba medinipur,raigad 
+wb_purba medinipur,satara 
+wb_purba medinipur,konkan division 
+wb_purba medinipur,ahmednagar 
+wb_purba medinipur,thane 
+wb_purba medinipur,solapur 
+ka_bidar,jalna 
+ka_bidar,latur 
+ka_bidar,ahmednagar 
+ka_bidar,osmanabad 
+ka_bidar,aurangabad 
+ka_bidar,parbhani 
+as_sonitpur,kalaburagi  
+as_sonitpur,bijapur  
+as_sonitpur,pune  
+as_sonitpur,ahmednagar 
+as_sonitpur,osmanabad 
+as_sonitpur,satara 
+as_sonitpur,sangli  
+hr_nuh,kalaburagi  
+hr_nuh,latur 
+hr_nuh,bidar  
+hr_nuh,ahmednagar 
+hr_nuh,bid 
+hr_nuh,solapur 
+rj_sawai madhopur,raigad 
+rj_sawai madhopur,sangli  
+rj_sawai madhopur,konkan division 
+rj_sawai madhopur,pune  
+rj_sawai madhopur,ratnagiri 
+rj_sawai madhopur,solapur 
+tg_rajanna sircilla,satara 
+tg_rajanna sircilla,konkan division 
+tg_rajanna sircilla,pune  
+tg_rajanna sircilla,thane 
+tg_rajanna sircilla,ratnagiri 
+mp_rewa,kolhapur 
+mp_rewa,sindhudurg 
+mp_rewa,raigad 
+mp_rewa,konkan division 
+mp_rewa,satara 
+mp_rewa,sangli  
+jh_saraikela-kharsawan,kolhapur 
+jh_saraikela-kharsawan,bijapur  
+jh_saraikela-kharsawan,belgaum  
+jh_saraikela-kharsawan,konkan division 
+jh_saraikela-kharsawan,satara 
+jh_saraikela-kharsawan,ratnagiri 
+jh_saraikela-kharsawan,solapur 
+mz_kolasib,sindhudurg 
+mz_kolasib,konkan division 
+mz_kolasib,belgaum  
+mz_kolasib,ratnagiri 
+mz_kolasib,sangli  
+rj_sirohi,kolhapur 
+rj_sirohi,konkan division 
+rj_sirohi,belgaum  
+rj_sirohi,north goa 
+rj_sirohi,ratnagiri 
+ar_changlang,wardha 
+ar_changlang,bhandara 
+ar_changlang,gadchiroli 
+ar_changlang,komram bheem 
+ar_changlang,yavatmal 
+ar_changlang,nagpur 
+ar_changlang,adilabad 
+mz_mamit,peddapalli 
+mz_mamit,jayashankar bhupalapally 
+mz_mamit,jagtial 
+mz_mamit,gadchiroli 
+mz_mamit,komram bheem 
+mz_mamit,nirmal 
+kl_kollam,gadchiroli 
+kl_kollam,mancherial  
+kl_kollam,nirmal 
+kl_kollam,chandrapur 
+kl_kollam,adilabad 
+ct_janjgir champa,peddapalli 
+ct_janjgir champa,warangal rural 
+ct_janjgir champa,gadchiroli 
+ct_janjgir champa,mancherial  
+ct_janjgir champa,warangal urban 
+ct_janjgir champa,bijapur 
+ct_janjgir champa,karimnagar 
+ct_janjgir champa,mulugu 
+kl_wayanad,amravati 
+kl_wayanad,chandrapur 
+kl_wayanad,nagpur 
+kl_wayanad,yavatmal 
+hr_yamunanagar,wardha 
+hr_yamunanagar,hingoli 
+hr_yamunanagar,nanded 
+hr_yamunanagar,washim 
+hr_yamunanagar,amravati 
+hr_yamunanagar,chandrapur 
+hr_yamunanagar,adilabad 
+tg_adilabad,komram bheem 
+tg_adilabad,nanded 
+tg_adilabad,yavatmal 
+tg_adilabad,nirmal 
+tg_adilabad,chandrapur 
+br_west champaran,hingoli 
+br_west champaran,akola 
+br_west champaran,buldhana 
+br_west champaran,yavatmal 
+br_west champaran,amravati 
+br_west champaran,parbhani 
+mh_nanded,hingoli 
+mh_nanded,nizamabad 
+mh_nanded,latur 
+mh_nanded,kamareddy 
+mh_nanded,bidar  
+mh_nanded,yavatmal 
+mh_nanded,nirmal 
+mh_nanded,adilabad 
+mh_nanded,parbhani 
+up_hathras,nanded 
+up_hathras,washim 
+up_hathras,yavatmal 
+up_hathras,parbhani 
+mh_akola,amravati 
+mh_akola,washim 
+mh_akola,buldhana 
+ar_papum pare,jalna 
+ar_papum pare,hingoli 
+ar_papum pare,latur 
+ar_papum pare,nanded 
+ar_papum pare,washim 
+ar_papum pare,bid 
+ar_papum pare,buldhana 
+rj_bundi,burhanpur 
+rj_bundi,jalna 
+rj_bundi,akola 
+rj_bundi,washim 
+rj_bundi,jalgaon 
+rj_bundi,amravati 
+rj_bundi,parbhani 
+up_lalitpur,bidar  
+up_lalitpur,nanded 
+up_lalitpur,bid 
+up_lalitpur,osmanabad 
+up_lalitpur,parbhani 
+ct_bijapur,kalaburagi  
+ct_bijapur,sangareddy 
+ct_bijapur,latur 
+ct_bijapur,kamareddy 
+ct_bijapur,nanded 
+ct_bijapur,osmanabad 
+tg_nirmal,jagtial 
+tg_nirmal,rajanna sircilla 
+tg_nirmal,kamareddy 
+tg_nirmal,nanded 
+tg_nirmal,nirmal 
+an_nicobars,nizamabad 
+an_nicobars,jagtial 
+an_nicobars,mancherial  
+an_nicobars,komram bheem 
+an_nicobars,nanded 
+an_nicobars,adilabad 
+wb_kalimpong,sangareddy 
+wb_kalimpong,nizamabad 
+wb_kalimpong,rajanna sircilla 
+wb_kalimpong,bidar  
+wb_kalimpong,nanded 
+wb_kalimpong,medak 
+wb_kalimpong,siddipet 
+pb_jalandhar,jalgaon 
+pb_jalandhar,bid 
+pb_jalandhar,buldhana 
+pb_jalandhar,aurangabad 
+pb_jalandhar,parbhani 
+ka_bengaluru rural,bagalkote  
+ka_bengaluru rural,kolhapur 
+ka_bengaluru rural,sindhudurg 
+ka_bengaluru rural,uttara kannada 
+ka_bengaluru rural,bijapur  
+ka_bengaluru rural,gadag  
+ka_bengaluru rural,konkan division 
+ka_bengaluru rural,dharwad  
+ka_bengaluru rural,north goa 
+ka_bengaluru rural,sangli  
+up_bijnor,bagalkote  
+up_bijnor,kalaburagi  
+up_bijnor,sangli  
+up_bijnor,raichur  
+up_bijnor,belgaum  
+up_bijnor,yadagiri  
+up_bijnor,solapur 
+ml_north garo hills,sindhudurg 
+ml_north garo hills,south goa 
+ml_north garo hills,uttara kannada 
+ml_north garo hills,konkan division 
+ml_north garo hills,belgaum  
+hr_kaithal,sangareddy 
+hr_kaithal,vikarabad 
+hr_kaithal,bijapur  
+hr_kaithal,bidar  
+hr_kaithal,osmanabad 
+hr_kaithal,narayanpet 
+hr_kaithal,yadagiri  
+hr_kaithal,solapur 
+tr_south tripura,north goa 
+tr_south tripura,uttara kannada 
+br_vaishali,south goa 
+br_vaishali,shimoga  
+br_vaishali,belgaum  
+br_vaishali,udupi  
+br_vaishali,dharwad  
+br_vaishali,haveri  
+br_vaishali,north goa 
+kl_alappuzha,kollam 
+kl_alappuzha,kottayam 
+kl_alappuzha,pattanamtitta 
+kl_alappuzha,ernakulam 
+kl_kozhikode,kannur  
+kl_kozhikode,mahe  
+kl_kozhikode,malappuram 
+kl_kozhikode,wayanad 
+hp_kangra,kodagu 
+hp_kangra,mahe  
+hp_kangra,kasaragod  
+hp_kangra,kozhikode 
+hp_kangra,wayanad 
+ka_mysuru,kodagu 
+ka_mysuru,chamarajanagar  
+ka_mysuru,wayanad 
+ka_mysuru,mandya  
+ka_mysuru,hassan  
+jk_kishtwar,mysuru  
+jk_kishtwar,kasaragod  
+jk_kishtwar,kannur  
+jk_kishtwar,wayanad 
+jk_kishtwar,dakshina kannada 
+jk_kishtwar,hassan  
+tg_karimnagar,kodagu 
+tg_karimnagar,dakshina kannada 
+tg_karimnagar,kannur  
+tg_mahabubnagar,kozhikode 
+tg_mahabubnagar,kannur  
+ct_dakshin bastar dantewada,kodagu 
+ct_dakshin bastar dantewada,kasaragod  
+ct_dakshin bastar dantewada,chikkamagaluru  
+ct_dakshin bastar dantewada,udupi  
+ct_dakshin bastar dantewada,hassan  
+mp_mandsaur,mysuru  
+mp_mandsaur,ramanagara  
+mp_mandsaur,tumkur  
+mp_mandsaur,chamarajanagar  
+mp_mandsaur,hassan  
+up_rampur,krishnagiri 
+up_rampur,bangalore urban 
+up_rampur,tumkur  
+up_rampur,bangalore rural 
+up_rampur,chamarajanagar  
+up_rampur,mandya  
+mp_harda,kodagu 
+mp_harda,mysuru  
+mp_harda,chikkamagaluru  
+mp_harda,tumkur  
+mp_harda,dakshina kannada 
+mp_harda,mandya  
+mp_umaria,dakshina kannada 
+mp_umaria,chikkamagaluru  
+mp_umaria,shimoga  
+mp_umaria,uttara kannada 
+ka_chikkamagaluru,shimoga  
+ka_chikkamagaluru,tumkur  
+ka_chikkamagaluru,udupi  
+ka_chikkamagaluru,davanagere  
+ka_chikkamagaluru,dakshina kannada 
+ka_chikkamagaluru,hassan  
+ka_chikkamagaluru,chitradurga  
+up_siddharthnagar,uttara kannada 
+up_siddharthnagar,chikkamagaluru  
+up_siddharthnagar,udupi  
+up_siddharthnagar,haveri  
+up_siddharthnagar,davanagere  
+jk_bandipora,krishnagiri 
+jk_bandipora,bangalore urban 
+jk_bandipora,kolar  
+jk_bandipora,ramanagara  
+jk_bandipora,tumkur  
+jk_bandipora,chikkaballapura  
+br_banka,krishnagiri 
+br_banka,ramanagara  
+br_banka,bangalore rural 
+as_kokrajhar,chittoor 
+as_kokrajhar,krishnagiri 
+as_kokrajhar,chikkaballapura  
+as_kokrajhar,bangalore rural 
+ut_udham singh nagar,chikkamagaluru  
+ut_udham singh nagar,ramanagara  
+ut_udham singh nagar,bangalore rural 
+ut_udham singh nagar,chikkaballapura  
+ut_udham singh nagar,mandya  
+ut_udham singh nagar,hassan  
+ut_udham singh nagar,anantapur  
+ut_udham singh nagar,chitradurga  
+ka_chikkaballapura,kolar  
+ka_chikkaballapura,chittoor 
+ka_chikkaballapura,tumkur  
+ka_chikkaballapura,bangalore rural 
+ka_chikkaballapura,anantapur  
+ka_chitradurga,bellary  
+ka_chitradurga,chikkamagaluru  
+ka_chitradurga,tumkur  
+ka_chitradurga,davanagere  
+ka_chitradurga,anantapur  
+mp_datia,bellary  
+mp_datia,chikkamagaluru  
+mp_datia,shimoga  
+mp_datia,haveri  
+mp_datia,chitradurga  
+ka_bengaluru urban,raichur  
+ka_bengaluru urban,gadag  
+ka_bengaluru urban,kurnool 
+ka_bengaluru urban,koppal  
+ka_bengaluru urban,haveri  
+ka_bengaluru urban,davanagere  
+ka_bengaluru urban,anantapur  
+ka_bengaluru urban,chitradurga  
+gj_anand,ysr 
+gj_anand,bellary  
+gj_anand,tumkur  
+gj_anand,kurnool 
+gj_anand,chikkaballapura  
+gj_anand,chittoor 
+gj_anand,chitradurga  
+ka_bagalkote,raichur  
+ka_bagalkote,bijapur  
+ka_bagalkote,gadag  
+ka_bagalkote,belgaum  
+ka_bagalkote,koppal  
+mp_dhar,gadag  
+mp_dhar,uttara kannada 
+mp_dhar,haveri  
+mp_dhar,belgaum  
+pb_ferozepur,bagalkote  
+pb_ferozepur,bellary  
+pb_ferozepur,belgaum  
+pb_ferozepur,haveri  
+pb_ferozepur,dharwad  
+pb_ferozepur,koppal  
+ut_haridwar,bellary  
+ut_haridwar,uttara kannada 
+ut_haridwar,shimoga  
+ut_haridwar,gadag  
+ut_haridwar,dharwad  
+ut_haridwar,davanagere  
+ka_koppal,bagalkote  
+ka_koppal,bellary  
+ka_koppal,gadag  
+ka_koppal,raichur  
+mp_raisen,bagalkote  
+mp_raisen,bellary  
+mp_raisen,jogulamba gadwal 
+mp_raisen,bijapur  
+mp_raisen,kurnool 
+mp_raisen,koppal  
+mp_raisen,narayanpet 
+mp_raisen,yadagiri  
+tg_yadadri bhuvanagiri,kalaburagi  
+tg_yadadri bhuvanagiri,bijapur  
+tg_yadadri bhuvanagiri,narayanpet 
+tg_yadadri bhuvanagiri,raichur  
+ap_kurnool,ysr 
+ap_kurnool,wanaparthy 
+ap_kurnool,raichur  
+ap_kurnool,bellary  
+ap_kurnool,prakasam 
+ap_kurnool,jogulamba gadwal 
+ap_kurnool,nagarkurnool 
+ap_kurnool,anantapur  
+hr_jind,kurnool 
+hr_jind,wanaparthy 
+hr_jind,narayanpet 
+hr_jind,raichur  
+tg_narayanpet,kalaburagi  
+tg_narayanpet,wanaparthy 
+tg_narayanpet,raichur  
+tg_narayanpet,jogulamba gadwal 
+tg_narayanpet,vikarabad 
+tg_narayanpet,mahabubnagar 
+tg_narayanpet,yadagiri  
+up_sant kabir nagar,kalaburagi  
+up_sant kabir nagar,vikarabad 
+up_sant kabir nagar,kamareddy 
+up_sant kabir nagar,bidar  
+up_sant kabir nagar,medak 
+up_sant kabir nagar,medchal–malkajgiri 
+up_sant kabir nagar,rangareddy 
+tn_virudhunagar,kalaburagi  
+tn_virudhunagar,sangareddy 
+tn_virudhunagar,narayanpet 
+tn_virudhunagar,rangareddy 
+tn_virudhunagar,mahabubnagar 
+ml_west jaintia hills,bhadradri kothagudem 
+ml_west jaintia hills,krishna 
+ml_west jaintia hills,khammam 
+ml_west jaintia hills,east godavari 
+tg_bhadradri kothagudem,west godavari 
+tg_bhadradri kothagudem,east godavari 
+tg_bhadradri kothagudem,sukma 
+tg_bhadradri kothagudem,bijapur 
+tg_bhadradri kothagudem,mahabubabad 
+tg_bhadradri kothagudem,khammam 
+tg_bhadradri kothagudem,mulugu 
+or_kendrapara,west godavari 
+or_kendrapara,bhadradri kothagudem 
+or_kendrapara,krishna 
+or_kendrapara,suryapet 
+or_kendrapara,mahabubabad 
+ap_krishna,suryapet 
+ap_krishna,khammam 
+ap_krishna,west godavari 
+ap_krishna,guntur 
+br_madhubani,jangaon 
+br_madhubani,bhadradri kothagudem 
+br_madhubani,warangal rural 
+br_madhubani,suryapet 
+br_madhubani,khammam 
+br_madhubani,mulugu 
+pb_tarn taran,jangaon 
+pb_tarn taran,krishna 
+pb_tarn taran,guntur 
+pb_tarn taran,nalgonda 
+pb_tarn taran,mahabubabad 
+pb_tarn taran,khammam 
+pb_tarn taran,yadadri bhuvanagiri 
+br_gopalganj,prakasam 
+br_gopalganj,krishna 
+br_gopalganj,suryapet 
+br_gopalganj,nalgonda 
+br_gopalganj,nagarkurnool 
+as_karbi anglong,peddapalli 
+as_karbi anglong,jayashankar bhupalapally 
+as_karbi anglong,jagtial 
+as_karbi anglong,rajanna sircilla 
+as_karbi anglong,warangal urban 
+as_karbi anglong,siddipet 
+mh_washim,jangaon 
+mh_washim,jayashankar bhupalapally 
+mh_washim,warangal rural 
+mh_washim,siddipet 
+mh_washim,karimnagar 
+mh_sindhudurg,jangaon 
+mh_sindhudurg,rajanna sircilla 
+mh_sindhudurg,kamareddy 
+mh_sindhudurg,warangal urban 
+mh_sindhudurg,medak 
+mh_sindhudurg,medchal–malkajgiri 
+mh_sindhudurg,karimnagar 
+mh_sindhudurg,yadadri bhuvanagiri 
+tn_perambalur,jagtial 
+tn_perambalur,karimnagar 
+tn_perambalur,jayashankar bhupalapally 
+tn_perambalur,mancherial  
+mp_indore,peddapalli 
+mp_indore,nizamabad 
+mp_indore,rajanna sircilla 
+mp_indore,mancherial  
+mp_indore,nirmal 
+mp_indore,karimnagar 
+jk_rajouri,nizamabad 
+jk_rajouri,jagtial 
+jk_rajouri,kamareddy 
+jk_rajouri,siddipet 
+jk_rajouri,karimnagar 
+mh_wardha,jangaon 
+mh_wardha,jayashankar bhupalapally 
+mh_wardha,warangal urban 
+mh_wardha,mahabubabad 
+mh_wardha,mulugu 
+gj_jamnagar,warangal rural 
+gj_jamnagar,suryapet 
+gj_jamnagar,warangal urban 
+gj_jamnagar,siddipet 
+gj_jamnagar,mahabubabad 
+gj_jamnagar,yadadri bhuvanagiri 
+tg_medak,kamareddy 
+tg_medak,siddipet 
+tg_medak,sangareddy 
+tg_medak,medchal–malkajgiri 
+tg_medchal malkajgiri,sangareddy 
+tg_medchal malkajgiri,hyderabad 
+tg_medchal malkajgiri,medak 
+tg_medchal malkajgiri,siddipet 
+tg_medchal malkajgiri,rangareddy 
+tg_medchal malkajgiri,yadadri bhuvanagiri 
+or_rayagada,sangareddy 
+or_rayagada,vikarabad 
+or_rayagada,hyderabad 
+or_rayagada,nalgonda 
+or_rayagada,medchal–malkajgiri 
+or_rayagada,nagarkurnool 
+or_rayagada,yadadri bhuvanagiri 
+or_rayagada,mahabubnagar 
+tg_nalgonda,guntur 
+tg_nalgonda,suryapet 
+tg_nalgonda,rangareddy 
+tg_nalgonda,nagarkurnool 
+tg_nalgonda,yadadri bhuvanagiri 
+tn_madurai,wanaparthy 
+tn_madurai,vikarabad 
+tn_madurai,narayanpet 
+tn_madurai,rangareddy 
+tn_madurai,nagarkurnool 
+mp_hoshangabad,medchal–malkajgiri 
+mp_hoshangabad,rangareddy 
+tg_nagarkurnool,wanaparthy 
+tg_nagarkurnool,prakasam 
+tg_nagarkurnool,guntur 
+tg_nagarkurnool,kurnool 
+tg_nagarkurnool,nalgonda 
+tg_nagarkurnool,rangareddy 
+tg_nagarkurnool,mahabubnagar 
+ap_y.s.r. kadapa,jangaon 
+ap_y.s.r. kadapa,suryapet 
+ap_y.s.r. kadapa,nalgonda 
+ap_y.s.r. kadapa,siddipet 
+ap_y.s.r. kadapa,medchal–malkajgiri 
+ap_y.s.r. kadapa,rangareddy 
+up_pratapgarh,ysr 
+up_pratapgarh,sri potti sriramulu nellore 
+up_pratapgarh,guntur 
+up_pratapgarh,kurnool 
+up_pratapgarh,nagarkurnool 
+tg_warangal urban,jogulamba gadwal 
+tg_warangal urban,kurnool 
+tg_warangal urban,narayanpet 
+tg_warangal urban,nagarkurnool 
+tg_warangal urban,mahabubnagar 
+py_yanam,sri potti sriramulu nellore 
+py_yanam,prakasam 
+py_yanam,chittoor 
+py_yanam,kurnool 
+py_yanam,anantapur  
+dl_south west delhi,west garo hills 
+dl_south west delhi,north garo hills 
+dl_south west delhi,dhubri 
+dl_south west delhi,goalpara 
+dl_south west delhi,south west garo hills 
+ap_west godavari,north garo hills 
+ap_west godavari,goalpara 
+ap_west godavari,east garo hills 
+ap_west godavari,south west garo hills 
+ap_west godavari,south salmara-mankachar 
+ap_west godavari,south garo hills 
+as_nagaon,west karbi anglong 
+as_nagaon,golaghat 
+as_nagaon,marigaon 
+as_nagaon,bishwanath 
+as_nagaon,sonitpur 
+as_nagaon,hojai 
+as_nagaon,east karbi anglong 
+ml_west khasi hills,west jaintia hills 
+ml_west khasi hills,marigaon 
+ml_west khasi hills,dima hasao  
+ml_west khasi hills,ri-bhoi 
+ml_west khasi hills,hojai 
+ml_west khasi hills,nagaon 
+ap_east godavari,dimapur 
+ap_east godavari,dima hasao  
+ap_east godavari,peren 
+ap_east godavari,golaghat 
+ap_east godavari,hojai 
+ap_east godavari,nagaon 
+mh_dhule,cachar 
+mh_dhule,west jaintia hills 
+mh_dhule,east jaintia hills 
+mh_dhule,west karbi anglong 
+mh_dhule,tamenglong 
+mh_dhule,peren 
+mh_dhule,hojai 
+mh_dhule,east karbi anglong 
+gj_gir somnath,kohima 
+gj_gir somnath,majuli 
+gj_gir somnath,lakhimpur 
+gj_gir somnath,dimapur 
+gj_gir somnath,nagaon 
+gj_gir somnath,bishwanath 
+gj_gir somnath,wokha 
+gj_gir somnath,jorhat 
+gj_gir somnath,east karbi anglong 
+as_dibrugarh,golaghat 
+as_dibrugarh,peren 
+as_dibrugarh,kohima 
+as_dibrugarh,east karbi anglong 
+nl_phek,senapati 
+nl_phek,kohima 
+nl_phek,tamenglong 
+nl_phek,dimapur 
+nl_phek,dima hasao  
+nl_phek,east karbi anglong 
+jh_hazaribagh,west karbi anglong 
+jh_hazaribagh,nagaon 
+jh_hazaribagh,dima hasao  
+jh_hazaribagh,east karbi anglong 
+dl_central delhi,east jaintia hills 
+dl_central delhi,kolasib 
+dl_central delhi,pherzawl 
+dl_central delhi,karimganj 
+dl_central delhi,tamenglong 
+dl_central delhi,dima hasao  
+dl_central delhi,jiribam 
+dl_central delhi,aizwal 
+dl_central delhi,hailakandi 
+ar_west kameng,east jaintia hills 
+ar_west kameng,west karbi anglong 
+ar_west kameng,east khasi hills 
+ar_west kameng,ri-bhoi 
+ar_west kameng,dima hasao  
+ar_tawang,senapati 
+ar_tawang,cachar 
+ar_tawang,noney 
+ar_tawang,kangpokpi 
+ar_tawang,dima hasao  
+ar_tawang,peren 
+ar_tawang,jiribam 
+dl_east delhi,cachar 
+dl_east delhi,west jaintia hills 
+dl_east delhi,dima hasao  
+ap_guntur,mamit 
+ap_guntur,cachar 
+ap_guntur,kolasib 
+ap_guntur,karimganj 
+rj_karauli,mamit 
+rj_karauli,cachar 
+rj_karauli,hailakandi 
+rj_karauli,north tripura 
+mz_aizawl,mamit 
+mz_aizawl,cachar 
+mz_aizawl,champhai 
+mz_aizawl,serchhip 
+mz_aizawl,pherzawl 
+mz_aizawl,kolasib 
+mz_aizawl,lunglei 
+ka_kolar,mamit 
+ka_kolar,cachar 
+ka_kolar,aizwal 
+ka_kolar,hailakandi 
+or_jharsuguda,cachar 
+or_jharsuguda,pherzawl 
+or_jharsuguda,tamenglong 
+or_jharsuguda,noney 
+up_pilibhit,churachandpur 
+up_pilibhit,cachar 
+up_pilibhit,champhai 
+up_pilibhit,noney 
+up_pilibhit,jiribam 
+up_pilibhit,aizwal 
+gj_botad,papum pare 
+gj_botad,lakhimpur 
+gj_botad,golaghat 
+gj_botad,pakke kessang None
+gj_botad,sonitpur 
+gj_botad,nagaon 
+or_malkangiri,kolasib 
+or_malkangiri,north tripura 
+or_malkangiri,karimganj 
+or_malkangiri,aizwal 
+or_malkangiri,hailakandi 
+or_malkangiri,lunglei 
+sk_north sikkim,mamit 
+sk_north sikkim,unokoti 
+sk_north sikkim,karimganj 
+sk_north sikkim,dhalai 
+as_west karbi anglong,tawang  
+as_west karbi anglong,east kameng 
+as_west karbi anglong,pakke kessang None
+as_west karbi anglong,udalguri 
+as_west karbi anglong,sonitpur 
+ar_pakke kessang,east kameng 
+ar_pakke kessang,papum pare 
+ar_pakke kessang,west kameng  
+ar_pakke kessang,bishwanath 
+ar_pakke kessang,sonitpur 
+mn_jiribam,mokokchung 
+mn_jiribam,majuli 
+mn_jiribam,sivasagar 
+mn_jiribam,golaghat 
+mn_jiribam,wokha 
+as_lakhimpur,kamle 
+as_lakhimpur,dhemaji 
+as_lakhimpur,papum pare 
+as_lakhimpur,majuli 
+as_lakhimpur,bishwanath 
+as_lakhimpur,golaghat 
+as_lakhimpur,dibrugarh 
+jh_koderma,senapati 
+jh_koderma,phek 
+jh_koderma,zunheboto 
+jh_koderma,dimapur 
+jh_koderma,peren 
+jh_koderma,golaghat 
+jh_koderma,wokha 
+nl_wokha,mokokchung 
+nl_wokha,kohima 
+nl_wokha,zunheboto 
+nl_wokha,golaghat 
+nl_wokha,jorhat 
+up_mainpuri,lakhimpur 
+up_mainpuri,sivasagar 
+up_mainpuri,golaghat 
+up_mainpuri,dibrugarh 
+up_mainpuri,jorhat 
+mh_solapur,longleng 
+mh_solapur,majuli 
+mh_solapur,charaideo 
+mh_solapur,mokokchung 
+mh_solapur,mon 
+mh_solapur,dibrugarh 
+mh_solapur,jorhat 
+pb_moga,longleng 
+pb_moga,zunheboto 
+pb_moga,sivasagar 
+pb_moga,wokha 
+pb_moga,tuensang 
+pb_moga,jorhat 
+ka_dharwad,lower siang 
+ka_dharwad,kamle 
+ka_dharwad,lower dibang valley 
+ka_dharwad,lakhimpur 
+ka_dharwad,dibrugarh 
+ka_dharwad,east siang 
+ka_dharwad,tinsukia 
+as_dhubri,longding 
+as_dhubri,tirap 
+as_dhubri,dhemaji 
+as_dhubri,majuli 
+as_dhubri,lakhimpur 
+as_dhubri,charaideo 
+as_dhubri,sivasagar 
+as_dhubri,tinsukia 
+mp_panna,kamle 
+mp_panna,east kameng 
+mp_panna,kra daadi 
+mp_panna,kurung kumey  
+mp_panna,lower subansiri 
+mp_panna,lakhimpur 
+mp_panna,pakke kessang None
+mp_panna,bishwanath 
+tg_kamareddy,lower siang 
+tg_kamareddy,kra daadi 
+tg_kamareddy,dhemaji 
+tg_kamareddy,papum pare 
+tg_kamareddy,lower subansiri 
+tg_kamareddy,lakhimpur 
+tg_kamareddy,upper subansiri 
+tn_tirupathur,tirap 
+tn_tirupathur,dhemaji 
+tn_tirupathur,namsai 
+tn_tirupathur,lower dibang valley 
+tn_tirupathur,lohit 
+tn_tirupathur,changlang 
+tn_tirupathur,dibrugarh 
+tn_tirupathur,east siang 
+ar_east kameng,lower siang 
+ar_east kameng,dhemaji 
+ar_east kameng,lower dibang valley 
+ar_east kameng,upper siang 
+ar_east kameng,siang 
+ar_east kameng,tinsukia 
+ar_longding,dhemaji 
+ar_longding,upper dibang valley 
+ar_longding,upper siang 
+ar_longding,lohit 
+ar_longding,east siang 
+ar_longding,tinsukia 
+nl_longleng,kamle 
+nl_longleng,west siang 
+nl_longleng,dhemaji 
+nl_longleng,lepa rada 
+nl_longleng,siang 
+nl_longleng,upper subansiri 
+nl_longleng,east siang 
+as_charaideo,tirap 
+as_charaideo,anjaw 
+as_charaideo,namsai 
+as_charaideo,lohit 
+as_charaideo,tinsukia 
+ar_lepa rada,anjaw 
+ar_lepa rada,namsai 
+ar_lepa rada,lower dibang valley 
+ar_lepa rada,changlang 
+ar_lepa rada,tinsukia 
+tn_tiruppur,longding 
+tn_tiruppur,dibrugarh 
+tn_tiruppur,changlang 
+tn_tiruppur,tinsukia 
+ar_namsai,lohit 
+ar_namsai,changlang 
+ar_namsai,tinsukia 
+jh_lohardaga,charaideo 
+jh_lohardaga,mon 
+jh_lohardaga,dibrugarh 
+jh_lohardaga,tirap 
+hr_charkhi dadri,mon 
+hr_charkhi dadri,dibrugarh 
+hr_charkhi dadri,longding 
+hr_charkhi dadri,sivasagar 
+nl_mokokchung,longding 
+nl_mokokchung,longleng 
+nl_mokokchung,noklak 
+nl_mokokchung,charaideo 
+nl_mokokchung,sivasagar 
+nl_mokokchung,tuensang 
+ar_lohit,mokokchung 
+ar_lohit,mon 
+ar_lohit,sivasagar 
+ar_lohit,tuensang 
+gj_devbhumi dwarka,unokoti 
+gj_devbhumi dwarka,khowai 
+gj_devbhumi dwarka,gomati 
+gj_devbhumi dwarka,north tripura 
+jh_giridih,south tripura 
+jh_giridih,khowai 
+jh_giridih,sepahijala 
+jh_giridih,dhalai 
+gj_kheda,west tripura 
+gj_kheda,sepahijala 
+gj_kheda,gomati 
+gj_kheda,dhalai 
+ar_upper subansiri,north tripura 
+ar_upper subansiri,dhalai 
+tr_west tripura,khowai 
+tr_west tripura,sepahijala 
+mp_shahdol,west tripura 
+mp_shahdol,south tripura 
+mp_shahdol,khowai 
+mp_shahdol,gomati 
+ml_south west khasi hills,sepahijala 
+ml_south west khasi hills,gomati 
+ml_east garo hills,tawang  
+ml_east garo hills,papum pare 
+ml_east garo hills,kurung kumey  
+ml_east garo hills,pakke kessang None
+ml_east garo hills,west kameng  
+ar_kurung kumey,kra daadi 
+ar_kurung kumey,upper subansiri 
+ar_kurung kumey,papum pare 
+ar_kurung kumey,east kameng 
+tn_tenkasi,west kameng  
+tn_tenkasi,east kameng 
+ar_lower dibang valley,papum pare 
+ar_lower dibang valley,kra daadi 
+ar_lower dibang valley,kamle 
+ar_kra daadi,kamle 
+ar_kra daadi,papum pare 
+ar_kra daadi,kurung kumey  
+ar_kra daadi,lower subansiri 
+ar_kra daadi,upper subansiri 
+ka_uttara kannada,lower siang 
+ka_uttara kannada,kamle 
+ka_uttara kannada,kra daadi 
+ka_uttara kannada,kurung kumey  
+ka_uttara kannada,lepa rada 
+ka_uttara kannada,shi yomi 
+ka_uttara kannada,west siang 
+sk_west sikkim,lower siang 
+sk_west sikkim,lepa rada 
+sk_west sikkim,shi yomi 
+sk_west sikkim,siang 
+sk_west sikkim,upper subansiri 
+up_shrawasti,upper subansiri 
+up_shrawasti,upper siang 
+up_shrawasti,siang 
+up_shrawasti,west siang 
+mz_lawngtlai,upper subansiri 
+mz_lawngtlai,lower siang 
+mz_lawngtlai,west siang 
+rj_sikar,lower siang 
+rj_sikar,upper siang 
+rj_sikar,shi yomi 
+rj_sikar,west siang 
+rj_sikar,east siang 
+wb_uttar dinajpur,upper dibang valley 
+wb_uttar dinajpur,lower dibang valley 
+wb_uttar dinajpur,shi yomi 
+wb_uttar dinajpur,siang 
+wb_uttar dinajpur,east siang 
+ct_uttar bastar kanker,upper siang 
+ct_uttar bastar kanker,lower dibang valley 
+jk_anantnag,lohit 
+jk_anantnag,changlang 
+ct_durg,west garo hills 
+ct_durg,north garo hills 
+ct_durg,west khasi hills 
+ct_durg,south garo hills 
+sk_south sikkim,west garo hills 
+sk_south sikkim,west khasi hills 
+sk_south sikkim,east garo hills 
+sk_south sikkim,south west khasi hills 
+jk_srinagar,east khasi hills 
+jk_srinagar,west khasi hills 
+jk_srinagar,south garo hills 
+ap_srikakulam,west garo hills 
+ap_srikakulam,south salmara-mankachar 
+ml_east jaintia hills,west khasi hills 
+ml_east jaintia hills,west jaintia hills 
+ml_east jaintia hills,south west khasi hills 
+ml_east jaintia hills,ri-bhoi 
+mn_churachandpur,kakching 
+mn_churachandpur,noney 
+mn_churachandpur,pherzawl 
+mn_churachandpur,bishnupur 
+mn_churachandpur,chandel 
+as_bongaigaon,imphal west 
+as_bongaigaon,kakching 
+as_bongaigaon,noney 
+as_bongaigaon,kangpokpi 
+as_bongaigaon,churachandpur 
+ch_chandigarh,churachandpur 
+ch_chandigarh,tengnoupal 
+ch_chandigarh,kakching 
+mn_noney,churachandpur 
+mn_noney,pherzawl 
+mn_noney,tamenglong 
+mn_noney,kangpokpi 
+mn_noney,bishnupur 
+mn_noney,jiribam 
+br_kaimur,imphal west 
+br_kaimur,tengnoupal 
+br_kaimur,chandel 
+br_kaimur,bishnupur 
+br_kaimur,churachandpur 
+br_kaimur,thoubal 
+wb_howrah,imphal west 
+wb_howrah,thoubal 
+wb_howrah,kangpokpi 
+tg_hyderabad,kakching 
+tg_hyderabad,imphal east 
+tg_hyderabad,kangpokpi 
+tg_hyderabad,bishnupur 
+tg_hyderabad,thoubal 
+ar_tirap,imphal west 
+ar_tirap,kakching 
+ar_tirap,imphal east 
+ar_tirap,tengnoupal 
+ar_tirap,kangpokpi 
+tn_kancheepuram,imphal west 
+tn_kancheepuram,senapati 
+tn_kancheepuram,kamjong 
+tn_kancheepuram,imphal east 
+tn_kancheepuram,noney 
+tn_kancheepuram,tengnoupal 
+tn_kancheepuram,tamenglong 
+tn_kancheepuram,ukhrul 
+tn_kancheepuram,bishnupur 
+tn_kancheepuram,thoubal 
+mz_serchhip,phek 
+mz_serchhip,kohima 
+mz_serchhip,tamenglong 
+mz_serchhip,ukhrul 
+mz_serchhip,kangpokpi 
+mz_serchhip,peren 
+up_unnao,senapati 
+up_unnao,kamjong 
+up_unnao,phek 
+up_unnao,kangpokpi 
+mn_pherzawl,senapati 
+mn_pherzawl,kohima 
+mn_pherzawl,ukhrul 
+mn_pherzawl,zunheboto 
+mn_pherzawl,kiphire 
+tn_thanjavur,kakching 
+tn_thanjavur,kamjong 
+tn_thanjavur,kangpokpi 
+tn_thanjavur,chandel 
+tn_thanjavur,thoubal 
+tn_kallakurichi,tengnoupal 
+tn_kallakurichi,ukhrul 
+tn_kallakurichi,kangpokpi 
+mh_yavatmal,phek 
+mh_yavatmal,kohima 
+mh_yavatmal,mokokchung 
+mh_yavatmal,wokha 
+mh_yavatmal,kiphire 
+mh_yavatmal,tuensang 
+jh_khunti,phek 
+jh_khunti,tuensang 
+jh_khunti,zunheboto 
+as_udalguri,longleng 
+as_udalguri,zunheboto 
+as_udalguri,noklak 
+as_udalguri,mokokchung 
+as_udalguri,mon 
+as_udalguri,kiphire 
+tg_nizamabad,mon 
+tg_nizamabad,tuensang 
+jh_latehar,lunglei 
+jh_latehar,saiha 
+up_lucknow,mamit 
+up_lucknow,lawngtlai 
+up_lucknow,serchhip 
+up_lucknow,aizwal 
+br_samastipur,lawngtlai 
+up_shahjahanpur,aizwal 
+up_shahjahanpur,champhai 
+up_shahjahanpur,lunglei 
+up_chandauli,serchhip 
+up_chandauli,aizwal 
+up_chandauli,pherzawl 
+ml_south garo hills,purba medinipur 
+ml_south garo hills,kolkata 
+ml_south garo hills,howrah 
+ml_south garo hills,north  parganas 
+as_morigaon,jayashankar bhupalapally 
+as_morigaon,bhadradri kothagudem 
+as_morigaon,warangal rural 
+as_morigaon,bijapur 
+as_morigaon,mahabubabad 
+mh_mumbai,thane 
+mh_mumbai,mumbai city 
+mh_mumbai,konkan division 
+tg_mulugu,konkan division 
+tg_mulugu,mumbai suburban 
+up_gautam buddha nagar,amreli  
+up_gautam buddha nagar,diu 
+up_gautam buddha nagar,junagadh  
+tn_dindigul,gir somnath  
+jh_deoghar,porbandar  
+jh_deoghar,jamnagar  
+mh_kolhapur,south  parganas 
+mh_kolhapur,howrah 
+mh_kolhapur,north  parganas 

@@ -1,0 +1,726 @@
+,District_Key,District
+0,TG_Adilabad,adilabad
+1,MP_Agar Malwa,agar malwa
+2,UP_Agra,agra
+3,GJ_Ahmedabad,ahmedabad
+4,MH_Ahmednagar,ahmednagar
+5,MZ_Aizawl,aizawl
+6,RJ_Ajmer,ajmer
+7,MH_Akola,akola
+8,KL_Alappuzha,alappuzha
+9,UP_Aligarh,aligarh
+10,WB_Alipurduar,alipurduar
+11,MP_Alirajpur,alirajpur
+12,UT_Almora,almora
+13,RJ_Alwar,alwar
+14,HR_Ambala,ambala
+15,UP_Ambedkar Nagar,ambedkar nagar
+16,UP_Amethi,amethi
+17,MH_Amravati,amravati
+18,GJ_Amreli,amreli
+19,PB_Amritsar,amritsar
+20,UP_Amroha,amroha
+21,GJ_Anand,anand
+22,AP_Anantapur,anantapur
+23,JK_Anantnag,anantnag
+24,OR_Angul,angul
+25,AR_Anjaw,anjaw
+26,MP_Anuppur,anuppur
+27,BR_Araria,araria
+28,GJ_Aravalli,aravalli
+29,TN_Ariyalur,ariyalur
+30,BR_Arwal,arwal
+31,MP_Ashoknagar,ashoknagar
+32,UP_Auraiya,auraiya
+33,BR_Aurangabad,aurangabad
+34,UP_Ayodhya,ayodhya
+35,UP_Azamgarh,azamgarh
+36,KA_Bagalkote,bagalkote
+37,UT_Bageshwar,bageshwar
+38,UP_Baghpat,baghpat
+39,UP_Bahraich,bahraich
+40,AS_Baksa,baksa
+41,MP_Balaghat,balaghat
+42,OR_Balangir,balangir
+43,OR_Balasore,balasore
+44,KA_Ballari,ballari
+45,UP_Ballia,ballia
+46,CT_Balod,balod
+47,CT_Baloda Bazar,baloda bazar
+48,CT_Balrampur,balrampur
+49,CT_Bametara,bametara
+50,GJ_Banaskantha,banaskantha
+51,UP_Banda,banda
+52,JK_Bandipora,bandipora
+53,BR_Banka,banka
+54,WB_Bankura,bankura
+55,RJ_Banswara,banswara
+56,UP_Barabanki,barabanki
+57,JK_Baramulla,baramulla
+58,RJ_Baran,baran
+59,UP_Bareilly,bareilly
+60,OR_Bargarh,bargarh
+61,RJ_Barmer,barmer
+62,PB_Barnala,barnala
+63,AS_Barpeta,barpeta
+64,MP_Barwani,barwani
+65,CT_Bastar,bastar
+66,UP_Basti,basti
+67,PB_Bathinda,bathinda
+68,MH_Beed,beed
+69,BR_Begusarai,begusarai
+70,KA_Belagavi,belagavi
+71,KA_Bengaluru Rural,bengaluru rural
+72,KA_Bengaluru Urban,bengaluru urban
+73,MP_Betul,betul
+74,UP_Bhadohi,bhadohi
+75,TG_Bhadradri Kothagudem,bhadradri kothagudem
+76,OR_Bhadrak,bhadrak
+77,BR_Bhagalpur,bhagalpur
+78,MH_Bhandara,bhandara
+79,RJ_Bharatpur,bharatpur
+80,GJ_Bharuch,bharuch
+81,GJ_Bhavnagar,bhavnagar
+82,RJ_Bhilwara,bhilwara
+83,MP_Bhind,bhind
+84,HR_Bhiwani,bhiwani
+85,BR_Bhojpur,bhojpur
+86,MP_Bhopal,bhopal
+87,KA_Bidar,bidar
+88,CT_Bijapur,bijapur
+89,UP_Bijnor,bijnor
+90,RJ_Bikaner,bikaner
+91,CT_Bilaspur,bilaspur
+92,WB_Birbhum,birbhum
+93,MN_Bishnupur,bishnupur
+94,AS_Biswanath,biswanath
+95,JH_Bokaro,bokaro
+96,AS_Bongaigaon,bongaigaon
+97,GJ_Botad,botad
+98,OR_Boudh,boudh
+99,UP_Budaun,budaun
+100,JK_Budgam,budgam
+101,UP_Bulandshahr,bulandshahr
+102,MH_Buldhana,buldhana
+103,RJ_Bundi,bundi
+104,MP_Burhanpur,burhanpur
+105,BR_Buxar,buxar
+106,AS_Cachar,cachar
+107,DL_Central Delhi,central delhi
+108,KA_Chamarajanagara,chamarajanagara
+109,HP_Chamba,chamba
+110,UT_Chamoli,chamoli
+111,UT_Champawat,champawat
+112,MZ_Champhai,champhai
+113,UP_Chandauli,chandauli
+114,MN_Chandel,chandel
+115,CH_Chandigarh,chandigarh
+116,MH_Chandrapur,chandrapur
+117,AR_Changlang,changlang
+118,AS_Charaideo,charaideo
+119,HR_Charkhi Dadri,charkhi dadri
+120,JH_Chatra,chatra
+121,TN_Chengalpattu,chengalpattu
+122,TN_Chennai,chennai
+123,MP_Chhatarpur,chhatarpur
+124,MP_Chhindwara,chhindwara
+125,GJ_Chhota Udaipur,chhota udaipur
+126,KA_Chikkaballapura,chikkaballapura
+127,KA_Chikkamagaluru,chikkamagaluru
+128,AS_Chirang,chirang
+129,KA_Chitradurga,chitradurga
+130,UP_Chitrakoot,chitrakoot
+131,AP_Chittoor,chittoor
+132,RJ_Chittorgarh,chittorgarh
+133,MN_Churachandpur,churachandpur
+134,RJ_Churu,churu
+135,TN_Coimbatore,coimbatore
+136,WB_Cooch Behar,cooch behar
+137,TN_Cuddalore,cuddalore
+138,OR_Cuttack,cuttack
+139,DN_Dadra and Nagar Haveli,dadra and nagar haveli
+140,GJ_Dahod,dahod
+141,CT_Dakshin Bastar Dantewada,dakshin bastar dantewada
+142,WB_Dakshin Dinajpur,dakshin dinajpur
+143,KA_Dakshina Kannada,dakshina kannada
+144,DN_Daman,daman
+145,MP_Damoh,damoh
+146,GJ_Dang,dang
+147,BR_Darbhanga,darbhanga
+148,WB_Darjeeling,darjeeling
+149,AS_Darrang,darrang
+150,MP_Datia,datia
+151,RJ_Dausa,dausa
+152,KA_Davanagere,davanagere
+153,UT_Dehradun,dehradun
+154,OR_Deogarh,deogarh
+155,JH_Deoghar,deoghar
+156,UP_Deoria,deoria
+157,GJ_Devbhumi Dwarka,devbhumi dwarka
+158,MP_Dewas,dewas
+159,TR_Dhalai,dhalai
+160,CT_Dhamtari,dhamtari
+161,JH_Dhanbad,dhanbad
+162,MP_Dhar,dhar
+163,TN_Dharmapuri,dharmapuri
+164,KA_Dharwad,dharwad
+165,AS_Dhemaji,dhemaji
+166,OR_Dhenkanal,dhenkanal
+167,RJ_Dholpur,dholpur
+168,AS_Dhubri,dhubri
+169,MH_Dhule,dhule
+170,AS_Dibrugarh,dibrugarh
+171,AS_Dima Hasao,dima hasao
+172,NL_Dimapur,dimapur
+173,TN_Dindigul,dindigul
+174,MP_Dindori,dindori
+175,DN_Diu,diu
+176,JK_Doda,doda
+177,JH_Dumka,dumka
+178,RJ_Dungarpur,dungarpur
+179,CT_Durg,durg
+180,BR_East Champaran,east champaran
+181,DL_East Delhi,east delhi
+182,ML_East Garo Hills,east garo hills
+183,AP_East Godavari,east godavari
+184,ML_East Jaintia Hills,east jaintia hills
+185,AR_East Kameng,east kameng
+186,ML_East Khasi Hills,east khasi hills
+187,AR_East Siang,east siang
+188,SK_East Sikkim,east sikkim
+189,JH_East Singhbhum,east singhbhum
+190,KL_Ernakulam,ernakulam
+191,TN_Erode,erode
+192,UP_Etah,etah
+193,UP_Etawah,etawah
+194,HR_Faridabad,faridabad
+195,PB_Faridkot,faridkot
+196,UP_Farrukhabad,farrukhabad
+197,HR_Fatehabad,fatehabad
+198,PB_Fatehgarh Sahib,fatehgarh sahib
+199,UP_Fatehpur,fatehpur
+200,PB_Fazilka,fazilka
+201,PB_Ferozepur,ferozepur
+202,UP_Firozabad,firozabad
+203,KA_Gadag,gadag
+204,MH_Gadchiroli,gadchiroli
+205,OR_Gajapati,gajapati
+206,JK_Ganderbal,ganderbal
+207,GJ_Gandhinagar,gandhinagar
+208,RJ_Ganganagar,ganganagar
+209,OR_Ganjam,ganjam
+210,JH_Garhwa,garhwa
+211,CT_Gariaband,gariaband
+212,CT_Gaurela Pendra Marwahi,gaurela pendra marwahi
+213,UP_Gautam Buddha Nagar,gautam buddha nagar
+214,BR_Gaya,gaya
+215,UP_Ghaziabad,ghaziabad
+216,UP_Ghazipur,ghazipur
+217,GJ_Gir Somnath,gir somnath
+218,JH_Giridih,giridih
+219,AS_Goalpara,goalpara
+220,JH_Godda,godda
+221,AS_Golaghat,golaghat
+222,TR_Gomati,gomati
+223,UP_Gonda,gonda
+224,MH_Gondia,gondia
+225,BR_Gopalganj,gopalganj
+226,UP_Gorakhpur,gorakhpur
+227,JH_Gumla,gumla
+228,MP_Guna,guna
+229,AP_Guntur,guntur
+230,PB_Gurdaspur,gurdaspur
+231,HR_Gurugram,gurugram
+232,MP_Gwalior,gwalior
+233,AS_Hailakandi,hailakandi
+234,UP_Hamirpur,hamirpur
+235,RJ_Hanumangarh,hanumangarh
+236,UP_Hapur,hapur
+237,MP_Harda,harda
+238,UP_Hardoi,hardoi
+239,UT_Haridwar,haridwar
+240,KA_Hassan,hassan
+241,UP_Hathras,hathras
+242,KA_Haveri,haveri
+243,JH_Hazaribagh,hazaribagh
+244,MH_Hingoli,hingoli
+245,HR_Hisar,hisar
+246,AS_Hojai,hojai
+247,WB_Hooghly,hooghly
+248,MP_Hoshangabad,hoshangabad
+249,PB_Hoshiarpur,hoshiarpur
+250,WB_Howrah,howrah
+251,TG_Hyderabad,hyderabad
+252,KL_Idukki,idukki
+253,MN_Imphal East,imphal east
+254,MN_Imphal West,imphal west
+255,MP_Indore,indore
+256,MP_Jabalpur,jabalpur
+257,OR_Jagatsinghpur,jagatsinghpur
+258,TG_Jagtial,jagtial
+259,RJ_Jaipur,jaipur
+260,RJ_Jaisalmer,jaisalmer
+261,OR_Jajpur,jajpur
+262,PB_Jalandhar,jalandhar
+263,UP_Jalaun,jalaun
+264,MH_Jalgaon,jalgaon
+265,MH_Jalna,jalna
+266,RJ_Jalore,jalore
+267,WB_Jalpaiguri,jalpaiguri
+268,JK_Jammu,jammu
+269,GJ_Jamnagar,jamnagar
+270,JH_Jamtara,jamtara
+271,BR_Jamui,jamui
+272,TG_Jangaon,jangaon
+273,CT_Janjgir Champa,janjgir champa
+274,CT_Jashpur,jashpur
+275,UP_Jaunpur,jaunpur
+276,TG_Jayashankar Bhupalapally,jayashankar bhupalapally
+277,BR_Jehanabad,jehanabad
+278,MP_Jhabua,jhabua
+279,HR_Jhajjar,jhajjar
+280,RJ_Jhalawar,jhalawar
+281,UP_Jhansi,jhansi
+282,WB_Jhargram,jhargram
+283,OR_Jharsuguda,jharsuguda
+284,RJ_Jhunjhunu,jhunjhunu
+285,HR_Jind,jind
+286,MN_Jiribam,jiribam
+287,RJ_Jodhpur,jodhpur
+288,TG_Jogulamba Gadwal,jogulamba gadwal
+289,AS_Jorhat,jorhat
+290,GJ_Junagadh,junagadh
+291,CT_Kabeerdham,kabeerdham
+292,BR_Kaimur,kaimur
+293,HR_Kaithal,kaithal
+294,MN_Kakching,kakching
+295,KA_Kalaburagi,kalaburagi
+296,OR_Kalahandi,kalahandi
+297,WB_Kalimpong,kalimpong
+298,TN_Kallakurichi,kallakurichi
+299,TG_Kamareddy,kamareddy
+300,MN_Kamjong,kamjong
+301,AR_Kamle,kamle
+302,AS_Kamrup,kamrup
+303,AS_Kamrup Metropolitan,kamrup metropolitan
+304,TN_Kancheepuram,kancheepuram
+305,OR_Kandhamal,kandhamal
+306,MN_Kangpokpi,kangpokpi
+307,HP_Kangra,kangra
+308,UP_Kannauj,kannauj
+309,KL_Kannur,kannur
+310,UP_Kanpur Dehat,kanpur dehat
+311,UP_Kanpur Nagar,kanpur nagar
+312,TN_Kanyakumari,kanyakumari
+313,PB_Kapurthala,kapurthala
+314,PY_Karaikal,karaikal
+315,RJ_Karauli,karauli
+316,AS_Karbi Anglong,karbi anglong
+317,LA_Kargil,kargil
+318,AS_Karimganj,karimganj
+319,TG_Karimnagar,karimnagar
+320,HR_Karnal,karnal
+321,TN_Karur,karur
+322,KL_Kasaragod,kasaragod
+323,UP_Kasganj,kasganj
+324,JK_Kathua,kathua
+325,BR_Katihar,katihar
+326,MP_Katni,katni
+327,UP_Kaushambi,kaushambi
+328,OR_Kendrapara,kendrapara
+329,OR_Kendujhar,kendujhar
+330,BR_Khagaria,khagaria
+331,TG_Khammam,khammam
+332,MP_Khandwa,khandwa
+333,MP_Khargone,khargone
+334,GJ_Kheda,kheda
+335,OR_Khordha,khordha
+336,TR_Khowai,khowai
+337,JH_Khunti,khunti
+338,HP_Kinnaur,kinnaur
+339,NL_Kiphire,kiphire
+340,BR_Kishanganj,kishanganj
+341,JK_Kishtwar,kishtwar
+342,KA_Kodagu,kodagu
+343,JH_Koderma,koderma
+344,NL_Kohima,kohima
+345,AS_Kokrajhar,kokrajhar
+346,KA_Kolar,kolar
+347,MZ_Kolasib,kolasib
+348,MH_Kolhapur,kolhapur
+349,WB_Kolkata,kolkata
+350,KL_Kollam,kollam
+351,TG_Komaram Bheem,komaram bheem
+352,CT_Kondagaon,kondagaon
+353,KA_Koppal,koppal
+354,OR_Koraput,koraput
+355,CT_Korba,korba
+356,CT_Koriya,koriya
+357,RJ_Kota,kota
+358,KL_Kottayam,kottayam
+359,KL_Kozhikode,kozhikode
+360,AR_Kra Daadi,kra daadi
+361,AP_Krishna,krishna
+362,TN_Krishnagiri,krishnagiri
+363,JK_Kulgam,kulgam
+364,HP_Kullu,kullu
+365,JK_Kupwara,kupwara
+366,AP_Kurnool,kurnool
+367,HR_Kurukshetra,kurukshetra
+368,AR_Kurung Kumey,kurung kumey
+369,UP_Kushinagar,kushinagar
+370,GJ_Kutch,kutch
+371,HP_Lahul and Spiti,lahul and spiti
+372,AS_Lakhimpur,lakhimpur
+373,UP_Lakhimpur Kheri,lakhimpur kheri
+374,BR_Lakhisarai,lakhisarai
+375,LD_Lakshadweep,lakshadweep
+376,UP_Lalitpur,lalitpur
+377,JH_Latehar,latehar
+378,MH_Latur,latur
+379,MZ_Lawngtlai,lawngtlai
+380,LA_Leh,leh
+381,AR_Lepa Rada,lepa rada
+382,JH_Lohardaga,lohardaga
+383,AR_Lohit,lohit
+384,AR_Longding,longding
+385,NL_Longleng,longleng
+386,AR_Lower Dibang Valley,lower dibang valley
+387,AR_Lower Siang,lower siang
+388,AR_Lower Subansiri,lower subansiri
+389,UP_Lucknow,lucknow
+390,PB_Ludhiana,ludhiana
+391,MZ_Lunglei,lunglei
+392,BR_Madhepura,madhepura
+393,BR_Madhubani,madhubani
+394,TN_Madurai,madurai
+395,TG_Mahabubabad,mahabubabad
+396,TG_Mahabubnagar,mahabubnagar
+397,UP_Maharajganj,maharajganj
+398,CT_Mahasamund,mahasamund
+399,PY_Mahe,mahe
+400,HR_Mahendragarh,mahendragarh
+401,GJ_Mahisagar,mahisagar
+402,UP_Mahoba,mahoba
+403,UP_Mainpuri,mainpuri
+404,AS_Majuli,majuli
+405,KL_Malappuram,malappuram
+406,WB_Malda,malda
+407,OR_Malkangiri,malkangiri
+408,MZ_Mamit,mamit
+409,TG_Mancherial,mancherial
+410,HP_Mandi,mandi
+411,MP_Mandla,mandla
+412,MP_Mandsaur,mandsaur
+413,KA_Mandya,mandya
+414,PB_Mansa,mansa
+415,UP_Mathura,mathura
+416,UP_Mau,mau
+417,OR_Mayurbhanj,mayurbhanj
+418,TG_Medak,medak
+419,TG_Medchal Malkajgiri,medchal malkajgiri
+420,UP_Meerut,meerut
+421,GJ_Mehsana,mehsana
+422,UP_Mirzapur,mirzapur
+423,PB_Moga,moga
+424,NL_Mokokchung,mokokchung
+425,NL_Mon,mon
+426,UP_Moradabad,moradabad
+427,GJ_Morbi,morbi
+428,MP_Morena,morena
+429,AS_Morigaon,morigaon
+430,TG_Mulugu,mulugu
+431,MH_Mumbai,mumbai
+432,CT_Mungeli,mungeli
+433,BR_Munger,munger
+434,WB_Murshidabad,murshidabad
+435,UP_Muzaffarnagar,muzaffarnagar
+436,BR_Muzaffarpur,muzaffarpur
+437,KA_Mysuru,mysuru
+438,OR_Nabarangapur,nabarangapur
+439,WB_Nadia,nadia
+440,AS_Nagaon,nagaon
+441,TN_Nagapattinam,nagapattinam
+442,TG_Nagarkurnool,nagarkurnool
+443,RJ_Nagaur,nagaur
+444,MH_Nagpur,nagpur
+445,UT_Nainital,nainital
+446,BR_Nalanda,nalanda
+447,AS_Nalbari,nalbari
+448,TG_Nalgonda,nalgonda
+449,TN_Namakkal,namakkal
+450,AR_Namsai,namsai
+451,MH_Nanded,nanded
+452,MH_Nandurbar,nandurbar
+453,TG_Narayanpet,narayanpet
+454,CT_Narayanpur,narayanpur
+455,GJ_Narmada,narmada
+456,MP_Narsinghpur,narsinghpur
+457,MH_Nashik,nashik
+458,GJ_Navsari,navsari
+459,BR_Nawada,nawada
+460,OR_Nayagarh,nayagarh
+461,MP_Neemuch,neemuch
+462,DL_New Delhi,new delhi
+463,AN_Nicobars,nicobars
+464,TN_Nilgiris,nilgiris
+465,TG_Nirmal,nirmal
+466,TG_Nizamabad,nizamabad
+467,MN_Noney,noney
+468,WB_North 24 Parganas,north 24 parganas
+469,AN_North and Middle Andaman,north and middle andaman
+470,DL_North Delhi,north delhi
+471,DL_North East Delhi,north east delhi
+472,ML_North Garo Hills,north garo hills
+473,GA_North Goa,north goa
+474,SK_North Sikkim,north sikkim
+475,TR_North Tripura,north tripura
+476,DL_North West Delhi,north west delhi
+477,OR_Nuapada,nuapada
+478,HR_Nuh,nuh
+479,MH_Osmanabad,osmanabad
+480,AR_Pakke Kessang,pakke kessang
+481,JH_Pakur,pakur
+482,KL_Palakkad,palakkad
+483,JH_Palamu,palamu
+484,MH_Palghar,palghar
+485,RJ_Pali,pali
+486,HR_Palwal,palwal
+487,HR_Panchkula,panchkula
+488,GJ_Panchmahal,panchmahal
+489,HR_Panipat,panipat
+490,MP_Panna,panna
+491,AR_Papum Pare,papum pare
+492,MH_Parbhani,parbhani
+493,WB_Paschim Bardhaman,paschim bardhaman
+494,WB_Paschim Medinipur,paschim medinipur
+495,GJ_Patan,patan
+496,KL_Pathanamthitta,pathanamthitta
+497,PB_Pathankot,pathankot
+498,PB_Patiala,patiala
+499,BR_Patna,patna
+500,UT_Pauri Garhwal,pauri garhwal
+501,TG_Peddapalli,peddapalli
+502,TN_Perambalur,perambalur
+503,NL_Peren,peren
+504,NL_Phek,phek
+505,MN_Pherzawl,pherzawl
+506,UP_Pilibhit,pilibhit
+507,UT_Pithoragarh,pithoragarh
+508,GJ_Porbandar,porbandar
+509,AP_Prakasam,prakasam
+510,UP_Pratapgarh,pratapgarh
+511,UP_Prayagraj,prayagraj
+512,PY_Puducherry,puducherry
+513,TN_Pudukkottai,pudukkottai
+514,JK_Pulwama,pulwama
+515,JK_Punch,punch
+516,MH_Pune,pune
+517,WB_Purba Bardhaman,purba bardhaman
+518,WB_Purba Medinipur,purba medinipur
+519,OR_Puri,puri
+520,BR_Purnia,purnia
+521,WB_Purulia,purulia
+522,UP_Rae Bareli,rae bareli
+523,KA_Raichur,raichur
+524,MH_Raigad,raigad
+525,CT_Raigarh,raigarh
+526,CT_Raipur,raipur
+527,MP_Raisen,raisen
+528,TG_Rajanna Sircilla,rajanna sircilla
+529,MP_Rajgarh,rajgarh
+530,GJ_Rajkot,rajkot
+531,CT_Rajnandgaon,rajnandgaon
+532,JK_Rajouri,rajouri
+533,RJ_Rajsamand,rajsamand
+534,KA_Ramanagara,ramanagara
+535,TN_Ramanathapuram,ramanathapuram
+536,JK_Ramban,ramban
+537,JH_Ramgarh,ramgarh
+538,UP_Rampur,rampur
+539,JH_Ranchi,ranchi
+540,TG_Ranga Reddy,ranga reddy
+541,TN_Ranipet,ranipet
+542,MP_Ratlam,ratlam
+543,MH_Ratnagiri,ratnagiri
+544,OR_Rayagada,rayagada
+545,JK_Reasi,reasi
+546,MP_Rewa,rewa
+547,HR_Rewari,rewari
+548,ML_Ribhoi,ribhoi
+549,HR_Rohtak,rohtak
+550,BR_Rohtas,rohtas
+551,UT_Rudraprayag,rudraprayag
+552,PB_Rupnagar,rupnagar
+553,PB_S.A.S. Nagar,s.a.s. nagar
+554,AP_S.P.S. Nellore,s.p.s. nellore
+555,GJ_Sabarkantha,sabarkantha
+556,MP_Sagar,sagar
+557,UP_Saharanpur,saharanpur
+558,BR_Saharsa,saharsa
+559,JH_Sahibganj,sahibganj
+560,MZ_Saiha,saiha
+561,TN_Salem,salem
+562,BR_Samastipur,samastipur
+563,JK_Samba,samba
+564,OR_Sambalpur,sambalpur
+565,UP_Sambhal,sambhal
+566,TG_Sangareddy,sangareddy
+567,MH_Sangli,sangli
+568,PB_Sangrur,sangrur
+569,UP_Sant Kabir Nagar,sant kabir nagar
+570,JH_Saraikela-Kharsawan,saraikela-kharsawan
+571,BR_Saran,saran
+572,MH_Satara,satara
+573,MP_Satna,satna
+574,RJ_Sawai Madhopur,sawai madhopur
+575,MP_Sehore,sehore
+576,MN_Senapati,senapati
+577,MP_Seoni,seoni
+578,MZ_Serchhip,serchhip
+579,DL_Shahdara,shahdara
+580,MP_Shahdol,shahdol
+581,PB_Shahid Bhagat Singh Nagar,shahid bhagat singh nagar
+582,UP_Shahjahanpur,shahjahanpur
+583,MP_Shajapur,shajapur
+584,UP_Shamli,shamli
+585,BR_Sheikhpura,sheikhpura
+586,BR_Sheohar,sheohar
+587,MP_Sheopur,sheopur
+588,AR_Shi Yomi,shi yomi
+589,HP_Shimla,shimla
+590,KA_Shivamogga,shivamogga
+591,MP_Shivpuri,shivpuri
+592,JK_Shopiyan,shopiyan
+593,UP_Shrawasti,shrawasti
+594,AR_Siang,siang
+595,UP_Siddharthnagar,siddharthnagar
+596,TG_Siddipet,siddipet
+597,MP_Sidhi,sidhi
+598,RJ_Sikar,sikar
+599,JH_Simdega,simdega
+600,MH_Sindhudurg,sindhudurg
+601,MP_Singrauli,singrauli
+602,TR_Sipahijala,sipahijala
+603,HP_Sirmaur,sirmaur
+604,RJ_Sirohi,sirohi
+605,HR_Sirsa,sirsa
+606,BR_Sitamarhi,sitamarhi
+607,UP_Sitapur,sitapur
+608,TN_Sivaganga,sivaganga
+609,AS_Sivasagar,sivasagar
+610,BR_Siwan,siwan
+611,HP_Solan,solan
+612,MH_Solapur,solapur
+613,UP_Sonbhadra,sonbhadra
+614,HR_Sonipat,sonipat
+615,AS_Sonitpur,sonitpur
+616,WB_South 24 Parganas,south 24 parganas
+617,AN_South Andaman,south andaman
+618,DL_South Delhi,south delhi
+619,DL_South East Delhi,south east delhi
+620,ML_South Garo Hills,south garo hills
+621,GA_South Goa,south goa
+622,AS_South Salmara Mankachar,south salmara mankachar
+623,SK_South Sikkim,south sikkim
+624,TR_South Tripura,south tripura
+625,DL_South West Delhi,south west delhi
+626,ML_South West Garo Hills,south west garo hills
+627,ML_South West Khasi Hills,south west khasi hills
+628,PB_Sri Muktsar Sahib,sri muktsar sahib
+629,AP_Srikakulam,srikakulam
+630,JK_Srinagar,srinagar
+631,OR_Subarnapur,subarnapur
+632,CT_Sukma,sukma
+633,UP_Sultanpur,sultanpur
+634,OR_Sundargarh,sundargarh
+635,BR_Supaul,supaul
+636,CT_Surajpur,surajpur
+637,GJ_Surat,surat
+638,GJ_Surendranagar,surendranagar
+639,CT_Surguja,surguja
+640,TG_Suryapet,suryapet
+641,MN_Tamenglong,tamenglong
+642,GJ_Tapi,tapi
+643,PB_Tarn Taran,tarn taran
+644,AR_Tawang,tawang
+645,UT_Tehri Garhwal,tehri garhwal
+646,MN_Tengnoupal,tengnoupal
+647,TN_Tenkasi,tenkasi
+648,MH_Thane,thane
+649,TN_Thanjavur,thanjavur
+650,TN_Theni,theni
+651,TN_Thiruvallur,thiruvallur
+652,KL_Thiruvananthapuram,thiruvananthapuram
+653,TN_Thiruvarur,thiruvarur
+654,TN_Thoothukkudi,thoothukkudi
+655,MN_Thoubal,thoubal
+656,KL_Thrissur,thrissur
+657,MP_Tikamgarh,tikamgarh
+658,AS_Tinsukia,tinsukia
+659,AR_Tirap,tirap
+660,TN_Tiruchirappalli,tiruchirappalli
+661,TN_Tirunelveli,tirunelveli
+662,TN_Tirupathur,tirupathur
+663,TN_Tiruppur,tiruppur
+664,TN_Tiruvannamalai,tiruvannamalai
+665,RJ_Tonk,tonk
+666,NL_Tuensang,tuensang
+667,KA_Tumakuru,tumakuru
+668,RJ_Udaipur,udaipur
+669,AS_Udalguri,udalguri
+670,UT_Udham Singh Nagar,udham singh nagar
+671,JK_Udhampur,udhampur
+672,KA_Udupi,udupi
+673,MP_Ujjain,ujjain
+674,MN_Ukhrul,ukhrul
+675,MP_Umaria,umaria
+676,HP_Una,una
+677,UP_Unnao,unnao
+678,TR_Unokoti,unokoti
+679,AR_Upper Dibang Valley,upper dibang valley
+680,AR_Upper Siang,upper siang
+681,AR_Upper Subansiri,upper subansiri
+682,CT_Uttar Bastar Kanker,uttar bastar kanker
+683,WB_Uttar Dinajpur,uttar dinajpur
+684,KA_Uttara Kannada,uttara kannada
+685,UT_Uttarkashi,uttarkashi
+686,GJ_Vadodara,vadodara
+687,BR_Vaishali,vaishali
+688,GJ_Valsad,valsad
+689,UP_Varanasi,varanasi
+690,TN_Vellore,vellore
+691,MP_Vidisha,vidisha
+692,KA_Vijayapura,vijayapura
+693,TG_Vikarabad,vikarabad
+694,TN_Viluppuram,viluppuram
+695,TN_Virudhunagar,virudhunagar
+696,AP_Visakhapatnam,visakhapatnam
+697,AP_Vizianagaram,vizianagaram
+698,TG_Wanaparthy,wanaparthy
+699,TG_Warangal Rural,warangal rural
+700,TG_Warangal Urban,warangal urban
+701,MH_Wardha,wardha
+702,MH_Washim,washim
+703,KL_Wayanad,wayanad
+704,BR_West Champaran,west champaran
+705,DL_West Delhi,west delhi
+706,ML_West Garo Hills,west garo hills
+707,AP_West Godavari,west godavari
+708,ML_West Jaintia Hills,west jaintia hills
+709,AR_West Kameng,west kameng
+710,AS_West Karbi Anglong,west karbi anglong
+711,ML_West Khasi Hills,west khasi hills
+712,AR_West Siang,west siang
+713,SK_West Sikkim,west sikkim
+714,JH_West Singhbhum,west singhbhum
+715,TR_West Tripura,west tripura
+716,NL_Wokha,wokha
+717,AP_Y.S.R. Kadapa,y.s.r. kadapa
+718,TG_Yadadri Bhuvanagiri,yadadri bhuvanagiri
+719,KA_Yadgir,yadgir
+720,HR_Yamunanagar,yamunanagar
+721,PY_Yanam,yanam
+722,MH_Yavatmal,yavatmal
+723,NL_Zunheboto,zunheboto
+724,,

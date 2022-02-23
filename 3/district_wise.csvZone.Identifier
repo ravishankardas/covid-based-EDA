@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.covid19india.org/
+HostUrl=https://data.covid19india.org/csv/latest/district_wise.csv

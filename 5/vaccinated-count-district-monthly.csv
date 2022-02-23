@@ -1,0 +1,718 @@
+,districtid,timeid,dose1,dose2
+0,AN_Nicobars,month,3132.0,5809.0
+1,AN_North and Middle Andaman,month,9056.0,17989.0
+2,AN_South Andaman,month,18527.0,27144.0
+3,AP_Anantapur,month,179875.0,309676.0
+4,AP_Chittoor,month,206094.0,343265.0
+5,AP_East Godavari,month,267902.0,548019.0
+6,AP_Guntur,month,238305.0,436910.0
+7,AP_Krishna,month,240818.0,408651.0
+8,AP_Kurnool,month,164801.0,278652.0
+9,AP_Prakasam,month,165555.0,236764.0
+10,AP_S.P.S. Nellore,month,158718.0,259174.0
+11,AP_Srikakulam,month,144166.0,200093.0
+12,AP_Visakhapatnam,month,244271.0,355338.0
+13,AP_Vizianagaram,month,119690.0,162864.0
+14,AP_West Godavari,month,219570.0,382714.0
+15,AP_Y.S.R. Kadapa,month,146371.0,182013.0
+16,AR_Anjaw,month,1547.0,1319.0
+17,AR_Changlang,month,10665.0,11581.0
+18,AR_East Kameng,month,2837.0,3346.0
+19,AR_East Siang,month,7296.0,4171.0
+20,AR_Kamle,month,853.0,1767.0
+21,AR_Kra Daadi,month,831.0,758.0
+22,AR_Kurung Kumey,month,1217.0,1705.0
+23,AR_Lepa Rada,month,1841.0,1622.0
+24,AR_Lohit,month,3920.0,5267.0
+25,AR_Longding,month,2439.0,3012.0
+26,AR_Lower Dibang Valley,month,4159.0,3953.0
+27,AR_Lower Siang,month,2147.0,3963.0
+28,AR_Lower Subansiri,month,3498.0,4268.0
+29,AR_Namsai,month,8138.0,6921.0
+30,AR_Pakke Kessang,month,1061.0,1542.0
+31,AR_Papum Pare,month,3908.0,3157.0
+33,AR_Siang,month,1963.0,2674.0
+34,AR_Tawang,month,3873.0,2339.0
+35,AR_Tirap,month,4096.0,5079.0
+36,AR_Upper Dibang Valley,month,553.0,583.0
+37,AR_Upper Siang,month,2449.0,3276.0
+38,AR_Upper Subansiri,month,3205.0,5138.0
+39,AR_West Kameng,month,6945.0,9581.0
+40,AR_West Siang,month,4579.0,3684.0
+41,AS_Baksa,month,31304.0,97234.0
+42,AS_Barpeta,month,62182.0,170396.0
+43,AS_Biswanath,month,44744.0,154526.0
+44,AS_Bongaigaon,month,32735.0,79116.0
+45,AS_Cachar,month,62476.0,86064.0
+46,AS_Charaideo,month,25100.0,85460.0
+47,AS_Chirang,month,19293.0,52314.0
+48,AS_Darrang,month,34343.0,78177.0
+49,AS_Dhemaji,month,34625.0,83639.0
+50,AS_Dhubri,month,41719.0,92949.0
+51,AS_Dibrugarh,month,71859.0,140537.0
+52,AS_Dima Hasao,month,11408.0,16709.0
+53,AS_Goalpara,month,36246.0,98556.0
+54,AS_Golaghat,month,65657.0,255356.0
+55,AS_Hailakandi,month,29246.0,65932.0
+56,AS_Hojai,month,37008.0,82426.0
+57,AS_Jorhat,month,60847.0,203717.0
+58,AS_Kamrup,month,76005.0,198121.0
+59,AS_Kamrup Metropolitan,month,140861.0,182024.0
+60,AS_Karbi Anglong,month,19713.0,46727.0
+61,AS_Karimganj,month,35878.0,78004.0
+62,AS_Kokrajhar,month,31135.0,83426.0
+63,AS_Lakhimpur,month,56509.0,203656.0
+64,AS_Majuli,month,13761.0,28681.0
+65,AS_Morigaon,month,44744.0,154764.0
+66,AS_Nagaon,month,77825.0,186816.0
+67,AS_Nalbari,month,31955.0,83564.0
+68,AS_Sivasagar,month,45021.0,149611.0
+69,AS_Sonitpur,month,75885.0,238152.0
+70,AS_South Salmara Mankachar,month,17313.0,70044.0
+71,AS_Tinsukia,month,51140.0,86380.0
+72,AS_Udalguri,month,27115.0,69995.0
+73,AS_West Karbi Anglong,month,9909.0,23895.0
+74,BR_Araria,month,73484.0,184399.0
+75,BR_Arwal,month,28456.0,95594.0
+76,BR_Aurangabad,month,70841.0,179344.0
+77,BR_Banka,month,61466.0,105291.0
+78,BR_Begusarai,month,94840.0,209499.0
+79,BR_Bhagalpur,month,119597.0,234667.0
+80,BR_Bhojpur,month,79235.0,205873.0
+81,BR_Buxar,month,53787.0,113683.0
+82,BR_Darbhanga,month,128344.0,278746.0
+83,BR_East Champaran,month,147248.0,267068.0
+84,BR_Gaya,month,126536.0,261015.0
+85,BR_Gopalganj,month,70033.0,132074.0
+86,BR_Jamui,month,48364.0,87919.0
+87,BR_Jehanabad,month,37874.0,95528.0
+88,BR_Kaimur,month,45288.0,104532.0
+89,BR_Katihar,month,82949.0,219351.0
+90,BR_Khagaria,month,46826.0,129559.0
+91,BR_Kishanganj,month,44390.0,100210.0
+92,BR_Lakhisarai,month,29399.0,76673.0
+93,BR_Madhepura,month,54402.0,134868.0
+94,BR_Madhubani,month,123733.0,229332.0
+95,BR_Munger,month,51411.0,124567.0
+96,BR_Muzaffarpur,month,141899.0,298693.0
+97,BR_Nalanda,month,102779.0,189135.0
+98,BR_Nawada,month,63156.0,157372.0
+99,BR_Patna,month,329297.0,728803.0
+100,BR_Purnia,month,108174.0,184738.0
+101,BR_Rohtas,month,89815.0,218069.0
+102,BR_Saharsa,month,56268.0,112815.0
+103,BR_Samastipur,month,116644.0,254654.0
+104,BR_Saran,month,135189.0,300916.0
+105,BR_Sheikhpura,month,21891.0,51480.0
+106,BR_Sheohar,month,22424.0,40801.0
+107,BR_Sitamarhi,month,88315.0,242036.0
+108,BR_Siwan,month,118410.0,258480.0
+109,BR_Supaul,month,60388.0,106436.0
+110,BR_Vaishali,month,96297.0,213618.0
+111,BR_West Champaran,month,108076.0,275903.0
+112,CH_Chandigarh,month,98070.0,202723.0
+113,CT_Balod,month,47362.0,65148.0
+114,CT_Baloda Bazar,month,48463.0,55870.0
+115,CT_Balrampur,month,27345.0,14542.0
+116,CT_Bametara,month,24883.0,31298.0
+117,CT_Bastar,month,37327.0,30014.0
+118,CT_Bijapur,month,11082.0,9636.0
+119,CT_Bilaspur,month,80065.0,102899.0
+120,CT_Dakshin Bastar Dantewada,month,15482.0,12001.0
+121,CT_Dhamtari,month,43141.0,50290.0
+122,CT_Durg,month,84832.0,108860.0
+123,CT_Gariaband,month,23331.0,24730.0
+124,CT_Gaurela Pendra Marwahi,month,15209.0,17019.0
+125,CT_Janjgir Champa,month,62852.0,77914.0
+126,CT_Jashpur,month,36668.0,32868.0
+127,CT_Kabeerdham,month,35383.0,34590.0
+128,CT_Kondagaon,month,23747.0,15666.0
+129,CT_Korba,month,58498.0,46772.0
+130,CT_Koriya,month,24973.0,19750.0
+131,CT_Mahasamund,month,64613.0,101304.0
+132,CT_Mungeli,month,26864.0,29250.0
+133,CT_Narayanpur,month,4847.0,6540.0
+134,CT_Raigarh,month,124358.0,199659.0
+135,CT_Raipur,month,158036.0,367622.0
+136,CT_Rajnandgaon,month,95442.0,130950.0
+137,CT_Sukma,month,15057.0,10259.0
+138,CT_Surajpur,month,32249.0,17488.0
+139,CT_Surguja,month,46669.0,38531.0
+140,CT_Uttar Bastar Kanker,month,34378.0,32621.0
+141,DL_Central Delhi,month,111003.0,68839.0
+142,DL_East Delhi,month,85689.0,98511.0
+143,DL_New Delhi,month,86548.0,85901.0
+144,DL_North Delhi,month,87178.0,63417.0
+145,DL_North East Delhi,month,70449.0,44012.0
+146,DL_North West Delhi,month,127294.0,133318.0
+147,DL_Shahdara,month,73666.0,62786.0
+148,DL_South Delhi,month,124642.0,111965.0
+149,DL_South East Delhi,month,106632.0,100944.0
+150,DL_South West Delhi,month,120569.0,115924.0
+151,DL_West Delhi,month,112530.0,97010.0
+152,DN_Dadra and Nagar Haveli,month,48092.0,94631.0
+153,DN_Daman,month,29421.0,26274.0
+154,DN_Diu,month,5382.0,1325.0
+155,GA_North Goa,month,73668.0,93886.0
+156,GA_South Goa,month,81667.0,88571.0
+157,GJ_Ahmedabad,month,442816.0,598856.0
+159,GJ_Amreli,month,77207.0,167468.0
+160,GJ_Anand,month,116550.0,151914.0
+161,GJ_Aravalli,month,62956.0,88732.0
+162,GJ_Banaskantha,month,160947.0,290897.0
+163,GJ_Bharuch,month,107810.0,153078.0
+164,GJ_Bhavnagar,month,45581.0,61340.0
+166,GJ_Botad,month,39503.0,110216.0
+167,GJ_Chhota Udaipur,month,56643.0,114934.0
+168,GJ_Dahod,month,88978.0,135623.0
+169,GJ_Dang,month,9321.0,13330.0
+170,GJ_Devbhumi Dwarka,month,52295.0,105617.0
+171,GJ_Gandhinagar,month,77961.0,143122.0
+173,GJ_Gir Somnath,month,69519.0,151532.0
+174,GJ_Jamnagar,month,45689.0,40843.0
+176,GJ_Junagadh,month,70456.0,155404.0
+178,GJ_Kheda,month,113467.0,181308.0
+179,GJ_Kutch,month,120746.0,222518.0
+180,GJ_Mahisagar,month,59562.0,43982.0
+181,GJ_Mehsana,month,129902.0,139090.0
+182,GJ_Morbi,month,54559.0,123351.0
+183,GJ_Narmada,month,38594.0,61058.0
+184,GJ_Navsari,month,82260.0,104531.0
+185,GJ_Panchmahal,month,87313.0,145713.0
+186,GJ_Patan,month,73898.0,127791.0
+187,GJ_Porbandar,month,40801.0,50358.0
+188,GJ_Rajkot,month,126301.0,153368.0
+190,GJ_Sabarkantha,month,90323.0,148932.0
+191,GJ_Surat,month,317032.0,444983.0
+193,GJ_Surendranagar,month,94793.0,217023.0
+194,GJ_Tapi,month,48905.0,78100.0
+195,GJ_Vadodara,month,110132.0,187380.0
+197,GJ_Valsad,month,96890.0,170670.0
+198,HP_Chamba,month,36350.0,43015.0
+199,HP_Kangra,month,133108.0,187425.0
+200,HP_Kinnaur,month,10236.0,2825.0
+201,HP_Kullu,month,35187.0,41426.0
+202,HP_Mandi,month,85374.0,102482.0
+203,HP_Shimla,month,71566.0,87587.0
+204,HP_Sirmaur,month,36444.0,62603.0
+205,HP_Solan,month,56716.0,81030.0
+206,HP_Una,month,48516.0,65412.0
+207,HR_Ambala,month,88683.0,111920.0
+208,HR_Bhiwani,month,56572.0,98075.0
+209,HR_Charkhi Dadri,month,42171.0,66702.0
+210,HR_Faridabad,month,140889.0,189972.0
+211,HR_Fatehabad,month,43367.0,68323.0
+212,HR_Gurugram,month,211547.0,227253.0
+213,HR_Hisar,month,66485.0,102408.0
+214,HR_Jhajjar,month,52181.0,78480.0
+215,HR_Jind,month,45637.0,72147.0
+216,HR_Kaithal,month,44736.0,68299.0
+217,HR_Karnal,month,74531.0,91669.0
+218,HR_Kurukshetra,month,47235.0,65627.0
+219,HR_Mahendragarh,month,48483.0,53504.0
+220,HR_Nuh,month,20710.0,36464.0
+221,HR_Palwal,month,47964.0,62116.0
+222,HR_Panchkula,month,45880.0,59065.0
+223,HR_Panipat,month,48084.0,57238.0
+224,HR_Rewari,month,49526.0,50673.0
+225,HR_Rohtak,month,52146.0,77360.0
+226,HR_Sirsa,month,58065.0,80203.0
+227,HR_Sonipat,month,78710.0,110219.0
+228,HR_Yamunanagar,month,57901.0,69538.0
+229,JH_Bokaro,month,63825.0,103936.0
+230,JH_Chatra,month,34121.0,90444.0
+231,JH_Deoghar,month,51637.0,89423.0
+232,JH_Dhanbad,month,81560.0,123324.0
+233,JH_Dumka,month,47564.0,94971.0
+234,JH_East Singhbhum,month,104237.0,119342.0
+235,JH_Garhwa,month,39734.0,62616.0
+236,JH_Giridih,month,75791.0,150327.0
+237,JH_Godda,month,51034.0,90763.0
+238,JH_Gumla,month,37329.0,53624.0
+239,JH_Hazaribagh,month,66670.0,110948.0
+240,JH_Jamtara,month,31675.0,62195.0
+241,JH_Khunti,month,21210.0,23028.0
+242,JH_Koderma,month,35268.0,53188.0
+243,JH_Latehar,month,23023.0,28761.0
+244,JH_Lohardaga,month,18851.0,19479.0
+245,JH_Pakur,month,31409.0,50649.0
+246,JH_Palamu,month,69228.0,117081.0
+247,JH_Ramgarh,month,36314.0,65620.0
+248,JH_Ranchi,month,111271.0,184812.0
+249,JH_Sahibganj,month,35436.0,74866.0
+250,JH_Saraikela-Kharsawan,month,36789.0,64697.0
+251,JH_Simdega,month,25588.0,29462.0
+252,JH_West Singhbhum,month,50067.0,75732.0
+253,JK_Anantnag,month,49805.0,48054.0
+254,JK_Bandipora,month,20446.0,22026.0
+255,JK_Baramulla,month,56292.0,41629.0
+256,JK_Budgam,month,41516.0,37614.0
+257,JK_Doda,month,26141.0,53196.0
+258,JK_Ganderbal,month,18538.0,22334.0
+259,JK_Jammu,month,96004.0,71567.0
+260,JK_Kathua,month,40673.0,54213.0
+261,JK_Kishtwar,month,14617.0,16695.0
+262,JK_Kulgam,month,28391.0,37465.0
+263,JK_Kupwara,month,48959.0,114300.0
+264,JK_Pulwama,month,33493.0,42023.0
+265,JK_Punch,month,33688.0,62812.0
+266,JK_Rajouri,month,43069.0,47200.0
+267,JK_Ramban,month,22722.0,39081.0
+268,JK_Reasi,month,24729.0,39258.0
+269,JK_Samba,month,25361.0,47368.0
+270,JK_Shopiyan,month,15937.0,21802.0
+271,JK_Srinagar,month,65793.0,84123.0
+272,JK_Udhampur,month,41564.0,59926.0
+273,KA_Bagalkote,month,91049.0,138672.0
+274,KA_Ballari,month,132859.0,188842.0
+275,KA_Belagavi,month,215073.0,370976.0
+276,KA_Bengaluru Rural,month,60829.0,71934.0
+277,KA_Bengaluru Urban,month,864833.0,1068579.0
+279,KA_Bidar,month,81501.0,115822.0
+280,KA_Chamarajanagara,month,52232.0,74824.0
+281,KA_Chikkaballapura,month,70510.0,78342.0
+282,KA_Chikkamagaluru,month,52704.0,33402.0
+283,KA_Chitradurga,month,85558.0,110793.0
+284,KA_Dakshina Kannada,month,136687.0,199678.0
+285,KA_Davanagere,month,84834.0,100470.0
+286,KA_Dharwad,month,98494.0,145782.0
+287,KA_Hassan,month,91216.0,83692.0
+288,KA_Haveri,month,59764.0,111028.0
+289,KA_Kalaburagi,month,101398.0,183042.0
+290,KA_Kodagu,month,31987.0,29302.0
+291,KA_Kolar,month,94385.0,96914.0
+292,KA_Koppal,month,66337.0,81684.0
+293,KA_Mandya,month,100839.0,128604.0
+294,KA_Mysuru,month,195486.0,223696.0
+295,KA_Raichur,month,78059.0,112607.0
+296,KA_Ramanagara,month,67065.0,67284.0
+297,KA_Shivamogga,month,89709.0,88187.0
+298,KA_Tumakuru,month,139609.0,158763.0
+299,KA_Udupi,month,82180.0,110502.0
+300,KA_Uttara Kannada,month,77191.0,78595.0
+301,KA_Vijayapura,month,97128.0,164316.0
+302,KA_Yadgir,month,48143.0,61619.0
+303,KL_Alappuzha,month,126055.0,223370.0
+304,KL_Ernakulam,month,294208.0,510969.0
+305,KL_Idukki,month,82417.0,175670.0
+306,KL_Kannur,month,150054.0,270115.0
+307,KL_Kasaragod,month,84364.0,121175.0
+308,KL_Kollam,month,164709.0,294402.0
+309,KL_Kottayam,month,135192.0,251017.0
+310,KL_Kozhikode,month,193149.0,312939.0
+311,KL_Malappuram,month,177231.0,264601.0
+312,KL_Palakkad,month,152659.0,343009.0
+313,KL_Pathanamthitta,month,115336.0,209420.0
+314,KL_Thiruvananthapuram,month,249362.0,395576.0
+315,KL_Thrissur,month,199195.0,417137.0
+316,KL_Wayanad,month,78239.0,173039.0
+317,LA_Kargil,month,11781.0,3852.0
+318,LA_Leh,month,15136.0,4317.0
+319,LD_Lakshadweep,month,7263.0,3021.0
+320,MH_Ahmednagar,month,137630.0,174131.0
+321,MH_Akola,month,60411.0,49241.0
+322,MH_Amravati,month,94902.0,129878.0
+323,MH_Beed,month,84035.0,111309.0
+324,MH_Bhandara,month,59264.0,70988.0
+325,MH_Buldhana,month,90266.0,128998.0
+326,MH_Chandrapur,month,79965.0,127391.0
+327,MH_Dhule,month,74261.0,100461.0
+328,MH_Gadchiroli,month,40013.0,38573.0
+329,MH_Gondia,month,76477.0,120292.0
+330,MH_Hingoli,month,33893.0,43462.0
+331,MH_Jalgaon,month,115218.0,133214.0
+332,MH_Jalna,month,72244.0,79407.0
+333,MH_Kolhapur,month,176912.0,167626.0
+334,MH_Latur,month,85110.0,110280.0
+335,MH_Mumbai,month,834778.0,1024698.0
+336,MH_Nagpur,month,271004.0,480489.0
+337,MH_Nanded,month,93929.0,143632.0
+338,MH_Nandurbar,month,59904.0,47219.0
+339,MH_Nashik,month,211085.0,272203.0
+340,MH_Osmanabad,month,52087.0,46863.0
+341,MH_Palghar,month,80844.0,81607.0
+342,MH_Parbhani,month,61076.0,65536.0
+343,MH_Pune,month,696032.0,879897.0
+344,MH_Raigad,month,101932.0,117164.0
+345,MH_Ratnagiri,month,57642.0,52678.0
+346,MH_Sangli,month,133399.0,172364.0
+347,MH_Satara,month,138081.0,156616.0
+348,MH_Sindhudurg,month,41484.0,45155.0
+349,MH_Solapur,month,111604.0,172733.0
+350,MH_Thane,month,393311.0,526432.0
+351,MH_Wardha,month,60933.0,96791.0
+352,MH_Washim,month,54035.0,70183.0
+353,MH_Yavatmal,month,92075.0,114959.0
+354,ML_East Garo Hills,month,5110.0,11471.0
+355,ML_East Jaintia Hills,month,7251.0,18557.0
+356,ML_East Khasi Hills,month,40158.0,42755.0
+357,ML_North Garo Hills,month,6768.0,22230.0
+358,ML_Ribhoi,month,10977.0,18638.0
+359,ML_South Garo Hills,month,4247.0,8623.0
+360,ML_South West Garo Hills,month,8544.0,16192.0
+361,ML_South West Khasi Hills,month,4165.0,7461.0
+362,ML_West Garo Hills,month,26197.0,45250.0
+363,ML_West Jaintia Hills,month,10632.0,22469.0
+364,ML_West Khasi Hills,month,9144.0,12964.0
+365,MN_Bishnupur,month,16635.0,53315.0
+366,MN_Chandel,month,3503.0,7445.0
+367,MN_Churachandpur,month,13852.0,30900.0
+368,MN_Imphal East,month,33793.0,72725.0
+369,MN_Imphal West,month,41105.0,86203.0
+370,MN_Jiribam,month,3476.0,9200.0
+371,MN_Kakching,month,10671.0,26520.0
+372,MN_Kamjong,month,1355.0,3521.0
+373,MN_Kangpokpi,month,5027.0,12842.0
+374,MN_Noney,month,2260.0,6186.0
+375,MN_Pherzawl,month,1478.0,2858.0
+376,MN_Senapati,month,3547.0,9041.0
+377,MN_Tamenglong,month,2464.0,5039.0
+378,MN_Tengnoupal,month,3223.0,7347.0
+379,MN_Thoubal,month,19386.0,42155.0
+380,MN_Ukhrul,month,2617.0,5056.0
+381,MP_Agar Malwa,month,32892.0,107911.0
+382,MP_Alirajpur,month,32595.0,76621.0
+383,MP_Anuppur,month,39134.0,115560.0
+384,MP_Ashoknagar,month,41436.0,109470.0
+385,MP_Balaghat,month,87632.0,216745.0
+386,MP_Barwani,month,60271.0,187700.0
+387,MP_Betul,month,88897.0,261848.0
+388,MP_Bhind,month,76509.0,214890.0
+389,MP_Bhopal,month,226681.0,273615.0
+390,MP_Burhanpur,month,42563.0,85912.0
+391,MP_Chhatarpur,month,82485.0,245371.0
+392,MP_Chhindwara,month,104459.0,332485.0
+393,MP_Damoh,month,63247.0,222951.0
+394,MP_Datia,month,44522.0,116052.0
+395,MP_Dewas,month,89471.0,187581.0
+396,MP_Dhar,month,106348.0,287388.0
+397,MP_Dindori,month,39395.0,113173.0
+398,MP_Guna,month,61977.0,172446.0
+399,MP_Gwalior,month,140644.0,236768.0
+400,MP_Harda,month,46769.0,193149.0
+401,MP_Hoshangabad,month,66280.0,169452.0
+402,MP_Indore,month,360734.0,330500.0
+403,MP_Jabalpur,month,175130.0,240565.0
+404,MP_Jhabua,month,46110.0,151305.0
+405,MP_Katni,month,63321.0,161452.0
+406,MP_Khandwa,month,75847.0,216562.0
+407,MP_Khargone,month,90172.0,288166.0
+408,MP_Mandla,month,49404.0,139107.0
+409,MP_Mandsaur,month,69211.0,199670.0
+410,MP_Morena,month,91419.0,260224.0
+411,MP_Narsinghpur,month,60809.0,188084.0
+412,MP_Neemuch,month,49331.0,132216.0
+413,MP_Panna,month,48926.0,174217.0
+414,MP_Raisen,month,67962.0,140554.0
+415,MP_Rajgarh,month,89167.0,189527.0
+416,MP_Ratlam,month,83352.0,237211.0
+417,MP_Rewa,month,117332.0,247135.0
+418,MP_Sagar,month,135401.0,269181.0
+419,MP_Satna,month,98521.0,289715.0
+420,MP_Sehore,month,93173.0,186854.0
+421,MP_Seoni,month,69145.0,204093.0
+422,MP_Shahdol,month,70424.0,85222.0
+423,MP_Shajapur,month,53638.0,168132.0
+424,MP_Sheopur,month,27449.0,44738.0
+425,MP_Shivpuri,month,77519.0,154247.0
+426,MP_Sidhi,month,50503.0,156123.0
+427,MP_Singrauli,month,54245.0,139619.0
+428,MP_Tikamgarh,month,67601.0,203144.0
+429,MP_Ujjain,month,152198.0,253052.0
+430,MP_Umaria,month,33010.0,91926.0
+431,MP_Vidisha,month,76453.0,186000.0
+432,MZ_Aizawl,month,25517.0,14456.0
+434,MZ_Kolasib,month,6287.0,4116.0
+435,MZ_Lawngtlai,month,5479.0,9120.0
+436,MZ_Lunglei,month,12337.0,12411.0
+437,MZ_Mamit,month,5917.0,5329.0
+438,MZ_Serchhip,month,5796.0,2275.0
+439,NL_Dimapur,month,32057.0,56103.0
+440,NL_Kiphire,month,1741.0,3324.0
+441,NL_Kohima,month,13751.0,14200.0
+442,NL_Longleng,month,2802.0,1376.0
+443,NL_Mokokchung,month,9234.0,11918.0
+444,NL_Mon,month,9115.0,15595.0
+445,NL_Peren,month,2466.0,2468.0
+446,NL_Phek,month,4170.0,3650.0
+447,NL_Tuensang,month,4932.0,9817.0
+448,NL_Wokha,month,4595.0,4883.0
+449,OR_Angul,month,49009.0,69281.0
+450,OR_Balangir,month,66202.0,180007.0
+451,OR_Balasore,month,89810.0,96643.0
+452,OR_Bargarh,month,55311.0,79559.0
+453,OR_Bhadrak,month,67946.0,136234.0
+454,OR_Boudh,month,17021.0,31056.0
+455,OR_Cuttack,month,125653.0,116475.0
+456,OR_Deogarh,month,14101.0,27834.0
+457,OR_Dhenkanal,month,53147.0,96661.0
+458,OR_Gajapati,month,25968.0,40770.0
+459,OR_Ganjam,month,214678.0,355988.0
+460,OR_Jagatsinghpur,month,42029.0,58725.0
+461,OR_Jajpur,month,68275.0,121699.0
+462,OR_Jharsuguda,month,32965.0,58301.0
+463,OR_Kalahandi,month,58223.0,91882.0
+464,OR_Kandhamal,month,29580.0,41072.0
+465,OR_Kendrapara,month,62819.0,114119.0
+466,OR_Kendujhar,month,72152.0,141436.0
+467,OR_Khordha,month,203495.0,174419.0
+468,OR_Koraput,month,67091.0,120331.0
+469,OR_Malkangiri,month,23544.0,40464.0
+470,OR_Mayurbhanj,month,85903.0,152618.0
+471,OR_Nabarangapur,month,41624.0,80414.0
+472,OR_Nayagarh,month,40003.0,72756.0
+473,OR_Nuapada,month,32462.0,94189.0
+474,OR_Puri,month,88301.0,124165.0
+475,OR_Rayagada,month,40248.0,76459.0
+476,OR_Sambalpur,month,72698.0,84470.0
+477,OR_Subarnapur,month,29727.0,74902.0
+478,OR_Sundargarh,month,90552.0,91222.0
+479,PB_Amritsar,month,83452.0,132773.0
+480,PB_Barnala,month,18270.0,29975.0
+481,PB_Bathinda,month,40576.0,70636.0
+482,PB_Faridkot,month,21491.0,32572.0
+483,PB_Fatehgarh Sahib,month,25922.0,58165.0
+484,PB_Fazilka,month,25661.0,47840.0
+485,PB_Ferozepur,month,23439.0,34699.0
+486,PB_Gurdaspur,month,69007.0,111393.0
+487,PB_Hoshiarpur,month,99719.0,186077.0
+488,PB_Jalandhar,month,107417.0,148961.0
+489,PB_Kapurthala,month,30548.0,51211.0
+490,PB_Ludhiana,month,163018.0,287475.0
+491,PB_Mansa,month,17963.0,31758.0
+492,PB_Moga,month,31320.0,51160.0
+493,PB_Pathankot,month,35872.0,55273.0
+494,PB_Patiala,month,75751.0,164906.0
+495,PB_Rupnagar,month,30171.0,55504.0
+496,PB_S.A.S. Nagar,month,88531.0,76636.0
+497,PB_Sangrur,month,40482.0,75223.0
+498,PB_Shahid Bhagat Singh Nagar,month,27991.0,35960.0
+499,PB_Sri Muktsar Sahib,month,32441.0,59971.0
+500,PB_Tarn Taran,month,33932.0,60031.0
+501,PY_Karaikal,month,12813.0,21359.0
+502,PY_Mahe,month,4324.0,4232.0
+503,PY_Puducherry,month,64425.0,90396.0
+504,PY_Yanam,month,3617.0,6393.0
+505,RJ_Ajmer,month,170830.0,228803.0
+506,RJ_Alwar,month,195955.0,132449.0
+507,RJ_Banswara,month,98505.0,182413.0
+508,RJ_Baran,month,65544.0,109262.0
+509,RJ_Barmer,month,137386.0,175432.0
+510,RJ_Bharatpur,month,130973.0,223412.0
+511,RJ_Bhilwara,month,127579.0,115101.0
+512,RJ_Bikaner,month,135037.0,129123.0
+513,RJ_Bundi,month,67593.0,87623.0
+514,RJ_Chittorgarh,month,87735.0,114653.0
+515,RJ_Churu,month,104871.0,188174.0
+516,RJ_Dausa,month,91237.0,194321.0
+517,RJ_Dholpur,month,67021.0,87191.0
+518,RJ_Dungarpur,month,73000.0,144719.0
+519,RJ_Ganganagar,month,94536.0,100934.0
+520,RJ_Hanumangarh,month,99977.0,179079.0
+521,RJ_Jaipur,month,162857.0,171785.0
+523,RJ_Jaisalmer,month,37465.0,49031.0
+524,RJ_Jalore,month,93673.0,183044.0
+525,RJ_Jhalawar,month,81774.0,137300.0
+526,RJ_Jhunjhunu,month,122771.0,165541.0
+527,RJ_Jodhpur,month,197953.0,209906.0
+528,RJ_Karauli,month,80176.0,137207.0
+529,RJ_Kota,month,117341.0,145489.0
+530,RJ_Nagaur,month,181485.0,197077.0
+531,RJ_Pali,month,105897.0,117612.0
+532,RJ_Rajsamand,month,66887.0,111019.0
+533,RJ_Sawai Madhopur,month,71374.0,102127.0
+534,RJ_Sikar,month,154371.0,195254.0
+535,RJ_Sirohi,month,58544.0,101375.0
+536,RJ_Tonk,month,81443.0,124891.0
+537,RJ_Udaipur,month,162267.0,234835.0
+538,SK_East Sikkim,month,35738.0,43119.0
+539,SK_North Sikkim,month,4524.0,1151.0
+540,SK_South Sikkim,month,16610.0,8245.0
+541,SK_West Sikkim,month,14150.0,4222.0
+542,TG_Adilabad,month,14294.0,12795.0
+543,TG_Bhadradri Kothagudem,month,36613.0,38917.0
+544,TG_Hyderabad,month,352994.0,170967.0
+545,TG_Jagtial,month,28926.0,7649.0
+546,TG_Jangaon,month,14519.0,7314.0
+547,TG_Jayashankar Bhupalapally,month,19116.0,25704.0
+548,TG_Jogulamba Gadwal,month,11515.0,10313.0
+549,TG_Kamareddy,month,31052.0,11630.0
+550,TG_Karimnagar,month,52407.0,42432.0
+551,TG_Khammam,month,54700.0,70695.0
+552,TG_Komaram Bheem,month,9963.0,6938.0
+553,TG_Mahabubabad,month,26264.0,11862.0
+554,TG_Mahabubnagar,month,22520.0,12081.0
+555,TG_Mancherial,month,28822.0,32092.0
+556,TG_Medak,month,24648.0,16399.0
+557,TG_Medchal Malkajgiri,month,214016.0,191662.0
+558,TG_Mulugu,month,13165.0,14832.0
+559,TG_Nagarkurnool,month,20254.0,11177.0
+560,TG_Nalgonda,month,46255.0,66463.0
+561,TG_Narayanpet,month,8621.0,10425.0
+562,TG_Nirmal,month,23528.0,9897.0
+563,TG_Nizamabad,month,41248.0,15466.0
+564,TG_Peddapalli,month,38313.0,42874.0
+565,TG_Rajanna Sircilla,month,21780.0,6937.0
+566,TG_Ranga Reddy,month,222928.0,182466.0
+567,TG_Sangareddy,month,48026.0,31767.0
+568,TG_Siddipet,month,41942.0,16554.0
+569,TG_Suryapet,month,35179.0,40661.0
+570,TG_Vikarabad,month,17028.0,14370.0
+571,TG_Wanaparthy,month,12732.0,8461.0
+572,TG_Warangal Rural,month,19294.0,24220.0
+573,TG_Warangal Urban,month,67802.0,56995.0
+574,TG_Yadadri Bhuvanagiri,month,35127.0,13305.0
+575,TN_Ariyalur,month,24996.0,44907.0
+576,TN_Chengalpattu,month,98766.0,173106.0
+577,TN_Chennai,month,437858.0,598049.0
+578,TN_Coimbatore,month,206606.0,430818.0
+579,TN_Cuddalore,month,76519.0,174786.0
+580,TN_Dharmapuri,month,56254.0,144683.0
+581,TN_Dindigul,month,34356.0,92197.0
+583,TN_Erode,month,96546.0,245230.0
+584,TN_Kallakurichi,month,42415.0,109399.0
+585,TN_Kancheepuram,month,40775.0,83467.0
+586,TN_Kanyakumari,month,72844.0,178304.0
+587,TN_Karur,month,41998.0,93208.0
+588,TN_Krishnagiri,month,80810.0,177749.0
+589,TN_Madurai,month,107133.0,203284.0
+590,TN_Nagapattinam,month,52717.0,128071.0
+591,TN_Namakkal,month,72657.0,157244.0
+592,TN_Nilgiris,month,52942.0,104336.0
+593,TN_Perambalur,month,23550.0,52176.0
+594,TN_Pudukkottai,month,25142.0,61249.0
+596,TN_Ramanathapuram,month,26442.0,64198.0
+598,TN_Ranipet,month,33375.0,60186.0
+599,TN_Salem,month,98086.0,210540.0
+601,TN_Sivaganga,month,48681.0,125043.0
+602,TN_Tenkasi,month,42861.0,100503.0
+603,TN_Thanjavur,month,79825.0,179836.0
+604,TN_Theni,month,43730.0,92179.0
+605,TN_Thiruvallur,month,29832.0,69538.0
+607,TN_Thiruvarur,month,44500.0,105922.0
+608,TN_Thoothukkudi,month,26835.0,60675.0
+610,TN_Tiruchirappalli,month,107599.0,212078.0
+611,TN_Tirunelveli,month,49969.0,97538.0
+612,TN_Tirupathur,month,37505.0,68203.0
+613,TN_Tiruppur,month,102749.0,267974.0
+614,TN_Tiruvannamalai,month,31958.0,95401.0
+616,TN_Vellore,month,54681.0,88580.0
+617,TN_Viluppuram,month,58865.0,142598.0
+618,TN_Virudhunagar,month,43173.0,90750.0
+620,TR_Dhalai,month,35314.0,42521.0
+621,TR_Gomati,month,37445.0,46463.0
+622,TR_Khowai,month,26001.0,42786.0
+623,TR_North Tripura,month,38830.0,20646.0
+624,TR_Sipahijala,month,46150.0,60497.0
+625,TR_South Tripura,month,42388.0,19757.0
+626,TR_Unokoti,month,23931.0,38611.0
+627,TR_West Tripura,month,93541.0,90740.0
+628,UP_Agra,month,158045.0,302575.0
+629,UP_Aligarh,month,105452.0,214492.0
+630,UP_Ambedkar Nagar,month,66773.0,166886.0
+631,UP_Amethi,month,63056.0,158733.0
+632,UP_Amroha,month,52536.0,124702.0
+633,UP_Auraiya,month,39696.0,107884.0
+634,UP_Ayodhya,month,76030.0,154880.0
+635,UP_Azamgarh,month,134972.0,314963.0
+636,UP_Baghpat,month,65240.0,114150.0
+637,UP_Bahraich,month,128080.0,283833.0
+638,UP_Ballia,month,69088.0,176900.0
+639,UP_Banda,month,55162.0,130915.0
+640,UP_Barabanki,month,102634.0,225348.0
+641,UP_Bareilly,month,143200.0,262283.0
+642,UP_Basti,month,90835.0,195226.0
+643,UP_Bhadohi,month,51493.0,110741.0
+644,UP_Bijnor,month,114967.0,261241.0
+645,UP_Budaun,month,69906.0,168596.0
+646,UP_Bulandshahr,month,139139.0,298111.0
+647,UP_Chandauli,month,54508.0,139674.0
+648,UP_Chitrakoot,month,34158.0,96245.0
+649,UP_Deoria,month,83342.0,182192.0
+650,UP_Etah,month,45588.0,120102.0
+651,UP_Etawah,month,48551.0,117029.0
+652,UP_Farrukhabad,month,50394.0,131030.0
+653,UP_Fatehpur,month,75729.0,227706.0
+654,UP_Firozabad,month,70614.0,179339.0
+655,UP_Gautam Buddha Nagar,month,199640.0,265676.0
+656,UP_Ghaziabad,month,186789.0,342632.0
+657,UP_Ghazipur,month,109009.0,273212.0
+658,UP_Gonda,month,135288.0,300846.0
+659,UP_Gorakhpur,month,168345.0,318281.0
+660,UP_Hamirpur,month,43045.0,95206.0
+661,UP_Hapur,month,48102.0,102507.0
+662,UP_Hardoi,month,109376.0,299459.0
+663,UP_Hathras,month,50318.0,114880.0
+664,UP_Jalaun,month,57637.0,115005.0
+665,UP_Jaunpur,month,125431.0,322150.0
+666,UP_Jhansi,month,74788.0,156861.0
+667,UP_Kannauj,month,51198.0,134918.0
+668,UP_Kanpur Dehat,month,52188.0,134052.0
+669,UP_Kanpur Nagar,month,153517.0,247836.0
+670,UP_Kasganj,month,37775.0,108670.0
+671,UP_Kaushambi,month,39473.0,103101.0
+672,UP_Kushinagar,month,89736.0,228207.0
+673,UP_Lakhimpur Kheri,month,96785.0,237858.0
+674,UP_Lalitpur,month,38283.0,100206.0
+675,UP_Lucknow,month,232616.0,382593.0
+676,UP_Maharajganj,month,68294.0,151960.0
+677,UP_Mahoba,month,41381.0,99961.0
+678,UP_Mainpuri,month,48890.0,133417.0
+679,UP_Mathura,month,96671.0,164197.0
+680,UP_Mau,month,57175.0,155813.0
+681,UP_Meerut,month,164889.0,278542.0
+682,UP_Mirzapur,month,94724.0,197345.0
+683,UP_Moradabad,month,91953.0,171637.0
+684,UP_Muzaffarnagar,month,93530.0,191902.0
+685,UP_Pilibhit,month,62939.0,140345.0
+686,UP_Pratapgarh,month,73436.0,202678.0
+687,UP_Prayagraj,month,157708.0,321072.0
+688,UP_Rae Bareli,month,65073.0,180046.0
+689,UP_Rampur,month,52647.0,137819.0
+690,UP_Saharanpur,month,129996.0,221152.0
+691,UP_Sambhal,month,49202.0,144571.0
+692,UP_Sant Kabir Nagar,month,40511.0,105525.0
+693,UP_Shahjahanpur,month,81684.0,170174.0
+694,UP_Shamli,month,42606.0,92056.0
+695,UP_Shrawasti,month,43959.0,100578.0
+696,UP_Siddharthnagar,month,97829.0,215754.0
+697,UP_Sitapur,month,99628.0,272958.0
+698,UP_Sonbhadra,month,45023.0,101262.0
+699,UP_Sultanpur,month,66569.0,142333.0
+700,UP_Unnao,month,78854.0,202935.0
+701,UP_Varanasi,month,150261.0,269975.0
+702,UT_Almora,month,43331.0,64573.0
+703,UT_Bageshwar,month,24923.0,28673.0
+704,UT_Chamoli,month,33123.0,46918.0
+705,UT_Champawat,month,23679.0,30386.0
+706,UT_Dehradun,month,134777.0,208092.0
+707,UT_Haridwar,month,113892.0,194614.0
+708,UT_Nainital,month,75158.0,106783.0
+709,UT_Pauri Garhwal,month,44252.0,67872.0
+710,UT_Pithoragarh,month,33053.0,47643.0
+711,UT_Rudraprayag,month,22868.0,23485.0
+712,UT_Tehri Garhwal,month,41010.0,68170.0
+713,UT_Udham Singh Nagar,month,98632.0,222753.0
+714,UT_Uttarkashi,month,28849.0,31307.0
+715,WB_Alipurduar,month,54344.0,92356.0
+716,WB_Bankura,month,34842.0,70779.0
+718,WB_Birbhum,month,82109.0,154900.0
+720,WB_Cooch Behar,month,66045.0,82067.0
+721,WB_Dakshin Dinajpur,month,52728.0,61995.0
+722,WB_Darjeeling,month,102267.0,191369.0
+723,WB_Hooghly,month,188300.0,314049.0
+724,WB_Howrah,month,173677.0,278044.0
+725,WB_Jalpaiguri,month,66901.0,136894.0
+726,WB_Jhargram,month,32678.0,55932.0
+727,WB_Kalimpong,month,19530.0,29785.0
+728,WB_Kolkata,month,510652.0,761727.0
+729,WB_Malda,month,95565.0,142543.0
+730,WB_Murshidabad,month,155822.0,274699.0
+731,WB_Nadia,month,131776.0,210165.0
+732,WB_North 24 Parganas,month,67813.0,90768.0
+734,WB_Paschim Bardhaman,month,103067.0,192637.0
+735,WB_Paschim Medinipur,month,126752.0,180731.0
+736,WB_Purba Bardhaman,month,123526.0,125730.0
+737,WB_Purba Medinipur,month,84439.0,134488.0
+739,WB_Purulia,month,75544.0,140022.0
+740,WB_South 24 Parganas,month,169389.0,279837.0
